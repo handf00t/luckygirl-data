@@ -1,0 +1,180 @@
+{
+  "date": "2026-08-16",
+  "version": 1,
+  "generatedAt": "2026-08-15T20:35:30.061Z",
+  "day": {
+    "animal": "monkey",
+    "branch": "申",
+    "headline": "A Monkey day — Rat and Dragon are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "dragon",
+      "score": 92,
+      "reasons": [
+        "Dragon and Monkey share a triad — strong alignment today"
+      ],
+      "luckyItem": "Cantaloupe",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "message": "Send the thing you drafted Friday — it still reads well."
+    },
+    {
+      "rank": 2,
+      "sign": "ox",
+      "score": 84,
+      "reasons": [
+        "Ox sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Weighted Eye Pillow",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "message": "Ask for it plainly today, before you rewrite the message again."
+    },
+    {
+      "rank": 3,
+      "sign": "dog",
+      "score": 76,
+      "reasons": [
+        "Dog sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Ramen Bowl",
+      "luckyColor": {
+        "name": "Yellow",
+        "hex": "#F0C419"
+      },
+      "message": "Commit to tonight out loud; let the group chat catch up."
+    },
+    {
+      "rank": 4,
+      "sign": "rabbit",
+      "score": 73,
+      "reasons": [
+        "Rabbit sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Horchata",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "message": "Say yes, wear the outfit already laid out, no second-guessing."
+    },
+    {
+      "rank": 5,
+      "sign": "tiger",
+      "score": 72,
+      "reasons": [
+        "Tiger opposes Monkey — a day to take slowly"
+      ],
+      "luckyItem": "Cold Brew",
+      "luckyColor": {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      "message": "Open the tab you've been avoiding, finish it, close everything else."
+    },
+    {
+      "rank": 6,
+      "sign": "rooster",
+      "score": 69,
+      "reasons": [
+        "Rooster sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Screen Cloth",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "message": "Tidy the edges — screen, inbox, that one corner of the desk."
+    },
+    {
+      "rank": 7,
+      "sign": "snake",
+      "score": 68,
+      "reasons": [
+        "Snake pairs with Monkey — a harmonious day"
+      ],
+      "luckyItem": "Okonomiyaki",
+      "luckyColor": {
+        "name": "Beige",
+        "hex": "#D9C7AE"
+      },
+      "message": "Make dinner at home instead of ordering for the third time."
+    },
+    {
+      "rank": 8,
+      "sign": "monkey",
+      "score": 65,
+      "reasons": [
+        "Monkey's own day — your energy runs high"
+      ],
+      "luckyItem": "Pineapple Chunk",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "message": "Pick one thing today and actually finish it."
+    },
+    {
+      "rank": 9,
+      "sign": "rat",
+      "score": 62,
+      "reasons": [
+        "Rat and Monkey share a triad — strong alignment today"
+      ],
+      "luckyItem": "Pita Chips",
+      "luckyColor": {
+        "name": "Teal",
+        "hex": "#2A6B6F"
+      },
+      "message": "Skip the class. Nobody's taking attendance, least of all you."
+    },
+    {
+      "rank": 10,
+      "sign": "horse",
+      "score": 51,
+      "reasons": [
+        "Horse sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Poke Bowl",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "message": "Eat lunch away from the laptop; reply to things later."
+    },
+    {
+      "rank": 11,
+      "sign": "pig",
+      "score": 50,
+      "reasons": [
+        "Pig sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Sewing Kit",
+      "luckyColor": {
+        "name": "Gray",
+        "hex": "#8A8A8A"
+      },
+      "message": "Stay in and fix the small thing you keep stepping over."
+    },
+    {
+      "rank": 12,
+      "sign": "goat",
+      "score": 40,
+      "reasons": [
+        "Goat sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Lasagna",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "message": "Cancel tonight. Something warm, something loud, phone face down."
+    }
+  ]
+}
