@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
   "version": 1,
-  "generatedAt": "2026-08-15T20:35:11.160Z",
+  "generatedAt": "2026-08-16T00:53:13.418Z",
   "day": {
     "animal": "goat",
     "branch": "未",
@@ -15,12 +15,13 @@
       "reasons": [
         "Horse pairs with Goat — a harmonious day"
       ],
-      "luckyItem": "Sweet Potato Fries",
+      "luckyItem": "Elbow Patch",
       "luckyColor": {
         "name": "Green",
         "hex": "#2E8B4F"
       },
-      "message": "Say yes to tonight before you talk yourself out of it."
+      "motif": "the walk after eating",
+      "message": "Leave the table and go loop the block, immediately."
     },
     {
       "rank": 2,
@@ -29,12 +30,13 @@
       "reasons": [
         "Goat's own day — your energy runs high"
       ],
-      "luckyItem": "Skipping Stone",
+      "luckyItem": "Claw Hammer",
       "luckyColor": {
         "name": "Lime",
         "hex": "#8BC34A"
       },
-      "message": "Make the plan yourself, the group chat will catch up."
+      "motif": "a mug that is yours",
+      "message": "Claim the mug. Everyone already knows it's yours."
     },
     {
       "rank": 3,
@@ -43,12 +45,13 @@
       "reasons": [
         "Monkey sits apart from Goat — the day is yours to steer"
       ],
-      "luckyItem": "Jasmine Tea",
+      "luckyItem": "Folding Stool",
       "luckyColor": {
         "name": "Coral",
         "hex": "#E96B5A"
       },
-      "message": "Ask for the thing plainly today, no long windup."
+      "motif": "the last slice nobody claims",
+      "message": "Nobody's taking it. Take it."
     },
     {
       "rank": 4,
@@ -57,12 +60,13 @@
       "reasons": [
         "Tiger sits apart from Goat — the day is yours to steer"
       ],
-      "luckyItem": "Muesli",
+      "luckyItem": "Boarding Card Holder",
       "luckyColor": {
         "name": "Peach",
         "hex": "#F5B78E"
       },
-      "message": "Wear the outfit you already laid out, no second-guessing."
+      "motif": "a dinner that took too long",
+      "message": "Three hours at that table was the point, not the delay."
     },
     {
       "rank": 5,
@@ -71,12 +75,13 @@
       "reasons": [
         "Pig and Goat share a triad — strong alignment today"
       ],
-      "luckyItem": "Onigiri",
+      "luckyItem": "Bottle Opener",
       "luckyColor": {
         "name": "Light Pink",
         "hex": "#F2B8CC"
       },
-      "message": "Handle the errand you keep sliding to tomorrow."
+      "motif": "the good idea written on a receipt",
+      "message": "That scribbled receipt idea deserves a real note today."
     },
     {
       "rank": 6,
@@ -85,12 +90,13 @@
       "reasons": [
         "Snake sits apart from Goat — the day is yours to steer"
       ],
-      "luckyItem": "Ruler",
+      "luckyItem": "Adjustable Spanner",
       "luckyColor": {
         "name": "Tan",
         "hex": "#C4A484"
       },
-      "message": "Close nine tabs, keep the two that actually matter."
+      "motif": "the Saturday with nothing booked",
+      "message": "Empty Saturday. Fill one hour, guard the rest."
     },
     {
       "rank": 7,
@@ -99,12 +105,13 @@
       "reasons": [
         "Rooster sits apart from Goat — the day is yours to steer"
       ],
-      "luckyItem": "Raspberries",
+      "luckyItem": "Currency Pouch",
       "luckyColor": {
         "name": "Charcoal",
         "hex": "#3A3A3A"
       },
-      "message": "Answer the message you left on read Tuesday."
+      "motif": "an appointment to reschedule",
+      "message": "Move the appointment now, not at 11pm tonight."
     },
     {
       "rank": 8,
@@ -113,12 +120,13 @@
       "reasons": [
         "Rat sits apart from Goat — the day is yours to steer"
       ],
-      "luckyItem": "Sourdough Slice",
+      "luckyItem": "Skipping Rope",
       "luckyColor": {
         "name": "Sky Blue",
         "hex": "#7EC0EE"
       },
-      "message": "Real lunch before the third iced anything."
+      "motif": "the second half of the day",
+      "message": "Morning was a warmup. The afternoon's where you land."
     },
     {
       "rank": 9,
@@ -127,12 +135,13 @@
       "reasons": [
         "Rabbit and Goat share a triad — strong alignment today"
       ],
-      "luckyItem": "Slide Sandals",
+      "luckyItem": "Match Striker",
       "luckyColor": {
         "name": "Blue",
         "hex": "#2F6FD0"
       },
-      "message": "Skip pilates, walk somewhere close and slow instead."
+      "motif": "a coat with something in the pocket",
+      "message": "Check the pockets before you hang it back up."
     },
     {
       "rank": 10,
@@ -141,12 +150,13 @@
       "reasons": [
         "Ox opposes Goat — a day to take slowly"
       ],
-      "luckyItem": "Banana",
+      "luckyItem": "Ribbed Bottle",
       "luckyColor": {
         "name": "Burgundy",
         "hex": "#6E1B2E"
       },
-      "message": "The couch counts as a destination today."
+      "motif": "a park with one good bench",
+      "message": "There's one good bench. Sit on it a while."
     },
     {
       "rank": 11,
@@ -155,12 +165,13 @@
       "reasons": [
         "Dog sits apart from Goat — the day is yours to steer"
       ],
-      "luckyItem": "Layered Chain",
+      "luckyItem": "Fresh Tulip",
       "luckyColor": {
         "name": "Lemon",
         "hex": "#F5E05A"
       },
-      "message": "Cancel the plans you're only sixty percent into."
+      "motif": "an instrument in its case",
+      "message": "The case can stay shut today, no guilt owed."
     },
     {
       "rank": 12,
@@ -169,12 +180,13 @@
       "reasons": [
         "Dragon sits apart from Goat — the day is yours to steer"
       ],
-      "luckyItem": "Eggplant Parmesan",
+      "luckyItem": "Knit Headband",
       "luckyColor": {
         "name": "Dark Green",
         "hex": "#1F5C36"
       },
-      "message": "Order in, leave your phone across the room."
+      "motif": "the choice you keep deferring",
+      "message": "Still not deciding? Fine. Tomorrow's you can handle it."
     }
   ]
 }
