@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-05",
+  "version": 1,
+  "generatedAt": "2026-08-16T01:14:32.530Z",
+  "day": {
+    "animal": "dragon",
+    "branch": "辰",
+    "headline": "A Dragon day — Rat and Monkey are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "rooster",
+      "score": 89,
+      "reasons": [
+        "Rooster pairs with Dragon — a harmonious day"
+      ],
+      "luckyItem": "Windbreaker",
+      "luckyColor": {
+        "name": "Coral",
+        "hex": "#E96B5A"
+      },
+      "motif": "a name you keep forgetting",
+      "message": "Ask them again what it is. Then use it immediately."
+    },
+    {
+      "rank": 2,
+      "sign": "monkey",
+      "score": 88,
+      "reasons": [
+        "Monkey and Dragon share a triad — strong alignment today"
+      ],
+      "luckyItem": "Perfume Vial",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "motif": "a repair worth doing",
+      "message": "That strap is fixable. Find someone who does that, today."
+    },
+    {
+      "rank": 3,
+      "sign": "horse",
+      "score": 75,
+      "reasons": [
+        "Horse sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Milk Jug",
+      "luckyColor": {
+        "name": "Denim Blue",
+        "hex": "#3F5C7A"
+      },
+      "motif": "the phone in bed",
+      "message": "Charge it in the kitchen tonight. Radical, works."
+    },
+    {
+      "rank": 4,
+      "sign": "rat",
+      "score": 74,
+      "reasons": [
+        "Rat and Dragon share a triad — strong alignment today"
+      ],
+      "luckyItem": "Paper Shade",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "the page you keep losing",
+      "message": "Dog-ear it, use a receipt, whatever. Quit hunting every night."
+    },
+    {
+      "rank": 5,
+      "sign": "dragon",
+      "score": 72,
+      "reasons": [
+        "Dragon's own day — your energy runs high"
+      ],
+      "luckyItem": "Canvas Tote",
+      "luckyColor": {
+        "name": "Red",
+        "hex": "#CC3333"
+      },
+      "motif": "an argument you nearly joined",
+      "message": "Your unsent take was correct. Keep it between us."
+    },
+    {
+      "rank": 6,
+      "sign": "tiger",
+      "score": 69,
+      "reasons": [
+        "Tiger sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Nail File",
+      "luckyColor": {
+        "name": "Gold",
+        "hex": "#D4A017"
+      },
+      "motif": "a documentary saved on a whim",
+      "message": "Ninety minutes about deep-sea crabs. Start it, bail if boring."
+    },
+    {
+      "rank": 7,
+      "sign": "snake",
+      "score": 69,
+      "reasons": [
+        "Snake sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Whiteboard Marker",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "a reservation for four",
+      "message": "Confirm the table, then check nobody quietly bailed on you."
+    },
+    {
+      "rank": 8,
+      "sign": "rabbit",
+      "score": 59,
+      "reasons": [
+        "Rabbit sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Marble",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "the choice you keep deferring",
+      "message": "Write both options down. The dumb one's obviously winning."
+    },
+    {
+      "rank": 9,
+      "sign": "goat",
+      "score": 53,
+      "reasons": [
+        "Goat sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Playing Card",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "someone you outgrew",
+      "message": "No need to explain the distance to anybody today."
+    },
+    {
+      "rank": 10,
+      "sign": "pig",
+      "score": 52,
+      "reasons": [
+        "Pig sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Nylon Backpack",
+      "luckyColor": {
+        "name": "Light Pink",
+        "hex": "#F2B8CC"
+      },
+      "motif": "an early night",
+      "message": "Pajamas at eight, lights off whenever. Nobody's checking."
+    },
+    {
+      "rank": 11,
+      "sign": "ox",
+      "score": 44,
+      "reasons": [
+        "Ox sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Cup Sleeve",
+      "luckyColor": {
+        "name": "Gray",
+        "hex": "#8A8A8A"
+      },
+      "motif": "someone asking how you really are",
+      "message": "Say fine for now. The long version keeps until later."
+    },
+    {
+      "rank": 12,
+      "sign": "dog",
+      "score": 42,
+      "reasons": [
+        "Dog opposes Dragon — a day to take slowly"
+      ],
+      "luckyItem": "Curling Wand",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "the shortcut you keep taking",
+      "message": "Take the long way, or just don't go out."
+    }
+  ]
+}

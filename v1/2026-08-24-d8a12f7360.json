@@ -1,0 +1,192 @@
+{
+  "date": "2026-08-24",
+  "version": 1,
+  "generatedAt": "2026-08-16T01:10:24.515Z",
+  "day": {
+    "animal": "dragon",
+    "branch": "辰",
+    "headline": "A Dragon day — Rat and Monkey are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "monkey",
+      "score": 95,
+      "reasons": [
+        "Monkey and Dragon share a triad — strong alignment today"
+      ],
+      "luckyItem": "Sketchbook",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "being tired in a specific way",
+      "message": "That specific fried feeling means talk to nobody until noon."
+    },
+    {
+      "rank": 2,
+      "sign": "dragon",
+      "score": 87,
+      "reasons": [
+        "Dragon's own day — your energy runs high"
+      ],
+      "luckyItem": "Shower Gel",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "motif": "posture at the end of the day",
+      "message": "Notice how you're sitting at 9pm. Sit up, whole day improves."
+    },
+    {
+      "rank": 3,
+      "sign": "ox",
+      "score": 84,
+      "reasons": [
+        "Ox sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Toothbrush Cup",
+      "luckyColor": {
+        "name": "Charcoal",
+        "hex": "#3A3A3A"
+      },
+      "motif": "something in the freezer since spring",
+      "message": "That mystery bag from March? Thaw it, eat it tonight."
+    },
+    {
+      "rank": 4,
+      "sign": "rat",
+      "score": 83,
+      "reasons": [
+        "Rat and Dragon share a triad — strong alignment today"
+      ],
+      "luckyItem": "Button Tin",
+      "luckyColor": {
+        "name": "Light Pink",
+        "hex": "#F2B8CC"
+      },
+      "motif": "the free thing with a catch",
+      "message": "Free, technically. Read the fine print, then take it anyway."
+    },
+    {
+      "rank": 5,
+      "sign": "goat",
+      "score": 80,
+      "reasons": [
+        "Goat sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Windbreaker",
+      "luckyColor": {
+        "name": "Mustard",
+        "hex": "#C9A227"
+      },
+      "motif": "a wardrobe out of season",
+      "message": "Half your closet is for weather that isn't happening. Swap it."
+    },
+    {
+      "rank": 6,
+      "sign": "tiger",
+      "score": 68,
+      "reasons": [
+        "Tiger sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Pickle Jar",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "a ringtone you never changed",
+      "message": "Default sound still startles you. Two minutes, pick a new one."
+    },
+    {
+      "rank": 7,
+      "sign": "pig",
+      "score": 60,
+      "reasons": [
+        "Pig sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "MagSafe Wallet",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "the washing up left until tomorrow",
+      "message": "Sink's waiting. Ten minutes now, or a worse morning."
+    },
+    {
+      "rank": 8,
+      "sign": "rabbit",
+      "score": 59,
+      "reasons": [
+        "Rabbit sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Woven Belt",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "the subtitle you needed",
+      "message": "You turned captions on and finally got it. Keep them on."
+    },
+    {
+      "rank": 9,
+      "sign": "snake",
+      "score": 58,
+      "reasons": [
+        "Snake sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Stud Earrings",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "motif": "the last one on the shelf",
+      "message": "One left on the shelf. Grab it, no deliberating."
+    },
+    {
+      "rank": 10,
+      "sign": "rooster",
+      "score": 57,
+      "reasons": [
+        "Rooster pairs with Dragon — a harmonious day"
+      ],
+      "luckyItem": "Hair Slide",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "the outfit already laid out",
+      "message": "Outfit's laid out and you don't want it. Wear sweats."
+    },
+    {
+      "rank": 11,
+      "sign": "horse",
+      "score": 43,
+      "reasons": [
+        "Horse sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Cufflinks",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "the charger fraying at one end",
+      "message": "Cord's splitting at the tip. Stop yanking it, order another."
+    },
+    {
+      "rank": 12,
+      "sign": "dog",
+      "score": 42,
+      "reasons": [
+        "Dog opposes Dragon — a day to take slowly"
+      ],
+      "luckyItem": "Shower Curtain",
+      "luckyColor": {
+        "name": "Lemon",
+        "hex": "#F5E05A"
+      },
+      "motif": "sun through a bus window",
+      "message": "Sit on the sunny side of the bus. Go nowhere fast."
+    }
+  ]
+}

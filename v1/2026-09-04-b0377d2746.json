@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-04",
+  "version": 1,
+  "generatedAt": "2026-08-16T01:13:32.832Z",
+  "day": {
+    "animal": "rabbit",
+    "branch": "卯",
+    "headline": "A Rabbit day — Goat and Pig are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "monkey",
+      "score": 96,
+      "reasons": [
+        "Monkey sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Shower Cap",
+      "luckyColor": {
+        "name": "Rust",
+        "hex": "#A8502F"
+      },
+      "motif": "a spreadsheet that needs one number",
+      "message": "One cell is blank. Fill it in, then send the file."
+    },
+    {
+      "rank": 2,
+      "sign": "dog",
+      "score": 91,
+      "reasons": [
+        "Dog pairs with Rabbit — a harmonious day"
+      ],
+      "luckyItem": "Sun Hat",
+      "luckyColor": {
+        "name": "Beige",
+        "hex": "#D9C7AE"
+      },
+      "motif": "an accessory in the drawer",
+      "message": "That thing buried in the drawer? On your wrist, now."
+    },
+    {
+      "rank": 3,
+      "sign": "rabbit",
+      "score": 78,
+      "reasons": [
+        "Rabbit's own day — your energy runs high"
+      ],
+      "luckyItem": "Tea Light",
+      "luckyColor": {
+        "name": "Yellow",
+        "hex": "#F0C419"
+      },
+      "motif": "the fridge shelf nobody cleans",
+      "message": "Pull everything out of the fridge. Ten minutes, weirdly satisfying."
+    },
+    {
+      "rank": 4,
+      "sign": "goat",
+      "score": 75,
+      "reasons": [
+        "Goat and Rabbit share a triad — strong alignment today"
+      ],
+      "luckyItem": "Foam Roller",
+      "luckyColor": {
+        "name": "Mustard",
+        "hex": "#C9A227"
+      },
+      "motif": "the version nobody asked for",
+      "message": "Nobody requested your remix. Make it anyway, show one person."
+    },
+    {
+      "rank": 5,
+      "sign": "tiger",
+      "score": 72,
+      "reasons": [
+        "Tiger sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Bath Oil",
+      "luckyColor": {
+        "name": "Salmon",
+        "hex": "#EE8A76"
+      },
+      "motif": "the safe option and the other one",
+      "message": "You already know which one's boring. Pick the other."
+    },
+    {
+      "rank": 6,
+      "sign": "horse",
+      "score": 69,
+      "reasons": [
+        "Horse sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Screen Protector",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "the introduction that went badly",
+      "message": "That intro was clumsy. Message them directly, start over clean."
+    },
+    {
+      "rank": 7,
+      "sign": "dragon",
+      "score": 66,
+      "reasons": [
+        "Dragon sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Ceramic Bowl",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "the thing said in front of everyone",
+      "message": "You said it loud in the room. Don't walk it back."
+    },
+    {
+      "rank": 8,
+      "sign": "rat",
+      "score": 57,
+      "reasons": [
+        "Rat sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Capsule Toy",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "someone recommending the same thing twice",
+      "message": "They've brought it up twice now. Save it, look later."
+    },
+    {
+      "rank": 9,
+      "sign": "ox",
+      "score": 56,
+      "reasons": [
+        "Ox sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Shoe Polish",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "a video watched twice",
+      "message": "Second watch didn't teach you more. Put your phone down."
+    },
+    {
+      "rank": 10,
+      "sign": "snake",
+      "score": 52,
+      "reasons": [
+        "Snake sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Egg Timer Sand",
+      "luckyColor": {
+        "name": "Violet",
+        "hex": "#6A4C93"
+      },
+      "motif": "an idea that needs one more piece",
+      "message": "Still missing a piece. It'll show up without you circling."
+    },
+    {
+      "rank": 11,
+      "sign": "pig",
+      "score": 48,
+      "reasons": [
+        "Pig and Rabbit share a triad — strong alignment today"
+      ],
+      "luckyItem": "Spinning Top",
+      "luckyColor": {
+        "name": "Lime",
+        "hex": "#8BC34A"
+      },
+      "motif": "dry cleaning left too long",
+      "message": "Those clothes have waited weeks. They'll wait through the weekend."
+    },
+    {
+      "rank": 12,
+      "sign": "rooster",
+      "score": 36,
+      "reasons": [
+        "Rooster opposes Rabbit — a day to take slowly"
+      ],
+      "luckyItem": "Hair Oil",
+      "luckyColor": {
+        "name": "Dark Green",
+        "hex": "#1F5C36"
+      },
+      "motif": "a return window closing",
+      "message": "The window shuts and honestly, keep it. Stay in."
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "date": "2026-08-29",
+  "version": 1,
+  "generatedAt": "2026-08-16T01:11:45.526Z",
+  "day": {
+    "animal": "rooster",
+    "branch": "酉",
+    "headline": "A Rooster day — Ox and Snake are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "ox",
+      "score": 94,
+      "reasons": [
+        "Ox and Rooster share a triad — strong alignment today"
+      ],
+      "luckyItem": "Cuticle Pusher",
+      "luckyColor": {
+        "name": "Rust",
+        "hex": "#A8502F"
+      },
+      "motif": "dry cleaning left too long",
+      "message": "That ticket's been in your bag since June. Collect today."
+    },
+    {
+      "rank": 2,
+      "sign": "tiger",
+      "score": 84,
+      "reasons": [
+        "Tiger sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Bell Charm",
+      "luckyColor": {
+        "name": "Beige",
+        "hex": "#D9C7AE"
+      },
+      "motif": "something you keep re-reading",
+      "message": "You've read it enough times. You already know. Respond."
+    },
+    {
+      "rank": 3,
+      "sign": "dog",
+      "score": 83,
+      "reasons": [
+        "Dog sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Colouring Book",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "a broken zip",
+      "message": "Take it to the tailor at lunch. Fifteen bucks, fixed."
+    },
+    {
+      "rank": 4,
+      "sign": "pig",
+      "score": 79,
+      "reasons": [
+        "Pig sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Reading Glasses",
+      "luckyColor": {
+        "name": "Pink",
+        "hex": "#E88BAE"
+      },
+      "motif": "sunglasses with one arm loose",
+      "message": "One tiny screw and they're perfect again. Do it now."
+    },
+    {
+      "rank": 5,
+      "sign": "monkey",
+      "score": 76,
+      "reasons": [
+        "Monkey sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Cotton Jar",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "the first proper frost",
+      "message": "Cold snap finally. Wear the coat you bought optimistically."
+    },
+    {
+      "rank": 6,
+      "sign": "horse",
+      "score": 74,
+      "reasons": [
+        "Horse sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Badge Reel",
+      "luckyColor": {
+        "name": "Purple",
+        "hex": "#7B3FA0"
+      },
+      "motif": "a podcast episode queued for weeks",
+      "message": "Press play on the walk. Six weeks is long enough."
+    },
+    {
+      "rank": 7,
+      "sign": "rooster",
+      "score": 65,
+      "reasons": [
+        "Rooster's own day — your energy runs high"
+      ],
+      "luckyItem": "Foam Roller",
+      "luckyColor": {
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
+      },
+      "motif": "a documentary saved on a whim",
+      "message": "Two hours about something niche. Tonight's fine for that."
+    },
+    {
+      "rank": 8,
+      "sign": "snake",
+      "score": 62,
+      "reasons": [
+        "Snake and Rooster share a triad — strong alignment today"
+      ],
+      "luckyItem": "Sleep Socks",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "an email opened and closed twice",
+      "message": "Third open, actually reply. Three lines, then archive it."
+    },
+    {
+      "rank": 9,
+      "sign": "dragon",
+      "score": 60,
+      "reasons": [
+        "Dragon pairs with Rooster — a harmonious day"
+      ],
+      "luckyItem": "Round Sunglasses",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "motif": "a headline that annoyed you",
+      "message": "That story got you once. Don't give it a second scroll."
+    },
+    {
+      "rank": 10,
+      "sign": "rat",
+      "score": 58,
+      "reasons": [
+        "Rat sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Key Hook",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "a question asked twice",
+      "message": "Somebody asked again. Short answer, no essay, move on."
+    },
+    {
+      "rank": 11,
+      "sign": "goat",
+      "score": 43,
+      "reasons": [
+        "Goat sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Lint Brush",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "a night of odd dreams",
+      "message": "Weird sleep. Don't decode it, just go easy today."
+    },
+    {
+      "rank": 12,
+      "sign": "rabbit",
+      "score": 41,
+      "reasons": [
+        "Rabbit opposes Rooster — a day to take slowly"
+      ],
+      "luckyItem": "Wavy Vase",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "the earrings that never match",
+      "message": "Nothing pairs. Bare ears and a slow evening in."
+    }
+  ]
+}

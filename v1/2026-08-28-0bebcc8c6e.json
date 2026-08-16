@@ -1,0 +1,192 @@
+{
+  "date": "2026-08-28",
+  "version": 1,
+  "generatedAt": "2026-08-16T01:11:37.591Z",
+  "day": {
+    "animal": "monkey",
+    "branch": "申",
+    "headline": "A Monkey day — Rat and Dragon are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "dragon",
+      "score": 99,
+      "reasons": [
+        "Dragon and Monkey share a triad — strong alignment today"
+      ],
+      "luckyItem": "Cable Pouch",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "a lunch brought and forgotten",
+      "message": "Your lunch is still on the counter. Go back, grab it."
+    },
+    {
+      "rank": 2,
+      "sign": "monkey",
+      "score": 93,
+      "reasons": [
+        "Monkey's own day — your energy runs high"
+      ],
+      "luckyItem": "Phone Wallet",
+      "luckyColor": {
+        "name": "Violet",
+        "hex": "#6A4C93"
+      },
+      "motif": "someone who owes you nothing",
+      "message": "They don't owe you a thing. Ask anyway, today."
+    },
+    {
+      "rank": 3,
+      "sign": "ox",
+      "score": 89,
+      "reasons": [
+        "Ox sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Trench Coat",
+      "luckyColor": {
+        "name": "Green",
+        "hex": "#2E8B4F"
+      },
+      "motif": "a voice hoarse from talking",
+      "message": "Voice is shot from talking. Keep going, you're on something."
+    },
+    {
+      "rank": 4,
+      "sign": "pig",
+      "score": 86,
+      "reasons": [
+        "Pig sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Hand Blender",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "the person you owe an answer",
+      "message": "You know who's waiting on you. Answer before your matcha's gone."
+    },
+    {
+      "rank": 5,
+      "sign": "snake",
+      "score": 83,
+      "reasons": [
+        "Snake pairs with Monkey — a harmonious day"
+      ],
+      "luckyItem": "Bus Pass",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "an argument you nearly joined",
+      "message": "You almost typed into that thread. Staying out was the move."
+    },
+    {
+      "rank": 6,
+      "sign": "goat",
+      "score": 75,
+      "reasons": [
+        "Goat sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Bread Bin",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "a fix that held",
+      "message": "The thing you taped up is holding. Leave it alone."
+    },
+    {
+      "rank": 7,
+      "sign": "rat",
+      "score": 68,
+      "reasons": [
+        "Rat and Monkey share a triad — strong alignment today"
+      ],
+      "luckyItem": "Bucket Bag",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "the umbrella that survived",
+      "message": "That cheap umbrella made it. Put it back in your bag."
+    },
+    {
+      "rank": 8,
+      "sign": "horse",
+      "score": 65,
+      "reasons": [
+        "Horse sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Leg Warmers",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "hair doing something new",
+      "message": "Your hair's doing something weird and good. Don't fight it."
+    },
+    {
+      "rank": 9,
+      "sign": "rabbit",
+      "score": 54,
+      "reasons": [
+        "Rabbit sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Embroidery Hoop",
+      "luckyColor": {
+        "name": "Mustard",
+        "hex": "#C9A227"
+      },
+      "motif": "a takeaway menu memorised",
+      "message": "You know the menu by heart. Order it, stay horizontal."
+    },
+    {
+      "rank": 10,
+      "sign": "rooster",
+      "score": 54,
+      "reasons": [
+        "Rooster sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Foot File",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "the thing you said you would look up",
+      "message": "That thing you meant to google keeps until tomorrow."
+    },
+    {
+      "rank": 11,
+      "sign": "tiger",
+      "score": 49,
+      "reasons": [
+        "Tiger opposes Monkey — a day to take slowly"
+      ],
+      "luckyItem": "Trivet",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "the language app on a nine-day streak",
+      "message": "Nine days of vocabulary. Miss tonight, nothing collapses."
+    },
+    {
+      "rank": 12,
+      "sign": "dog",
+      "score": 38,
+      "reasons": [
+        "Dog sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Document Wallet",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "motif": "the place with one thing worth ordering",
+      "message": "One dish there is good. Not worth leaving the couch."
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-15",
+  "version": 1,
+  "generatedAt": "2026-08-16T01:17:29.866Z",
+  "day": {
+    "animal": "tiger",
+    "branch": "寅",
+    "headline": "A Tiger day — Horse and Dog are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "horse",
+      "score": 98,
+      "reasons": [
+        "Horse and Tiger share a triad — strong alignment today"
+      ],
+      "luckyItem": "Shoe Rack",
+      "luckyColor": {
+        "name": "Charcoal",
+        "hex": "#3A3A3A"
+      },
+      "motif": "the class you keep rescheduling",
+      "message": "Stop moving it. Book today's slot and actually walk in."
+    },
+    {
+      "rank": 2,
+      "sign": "goat",
+      "score": 84,
+      "reasons": [
+        "Goat sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Guitar Pick",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "an app you pay for monthly",
+      "message": "You love that subscription. Use every feature you're paying for today."
+    },
+    {
+      "rank": 3,
+      "sign": "dog",
+      "score": 81,
+      "reasons": [
+        "Dog and Tiger share a triad — strong alignment today"
+      ],
+      "luckyItem": "Bento Box",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "motif": "an early train",
+      "message": "Set the alarm for the 6am. Early you wins."
+    },
+    {
+      "rank": 4,
+      "sign": "ox",
+      "score": 79,
+      "reasons": [
+        "Ox sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Body Oil",
+      "luckyColor": {
+        "name": "Salmon",
+        "hex": "#EE8A76"
+      },
+      "motif": "a class you have not been to yet",
+      "message": "New studio, first session, today. Show up unbothered by strangers."
+    },
+    {
+      "rank": 5,
+      "sign": "snake",
+      "score": 76,
+      "reasons": [
+        "Snake sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Wall Hook",
+      "luckyColor": {
+        "name": "Pink",
+        "hex": "#E88BAE"
+      },
+      "motif": "the good knife nobody else uses",
+      "message": "Use the sharp one tonight. It's yours, that's the point."
+    },
+    {
+      "rank": 6,
+      "sign": "rooster",
+      "score": 74,
+      "reasons": [
+        "Rooster sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Tourist Map",
+      "luckyColor": {
+        "name": "Mint",
+        "hex": "#9FD9BE"
+      },
+      "motif": "a question you never looked up",
+      "message": "Look it up properly. Two minutes ends months of guessing."
+    },
+    {
+      "rank": 7,
+      "sign": "monkey",
+      "score": 72,
+      "reasons": [
+        "Monkey opposes Tiger — a day to take slowly"
+      ],
+      "luckyItem": "White Noise Machine",
+      "luckyColor": {
+        "name": "Light Pink",
+        "hex": "#F2B8CC"
+      },
+      "motif": "someone calling at nine",
+      "message": "Nine o'clock call. Pick up, talk until your phone's hot."
+    },
+    {
+      "rank": 8,
+      "sign": "rabbit",
+      "score": 70,
+      "reasons": [
+        "Rabbit sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Cargo Pants",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "the mirror on the way out",
+      "message": "One glance at the door. That's a full check, go."
+    },
+    {
+      "rank": 9,
+      "sign": "pig",
+      "score": 59,
+      "reasons": [
+        "Pig pairs with Tiger — a harmonious day"
+      ],
+      "luckyItem": "Compass Set",
+      "luckyColor": {
+        "name": "Silver",
+        "hex": "#C0C0C0"
+      },
+      "motif": "an inbox at four figures",
+      "message": "Thousands unread, still zero emergencies. Archive a handful, walk away."
+    },
+    {
+      "rank": 10,
+      "sign": "rat",
+      "score": 47,
+      "reasons": [
+        "Rat sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Jewellery Roll",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "the queue before eight",
+      "message": "That line before eight isn't happening. Coffee at home instead."
+    },
+    {
+      "rank": 11,
+      "sign": "dragon",
+      "score": 46,
+      "reasons": [
+        "Dragon sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Origami Star",
+      "luckyColor": {
+        "name": "Dark Red",
+        "hex": "#8B1A1A"
+      },
+      "motif": "someone whose story you watched twice",
+      "message": "You've seen it. A third look teaches you nothing new."
+    },
+    {
+      "rank": 12,
+      "sign": "tiger",
+      "score": 37,
+      "reasons": [
+        "Tiger's own day — your energy runs high"
+      ],
+      "luckyItem": "Vintage Watch",
+      "luckyColor": {
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
+      },
+      "motif": "a takeaway menu memorised",
+      "message": "You know the order already. Call it in, stay put."
+    }
+  ]
+}

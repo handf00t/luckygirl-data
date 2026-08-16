@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-11",
+  "version": 1,
+  "generatedAt": "2026-08-16T01:16:58.293Z",
+  "day": {
+    "animal": "dog",
+    "branch": "戌",
+    "headline": "A Dog day — Tiger and Horse are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "tiger",
+      "score": 89,
+      "reasons": [
+        "Tiger and Dog share a triad — strong alignment today"
+      ],
+      "luckyItem": "Shoe Box",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "the seat you always take",
+      "message": "Your usual chair, again. Sit down like you booked it."
+    },
+    {
+      "rank": 2,
+      "sign": "snake",
+      "score": 78,
+      "reasons": [
+        "Snake sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Ankle Chain",
+      "luckyColor": {
+        "name": "Salmon",
+        "hex": "#EE8A76"
+      },
+      "motif": "a filter due for changing",
+      "message": "Your pitcher's been lying to you for weeks. New one today."
+    },
+    {
+      "rank": 3,
+      "sign": "monkey",
+      "score": 74,
+      "reasons": [
+        "Monkey sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Woven Basket",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "an offer with a deadline",
+      "message": "Expires tonight. Claim it before you talk yourself out of it."
+    },
+    {
+      "rank": 4,
+      "sign": "rabbit",
+      "score": 72,
+      "reasons": [
+        "Rabbit pairs with Dog — a harmonious day"
+      ],
+      "luckyItem": "Bed Tray",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "the gap between two things",
+      "message": "An hour loose between plans. Go somewhere you've never been."
+    },
+    {
+      "rank": 5,
+      "sign": "ox",
+      "score": 72,
+      "reasons": [
+        "Ox sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Wind-Up Toy",
+      "luckyColor": {
+        "name": "Mustard",
+        "hex": "#C9A227"
+      },
+      "motif": "the long way home",
+      "message": "Add the extra ten blocks tonight. Nothing's waiting at home."
+    },
+    {
+      "rank": 6,
+      "sign": "goat",
+      "score": 70,
+      "reasons": [
+        "Goat sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Clear Glasses",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "a message drafted then deleted",
+      "message": "Send the short version. That paragraph you erased was too much."
+    },
+    {
+      "rank": 7,
+      "sign": "horse",
+      "score": 70,
+      "reasons": [
+        "Horse and Dog share a triad — strong alignment today"
+      ],
+      "luckyItem": "Draught Blanket",
+      "luckyColor": {
+        "name": "Charcoal",
+        "hex": "#3A3A3A"
+      },
+      "motif": "the folder of things to sort out",
+      "message": "Open it, handle three items, close it. That's plenty."
+    },
+    {
+      "rank": 8,
+      "sign": "dog",
+      "score": 62,
+      "reasons": [
+        "Dog's own day — your energy runs high"
+      ],
+      "luckyItem": "Zip Pull",
+      "luckyColor": {
+        "name": "Red",
+        "hex": "#CC3333"
+      },
+      "motif": "the notification during a call",
+      "message": "It lit up mid-sentence. Flip the phone over, keep talking."
+    },
+    {
+      "rank": 9,
+      "sign": "rat",
+      "score": 57,
+      "reasons": [
+        "Rat sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Corner Booth",
+      "luckyColor": {
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
+      },
+      "motif": "a meeting you could skip",
+      "message": "You'd add nothing to that room. Decline, read the recap."
+    },
+    {
+      "rank": 10,
+      "sign": "pig",
+      "score": 51,
+      "reasons": [
+        "Pig sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Silk Scrunchie",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "a bike with a flat",
+      "message": "Still flat, still fine. The patch kit keeps till Sunday."
+    },
+    {
+      "rank": 11,
+      "sign": "rooster",
+      "score": 47,
+      "reasons": [
+        "Rooster sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Laundry Bag",
+      "luckyColor": {
+        "name": "Silver",
+        "hex": "#C0C0C0"
+      },
+      "motif": "a coat with something in the pocket",
+      "message": "Something's in that pocket. Leave the mystery for future you."
+    },
+    {
+      "rank": 12,
+      "sign": "dragon",
+      "score": 35,
+      "reasons": [
+        "Dragon opposes Dog — a day to take slowly"
+      ],
+      "luckyItem": "Shower Curtain",
+      "luckyColor": {
+        "name": "Purple",
+        "hex": "#7B3FA0"
+      },
+      "motif": "the friend of a friend",
+      "message": "Someone's bringing a stranger you'd have to entertain. Stay in."
+    }
+  ]
+}

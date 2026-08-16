@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-16",
+  "version": 1,
+  "generatedAt": "2026-08-16T01:17:37.477Z",
+  "day": {
+    "animal": "rabbit",
+    "branch": "卯",
+    "headline": "A Rabbit day — Goat and Pig are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "goat",
+      "score": 88,
+      "reasons": [
+        "Goat and Rabbit share a triad — strong alignment today"
+      ],
+      "luckyItem": "Luggage Strap",
+      "luckyColor": {
+        "name": "Yellow",
+        "hex": "#F0C419"
+      },
+      "motif": "a draft nobody has read",
+      "message": "Send that unread draft to somebody today, unpolished."
+    },
+    {
+      "rank": 2,
+      "sign": "pig",
+      "score": 82,
+      "reasons": [
+        "Pig and Rabbit share a triad — strong alignment today"
+      ],
+      "luckyItem": "Stylus Pen",
+      "luckyColor": {
+        "name": "Beige",
+        "hex": "#D9C7AE"
+      },
+      "motif": "a saved recipe never cooked",
+      "message": "Cook the one you keep re-saving. Tonight, actual pans."
+    },
+    {
+      "rank": 3,
+      "sign": "dragon",
+      "score": 75,
+      "reasons": [
+        "Dragon sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Palette Knife",
+      "luckyColor": {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      "motif": "the cupboard under the sink",
+      "message": "Empty everything under the sink. Twenty minutes, oddly triumphant."
+    },
+    {
+      "rank": 4,
+      "sign": "ox",
+      "score": 74,
+      "reasons": [
+        "Ox sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "New Toothbrush",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "the snack drawer at work",
+      "message": "Raid the office snack stash without narrating it to anyone."
+    },
+    {
+      "rank": 5,
+      "sign": "rabbit",
+      "score": 74,
+      "reasons": [
+        "Rabbit's own day — your energy runs high"
+      ],
+      "luckyItem": "Air Plant",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "motif": "a scarf that belongs to someone else",
+      "message": "Give the scarf back. Wear yours, it suits you more."
+    },
+    {
+      "rank": 6,
+      "sign": "monkey",
+      "score": 73,
+      "reasons": [
+        "Monkey sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Shoe Brush",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "lunch away from every screen",
+      "message": "Eat lunch with no screen in sight. Just food."
+    },
+    {
+      "rank": 7,
+      "sign": "rooster",
+      "score": 65,
+      "reasons": [
+        "Rooster opposes Rabbit — a day to take slowly"
+      ],
+      "luckyItem": "Petroleum Jelly",
+      "luckyColor": {
+        "name": "Dark Green",
+        "hex": "#1F5C36"
+      },
+      "motif": "a small lie about being fine",
+      "message": "You said fine and meant something else. Correct it once."
+    },
+    {
+      "rank": 8,
+      "sign": "dog",
+      "score": 56,
+      "reasons": [
+        "Dog pairs with Rabbit — a harmonious day"
+      ],
+      "luckyItem": "Honey Spoon",
+      "luckyColor": {
+        "name": "Dark Red",
+        "hex": "#8B1A1A"
+      },
+      "motif": "the receipt still in your pocket",
+      "message": "That paper in your coat pocket, log it now."
+    },
+    {
+      "rank": 9,
+      "sign": "horse",
+      "score": 52,
+      "reasons": [
+        "Horse sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Card Wallet",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "the platform at the far end",
+      "message": "Walk down to the far end. Quieter car, better ride."
+    },
+    {
+      "rank": 10,
+      "sign": "tiger",
+      "score": 49,
+      "reasons": [
+        "Tiger sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Pin Cushion",
+      "luckyColor": {
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
+      },
+      "motif": "a weekend with nothing in it",
+      "message": "An empty weekend ahead. Don't fill it yet, let it breathe."
+    },
+    {
+      "rank": 11,
+      "sign": "snake",
+      "score": 49,
+      "reasons": [
+        "Snake sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Hourglass",
+      "luckyColor": {
+        "name": "Red",
+        "hex": "#CC3333"
+      },
+      "motif": "an ingredient bought for one dish",
+      "message": "The jar you bought for one recipe keeps. Fine where it is."
+    },
+    {
+      "rank": 12,
+      "sign": "rat",
+      "score": 47,
+      "reasons": [
+        "Rat sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Document Wallet",
+      "luckyColor": {
+        "name": "Violet",
+        "hex": "#6A4C93"
+      },
+      "motif": "counting stairs without meaning to",
+      "message": "You're counting steps again. Harmless, carry on, no meaning needed."
+    }
+  ]
+}

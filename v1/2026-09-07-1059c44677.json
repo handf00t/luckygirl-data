@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-07",
+  "version": 1,
+  "generatedAt": "2026-08-16T01:15:04.710Z",
+  "day": {
+    "animal": "horse",
+    "branch": "午",
+    "headline": "A Horse day — Tiger and Dog are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "dog",
+      "score": 96,
+      "reasons": [
+        "Dog and Horse share a triad — strong alignment today"
+      ],
+      "luckyItem": "Crossbody Bag",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "Thursday pretending to be Friday",
+      "message": "Nothing about today says Friday. Act like it does anyway."
+    },
+    {
+      "rank": 2,
+      "sign": "goat",
+      "score": 80,
+      "reasons": [
+        "Goat pairs with Horse — a harmonious day"
+      ],
+      "luckyItem": "Chain Bracelet",
+      "luckyColor": {
+        "name": "Salmon",
+        "hex": "#EE8A76"
+      },
+      "motif": "a name said out loud for the first time",
+      "message": "First time you call it what it is. Say it."
+    },
+    {
+      "rank": 3,
+      "sign": "tiger",
+      "score": 78,
+      "reasons": [
+        "Tiger and Horse share a triad — strong alignment today"
+      ],
+      "luckyItem": "Weighted Eye Pillow",
+      "luckyColor": {
+        "name": "Green",
+        "hex": "#2E8B4F"
+      },
+      "motif": "the follow-up you keep postponing",
+      "message": "Three weeks of meaning to. Send the second message today."
+    },
+    {
+      "rank": 4,
+      "sign": "horse",
+      "score": 75,
+      "reasons": [
+        "Horse's own day — your energy runs high"
+      ],
+      "luckyItem": "Pour Over Cone",
+      "luckyColor": {
+        "name": "Pink",
+        "hex": "#E88BAE"
+      },
+      "motif": "coins in a jar",
+      "message": "Dump the jar out, count it, spend it on lunch."
+    },
+    {
+      "rank": 5,
+      "sign": "rabbit",
+      "score": 70,
+      "reasons": [
+        "Rabbit sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Loyalty Card",
+      "luckyColor": {
+        "name": "Mint",
+        "hex": "#9FD9BE"
+      },
+      "motif": "the shoes for standing all day",
+      "message": "You know which pair survives eight hours. Wear those."
+    },
+    {
+      "rank": 6,
+      "sign": "pig",
+      "score": 69,
+      "reasons": [
+        "Pig sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Pen Loop",
+      "luckyColor": {
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
+      },
+      "motif": "the tab kept for one sentence",
+      "message": "Copy the one line you wanted, then close the tab."
+    },
+    {
+      "rank": 7,
+      "sign": "ox",
+      "score": 67,
+      "reasons": [
+        "Ox sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Glue Stick",
+      "luckyColor": {
+        "name": "Rust",
+        "hex": "#A8502F"
+      },
+      "motif": "an anniversary of nothing in particular",
+      "message": "A year since that random day. Mark it quietly, alone."
+    },
+    {
+      "rank": 8,
+      "sign": "monkey",
+      "score": 61,
+      "reasons": [
+        "Monkey sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Hula Hoop",
+      "luckyColor": {
+        "name": "Beige",
+        "hex": "#D9C7AE"
+      },
+      "motif": "a plan that sounded better yesterday",
+      "message": "It sounded better last night. Go briefly, leave without explaining."
+    },
+    {
+      "rank": 9,
+      "sign": "snake",
+      "score": 59,
+      "reasons": [
+        "Snake sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Cable Organizer",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "motif": "the button held by one thread",
+      "message": "That button's decorative now. Wear something else, fix it later."
+    },
+    {
+      "rank": 10,
+      "sign": "dragon",
+      "score": 59,
+      "reasons": [
+        "Dragon sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Tea Strainer",
+      "luckyColor": {
+        "name": "Gold",
+        "hex": "#D4A017"
+      },
+      "motif": "the last carriage",
+      "message": "End of the train, empty seats, headphones in. Home slowly."
+    },
+    {
+      "rank": 11,
+      "sign": "rat",
+      "score": 55,
+      "reasons": [
+        "Rat opposes Horse — a day to take slowly"
+      ],
+      "luckyItem": "Bluetooth Speaker",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "ten minutes before anyone needs you",
+      "message": "Ten unclaimed minutes before the day starts. Stare at nothing."
+    },
+    {
+      "rank": 12,
+      "sign": "rooster",
+      "score": 48,
+      "reasons": [
+        "Rooster sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Legal Pad",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "a puddle in the same spot",
+      "message": "Same puddle, same corner. Step around it, no investigation needed."
+    }
+  ]
+}

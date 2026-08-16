@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
   "version": 1,
-  "generatedAt": "2026-08-16T00:54:00.449Z",
+  "generatedAt": "2026-08-16T01:08:42.786Z",
   "day": {
     "animal": "monkey",
     "branch": "申",
@@ -15,13 +15,13 @@
       "reasons": [
         "Dragon and Monkey share a triad — strong alignment today"
       ],
-      "luckyItem": "Label Maker",
+      "luckyItem": "Silk Eye Mask",
       "luckyColor": {
         "name": "Sage",
         "hex": "#A3B59A"
       },
       "motif": "a voice heard through a wall",
-      "message": "That voice through the wall sounds familiar. Go find out."
+      "message": "That voice through the wall belongs to someone. Introduce yourself."
     },
     {
       "rank": 2,
@@ -30,13 +30,13 @@
       "reasons": [
         "Ox sits apart from Monkey — the day is yours to steer"
       ],
-      "luckyItem": "Peeler",
+      "luckyItem": "Bar Stool",
       "luckyColor": {
         "name": "Navy",
         "hex": "#23375E"
       },
       "motif": "someone you outgrew",
-      "message": "You're done shrinking to fit someone you already outgrew."
+      "message": "You've outgrown them. Let that be true without a speech."
     },
     {
       "rank": 3,
@@ -45,13 +45,13 @@
       "reasons": [
         "Dog sits apart from Monkey — the day is yours to steer"
       ],
-      "luckyItem": "Correction Tape",
+      "luckyItem": "Kaleidoscope",
       "luckyColor": {
         "name": "Yellow",
         "hex": "#F0C419"
       },
       "motif": "a day off used badly",
-      "message": "Last day off got wasted. Actually leave the apartment."
+      "message": "Blow the whole free day on something dumb. Fully commit."
     },
     {
       "rank": 4,
@@ -60,13 +60,13 @@
       "reasons": [
         "Rabbit sits apart from Monkey — the day is yours to steer"
       ],
-      "luckyItem": "Fridge Magnet",
+      "luckyItem": "Screen Protector",
       "luckyColor": {
         "name": "Brown",
         "hex": "#6B4A32"
       },
       "motif": "the yawn that will not finish",
-      "message": "That half-yawn wants air, not a nap. Go outside."
+      "message": "That half-yawn means step outside, not another iced anything."
     },
     {
       "rank": 5,
@@ -75,13 +75,13 @@
       "reasons": [
         "Tiger opposes Monkey — a day to take slowly"
       ],
-      "luckyItem": "Windbreaker",
+      "luckyItem": "Butter Dish",
       "luckyColor": {
         "name": "White",
         "hex": "#FFFFFF"
       },
       "motif": "the way you make tea",
-      "message": "Make it the fussy way today. Four extra minutes, worth it."
+      "message": "Make the tea properly today. Kettle, timer, the good leaves."
     },
     {
       "rank": 6,
@@ -90,13 +90,13 @@
       "reasons": [
         "Rooster sits apart from Monkey — the day is yours to steer"
       ],
-      "luckyItem": "Sketchbook",
+      "luckyItem": "Record Sleeve",
       "luckyColor": {
         "name": "Chocolate",
         "hex": "#4A3728"
       },
       "motif": "a stone kept from somewhere",
-      "message": "Pocket the rock from that trip. Carry it around today."
+      "message": "That rock from the trip deserves better than a drawer."
     },
     {
       "rank": 7,
@@ -105,13 +105,13 @@
       "reasons": [
         "Snake pairs with Monkey — a harmonious day"
       ],
-      "luckyItem": "Night Light",
+      "luckyItem": "Lunch Tote",
       "luckyColor": {
         "name": "Beige",
         "hex": "#D9C7AE"
       },
       "motif": "the cheaper platform",
-      "message": "Drop to the cheaper tier. Two minutes, nothing lost."
+      "message": "Wear the cheaper platforms. You're walking further than planned."
     },
     {
       "rank": 8,
@@ -120,13 +120,13 @@
       "reasons": [
         "Monkey's own day — your energy runs high"
       ],
-      "luckyItem": "Funnel",
+      "luckyItem": "Night Light",
       "luckyColor": {
         "name": "Lavender",
         "hex": "#B9A2DB"
       },
       "motif": "something outgrown but kept",
-      "message": "Those jeans aren't yours anymore. Someone else should have them."
+      "message": "That jacket you've stopped wearing? Into the donate pile."
     },
     {
       "rank": 9,
@@ -135,13 +135,13 @@
       "reasons": [
         "Rat and Monkey share a triad — strong alignment today"
       ],
-      "luckyItem": "Hair Turban Towel",
+      "luckyItem": "Loaf Tin",
       "luckyColor": {
         "name": "Teal",
         "hex": "#2A6B6F"
       },
       "motif": "the pen about to run out",
-      "message": "That fading pen still writes. No supply run needed today."
+      "message": "The pen's nearly out. Use it up, replace it tomorrow."
     },
     {
       "rank": 10,
@@ -150,13 +150,13 @@
       "reasons": [
         "Horse sits apart from Monkey — the day is yours to steer"
       ],
-      "luckyItem": "Clay Mask",
+      "luckyItem": "Sieve",
       "luckyColor": {
         "name": "Apricot",
         "hex": "#F0A868"
       },
       "motif": "a bag packed the night before",
-      "message": "Bag's by the door already. Nothing else needs deciding tonight."
+      "message": "Leave the bag by the door. Stop repacking it."
     },
     {
       "rank": 11,
@@ -165,13 +165,13 @@
       "reasons": [
         "Pig sits apart from Monkey — the day is yours to steer"
       ],
-      "luckyItem": "Flannel Shirt",
+      "luckyItem": "Satin Bonnet",
       "luckyColor": {
         "name": "Gray",
         "hex": "#8A8A8A"
       },
       "motif": "the album that fits the weather",
-      "message": "Put on the album that sounds like this heat. Stay in."
+      "message": "Play the album that matches the sky. Stay put."
     },
     {
       "rank": 12,
@@ -180,13 +180,13 @@
       "reasons": [
         "Goat sits apart from Monkey — the day is yours to steer"
       ],
-      "luckyItem": "Brass Bookmark",
+      "luckyItem": "Ear Cuff",
       "luckyColor": {
         "name": "Hot Pink",
         "hex": "#E5417F"
       },
       "motif": "the thought you cannot finish",
-      "message": "The thought that won't land can stay unlanded. Not homework."
+      "message": "Let the half-thought stay half. Shut the laptop."
     }
   ]
 }

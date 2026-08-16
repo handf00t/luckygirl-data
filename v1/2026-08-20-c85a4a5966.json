@@ -1,0 +1,192 @@
+{
+  "date": "2026-08-20",
+  "version": 1,
+  "generatedAt": "2026-08-16T01:09:13.720Z",
+  "day": {
+    "animal": "rat",
+    "branch": "子",
+    "headline": "A Rat day — Dragon and Monkey are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "ox",
+      "score": 96,
+      "reasons": [
+        "Ox pairs with Rat — a harmonious day"
+      ],
+      "luckyItem": "Hand Mirror",
+      "luckyColor": {
+        "name": "Gold",
+        "hex": "#D4A017"
+      },
+      "motif": "an alarm snoozed three times",
+      "message": "You're already awake. Get up before the fourth one."
+    },
+    {
+      "rank": 2,
+      "sign": "dog",
+      "score": 92,
+      "reasons": [
+        "Dog sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Knee Socks",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "an episode you fell asleep during",
+      "message": "Restart the episode from where you blacked out. Watch it properly."
+    },
+    {
+      "rank": 3,
+      "sign": "snake",
+      "score": 91,
+      "reasons": [
+        "Snake sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Disposable Camera",
+      "luckyColor": {
+        "name": "Rust",
+        "hex": "#A8502F"
+      },
+      "motif": "the hour after getting home",
+      "message": "Don't sit down when you get home. Ride the momentum."
+    },
+    {
+      "rank": 4,
+      "sign": "dragon",
+      "score": 89,
+      "reasons": [
+        "Dragon and Rat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Compass Set",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "a card declined once",
+      "message": "Run the card again. One decline means nothing."
+    },
+    {
+      "rank": 5,
+      "sign": "rabbit",
+      "score": 87,
+      "reasons": [
+        "Rabbit sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Airmail Sticker",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "two options that are both fine",
+      "message": "Both work. Pick the closer one and stop weighing."
+    },
+    {
+      "rank": 6,
+      "sign": "tiger",
+      "score": 85,
+      "reasons": [
+        "Tiger sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Throw Blanket",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "the notification during a call",
+      "message": "It buzzed mid-call. Finish the call, then look."
+    },
+    {
+      "rank": 7,
+      "sign": "pig",
+      "score": 81,
+      "reasons": [
+        "Pig sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Dimmer Switch",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "a renewal date approaching",
+      "message": "That subscription renews soon. Decide now, not the day after."
+    },
+    {
+      "rank": 8,
+      "sign": "rat",
+      "score": 76,
+      "reasons": [
+        "Rat's own day — your energy runs high"
+      ],
+      "luckyItem": "Highlighter Balm",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "motif": "a notification you keep swiping away",
+      "message": "Handle the little red dot you keep dismissing. Ninety seconds."
+    },
+    {
+      "rank": 9,
+      "sign": "rooster",
+      "score": 70,
+      "reasons": [
+        "Rooster sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Sheet Mask",
+      "luckyColor": {
+        "name": "Mustard",
+        "hex": "#C9A227"
+      },
+      "motif": "the playlist for one task",
+      "message": "No soundtrack needed. Just start the task in silence."
+    },
+    {
+      "rank": 10,
+      "sign": "monkey",
+      "score": 67,
+      "reasons": [
+        "Monkey and Rat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Laundry Bag",
+      "luckyColor": {
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
+      },
+      "motif": "a diversion sign",
+      "message": "Road's closed ahead. Take the detour, no complaining."
+    },
+    {
+      "rank": 11,
+      "sign": "goat",
+      "score": 51,
+      "reasons": [
+        "Goat sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Bamboo Straw",
+      "luckyColor": {
+        "name": "Purple",
+        "hex": "#7B3FA0"
+      },
+      "motif": "a reply that should have come",
+      "message": "They still haven't answered. Put your phone face down."
+    },
+    {
+      "rank": 12,
+      "sign": "horse",
+      "score": 38,
+      "reasons": [
+        "Horse opposes Rat — a day to take slowly"
+      ],
+      "luckyItem": "Boarding Card Holder",
+      "luckyColor": {
+        "name": "Charcoal",
+        "hex": "#3A3A3A"
+      },
+      "motif": "a file named final version three",
+      "message": "Nobody's opening that file today. Close the laptop, stay in."
+    }
+  ]
+}

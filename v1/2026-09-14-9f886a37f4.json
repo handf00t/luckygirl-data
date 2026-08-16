@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-14",
+  "version": 1,
+  "generatedAt": "2026-08-16T01:17:22.398Z",
+  "day": {
+    "animal": "ox",
+    "branch": "丑",
+    "headline": "A Ox day — Snake and Rooster are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "monkey",
+      "score": 94,
+      "reasons": [
+        "Monkey sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Skipping Rope",
+      "luckyColor": {
+        "name": "Dark Green",
+        "hex": "#1F5C36"
+      },
+      "motif": "a week that ended differently",
+      "message": "This week broke pattern. Ride it into something bigger today."
+    },
+    {
+      "rank": 2,
+      "sign": "snake",
+      "score": 94,
+      "reasons": [
+        "Snake and Ox share a triad — strong alignment today"
+      ],
+      "luckyItem": "Postcard Pack",
+      "luckyColor": {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      "motif": "something opened for the first time",
+      "message": "First time through that door today. Walk in slow, look around."
+    },
+    {
+      "rank": 3,
+      "sign": "pig",
+      "score": 85,
+      "reasons": [
+        "Pig sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Foot Cream",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "a route taken deliberately",
+      "message": "You chose the long way on purpose. Choose it again."
+    },
+    {
+      "rank": 4,
+      "sign": "rooster",
+      "score": 82,
+      "reasons": [
+        "Rooster and Ox share a triad — strong alignment today"
+      ],
+      "luckyItem": "Stamp Card",
+      "luckyColor": {
+        "name": "Beige",
+        "hex": "#D9C7AE"
+      },
+      "motif": "being bored in a good way",
+      "message": "Bored and fine with it. Follow that into something new."
+    },
+    {
+      "rank": 5,
+      "sign": "horse",
+      "score": 77,
+      "reasons": [
+        "Horse sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Cork Board",
+      "luckyColor": {
+        "name": "Rust",
+        "hex": "#A8502F"
+      },
+      "motif": "an exception that became the rule",
+      "message": "Your one-time exception is just how you do it now. Own it."
+    },
+    {
+      "rank": 6,
+      "sign": "dragon",
+      "score": 66,
+      "reasons": [
+        "Dragon sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Sugar Bowl",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "the week that got away",
+      "message": "The week blurred past. Salvage one small thing before dark."
+    },
+    {
+      "rank": 7,
+      "sign": "ox",
+      "score": 64,
+      "reasons": [
+        "Ox's own day — your energy runs high"
+      ],
+      "luckyItem": "Picnic Flask",
+      "luckyColor": {
+        "name": "Coral",
+        "hex": "#E96B5A"
+      },
+      "motif": "a sleep you will not get back",
+      "message": "You lost four hours last night. Coast, don't catch up."
+    },
+    {
+      "rank": 8,
+      "sign": "tiger",
+      "score": 58,
+      "reasons": [
+        "Tiger sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Sea Glass",
+      "luckyColor": {
+        "name": "Denim Blue",
+        "hex": "#3F5C7A"
+      },
+      "motif": "the wrong turn that worked",
+      "message": "That wrong exit found you a better block. Note it down."
+    },
+    {
+      "rank": 9,
+      "sign": "rat",
+      "score": 57,
+      "reasons": [
+        "Rat pairs with Ox — a harmonious day"
+      ],
+      "luckyItem": "Lash Curler",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "something rehearsed and never used",
+      "message": "You prepped a whole speech nobody asked for. Shelve it."
+    },
+    {
+      "rank": 10,
+      "sign": "dog",
+      "score": 44,
+      "reasons": [
+        "Dog sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Cable Pouch",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "feeling briefly competent",
+      "message": "You handled one thing well. That's the whole quota, rest."
+    },
+    {
+      "rank": 11,
+      "sign": "goat",
+      "score": 39,
+      "reasons": [
+        "Goat opposes Ox — a day to take slowly"
+      ],
+      "luckyItem": "Beach Chair",
+      "luckyColor": {
+        "name": "Gray",
+        "hex": "#8A8A8A"
+      },
+      "motif": "a goodbye done badly",
+      "message": "You left that conversation clumsily. It can stay unmended today."
+    },
+    {
+      "rank": 12,
+      "sign": "rabbit",
+      "score": 37,
+      "reasons": [
+        "Rabbit sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Enamel Pin",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "an evening with no plan",
+      "message": "No plans tonight and no guilt about it. Enjoy that."
+    }
+  ]
+}

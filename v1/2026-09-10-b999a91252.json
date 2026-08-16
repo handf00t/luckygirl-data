@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-10",
+  "version": 1,
+  "generatedAt": "2026-08-16T01:16:31.908Z",
+  "day": {
+    "animal": "rooster",
+    "branch": "酉",
+    "headline": "A Rooster day — Ox and Snake are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "dragon",
+      "score": 92,
+      "reasons": [
+        "Dragon pairs with Rooster — a harmonious day"
+      ],
+      "luckyItem": "Screen Cloth",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "an empty carriage",
+      "message": "Whole car to yourself. Spread out, take the good seat."
+    },
+    {
+      "rank": 2,
+      "sign": "horse",
+      "score": 88,
+      "reasons": [
+        "Horse sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Postcard",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "an introduction gone well",
+      "message": "That intro actually landed. Follow up before the day cools."
+    },
+    {
+      "rank": 3,
+      "sign": "monkey",
+      "score": 81,
+      "reasons": [
+        "Monkey sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Wax Seal",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "coffee made too fast",
+      "message": "Your drink hit the counter in ten seconds. Take the omen."
+    },
+    {
+      "rank": 4,
+      "sign": "snake",
+      "score": 70,
+      "reasons": [
+        "Snake and Rooster share a triad — strong alignment today"
+      ],
+      "luckyItem": "Pencil Sharpener",
+      "luckyColor": {
+        "name": "Teal",
+        "hex": "#2A6B6F"
+      },
+      "motif": "being introduced incorrectly",
+      "message": "They got your title wrong. Correct it out loud, lightly."
+    },
+    {
+      "rank": 5,
+      "sign": "rooster",
+      "score": 68,
+      "reasons": [
+        "Rooster's own day — your energy runs high"
+      ],
+      "luckyItem": "Bike Bell",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "motif": "wind that ruins everything",
+      "message": "It's whipping out there. Wear what doesn't need the wind's cooperation."
+    },
+    {
+      "rank": 6,
+      "sign": "goat",
+      "score": 63,
+      "reasons": [
+        "Goat sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Sleep Socks",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "tapping a doorframe on the way out",
+      "message": "You tap the doorframe every time you leave. Keep doing it."
+    },
+    {
+      "rank": 7,
+      "sign": "ox",
+      "score": 61,
+      "reasons": [
+        "Ox and Rooster share a triad — strong alignment today"
+      ],
+      "luckyItem": "Blue Light Glasses",
+      "luckyColor": {
+        "name": "Mint",
+        "hex": "#9FD9BE"
+      },
+      "motif": "a desk you never sit at",
+      "message": "That desk is decoration. Sit at it for one actual hour."
+    },
+    {
+      "rank": 8,
+      "sign": "tiger",
+      "score": 60,
+      "reasons": [
+        "Tiger sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Linen Napkin",
+      "luckyColor": {
+        "name": "Dark Green",
+        "hex": "#1F5C36"
+      },
+      "motif": "someone easy to be quiet with",
+      "message": "Text the person you can sit around saying nothing with."
+    },
+    {
+      "rank": 9,
+      "sign": "dog",
+      "score": 56,
+      "reasons": [
+        "Dog sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Laptop Riser",
+      "luckyColor": {
+        "name": "Gold",
+        "hex": "#D4A017"
+      },
+      "motif": "a cash machine charging you",
+      "message": "A fee to touch your own money. Cash can wait."
+    },
+    {
+      "rank": 10,
+      "sign": "pig",
+      "score": 56,
+      "reasons": [
+        "Pig sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Silk Camisole",
+      "luckyColor": {
+        "name": "Lemon",
+        "hex": "#F5E05A"
+      },
+      "motif": "someone being kind unexpectedly",
+      "message": "Someone was nice for no reason. Let it just land."
+    },
+    {
+      "rank": 11,
+      "sign": "rat",
+      "score": 52,
+      "reasons": [
+        "Rat sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Reflector Strip",
+      "luckyColor": {
+        "name": "Rust",
+        "hex": "#A8502F"
+      },
+      "motif": "an ID photo you regret",
+      "message": "Your ID photo is a crime. The renewal keeps until later."
+    },
+    {
+      "rank": 12,
+      "sign": "rabbit",
+      "score": 38,
+      "reasons": [
+        "Rabbit opposes Rooster — a day to take slowly"
+      ],
+      "luckyItem": "Crosswalk Button",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "a sky worth looking up at",
+      "message": "Sunset's showing off. Watch from the window, stay in tonight."
+    }
+  ]
+}

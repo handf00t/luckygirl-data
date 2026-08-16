@@ -1,0 +1,192 @@
+{
+  "date": "2026-08-27",
+  "version": 1,
+  "generatedAt": "2026-08-16T01:11:29.538Z",
+  "day": {
+    "animal": "goat",
+    "branch": "未",
+    "headline": "A Goat day — Rabbit and Pig are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "snake",
+      "score": 91,
+      "reasons": [
+        "Snake sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Swim Cap",
+      "luckyColor": {
+        "name": "Mint",
+        "hex": "#9FD9BE"
+      },
+      "motif": "an old routine that no longer fits",
+      "message": "That morning order stopped working months ago. Change it today."
+    },
+    {
+      "rank": 2,
+      "sign": "horse",
+      "score": 89,
+      "reasons": [
+        "Horse pairs with Goat — a harmonious day"
+      ],
+      "luckyItem": "Pin Cushion",
+      "luckyColor": {
+        "name": "Red",
+        "hex": "#CC3333"
+      },
+      "motif": "the podcast on double speed",
+      "message": "Slow it back to normal speed. You'll actually hear it."
+    },
+    {
+      "rank": 3,
+      "sign": "rat",
+      "score": 86,
+      "reasons": [
+        "Rat sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Shaker Egg",
+      "luckyColor": {
+        "name": "Gold",
+        "hex": "#D4A017"
+      },
+      "motif": "a shopping list left at home",
+      "message": "Shop from memory. You'll do better than the paper anyway."
+    },
+    {
+      "rank": 4,
+      "sign": "rooster",
+      "score": 85,
+      "reasons": [
+        "Rooster sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Puzzle Cube",
+      "luckyColor": {
+        "name": "Rust",
+        "hex": "#A8502F"
+      },
+      "motif": "a direct debit you forgot",
+      "message": "Check what quietly left your account this month. Then cancel one."
+    },
+    {
+      "rank": 5,
+      "sign": "rabbit",
+      "score": 79,
+      "reasons": [
+        "Rabbit and Goat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Bath Oil",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "the folder called miscellaneous",
+      "message": "Rename that junk folder something honest. Sort half of it."
+    },
+    {
+      "rank": 6,
+      "sign": "tiger",
+      "score": 77,
+      "reasons": [
+        "Tiger sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Lash Curler",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "the passport with a date on it",
+      "message": "Look at the expiry. Renew it before the line gets long."
+    },
+    {
+      "rank": 7,
+      "sign": "ox",
+      "score": 70,
+      "reasons": [
+        "Ox opposes Goat — a day to take slowly"
+      ],
+      "luckyItem": "Comic Book",
+      "luckyColor": {
+        "name": "Dark Green",
+        "hex": "#1F5C36"
+      },
+      "motif": "a plus-one still undecided",
+      "message": "Just pick who you're bringing. Text them before dinner."
+    },
+    {
+      "rank": 8,
+      "sign": "monkey",
+      "score": 68,
+      "reasons": [
+        "Monkey sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Graph Paper",
+      "luckyColor": {
+        "name": "Salmon",
+        "hex": "#EE8A76"
+      },
+      "motif": "the calm after making a decision",
+      "message": "You already decided. Notice how quiet your head is now."
+    },
+    {
+      "rank": 9,
+      "sign": "pig",
+      "score": 66,
+      "reasons": [
+        "Pig and Goat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Egg Timer",
+      "luckyColor": {
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
+      },
+      "motif": "an early train",
+      "message": "Early departure, low stakes. Sleep on the way, eat later."
+    },
+    {
+      "rank": 10,
+      "sign": "dragon",
+      "score": 64,
+      "reasons": [
+        "Dragon sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Notebook Band",
+      "luckyColor": {
+        "name": "Yellow",
+        "hex": "#F0C419"
+      },
+      "motif": "the wind on one street",
+      "message": "One block is always freezing. Take a layer, no analysis."
+    },
+    {
+      "rank": 11,
+      "sign": "dog",
+      "score": 50,
+      "reasons": [
+        "Dog sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Dry Brush",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "someone else planting something",
+      "message": "Someone else's garden project. Admire it, volunteer for nothing."
+    },
+    {
+      "rank": 12,
+      "sign": "goat",
+      "score": 45,
+      "reasons": [
+        "Goat's own day — your energy runs high"
+      ],
+      "luckyItem": "Face Mist",
+      "luckyColor": {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      "motif": "a link opened and forgotten",
+      "message": "That tab you opened last week? Close it, unread forever."
+    }
+  ]
+}

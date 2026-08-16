@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-06",
+  "version": 1,
+  "generatedAt": "2026-08-16T01:14:41.045Z",
+  "day": {
+    "animal": "snake",
+    "branch": "巳",
+    "headline": "A Snake day — Ox and Rooster are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "rooster",
+      "score": 98,
+      "reasons": [
+        "Rooster and Snake share a triad — strong alignment today"
+      ],
+      "luckyItem": "Easel",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "something you pretend to understand",
+      "message": "You've been nodding along for weeks. Just admit it, ask."
+    },
+    {
+      "rank": 2,
+      "sign": "horse",
+      "score": 96,
+      "reasons": [
+        "Horse sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Measuring Tape",
+      "luckyColor": {
+        "name": "Mint",
+        "hex": "#9FD9BE"
+      },
+      "motif": "an instrument in its case",
+      "message": "Zip it open tonight. Play badly for twenty minutes."
+    },
+    {
+      "rank": 3,
+      "sign": "dog",
+      "score": 94,
+      "reasons": [
+        "Dog sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Lip Mask",
+      "luckyColor": {
+        "name": "Charcoal",
+        "hex": "#3A3A3A"
+      },
+      "motif": "a reply that should have come",
+      "message": "They're overdue. Nudge once, casually, before you overthink the wording."
+    },
+    {
+      "rank": 4,
+      "sign": "rabbit",
+      "score": 84,
+      "reasons": [
+        "Rabbit sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Marble Tray",
+      "luckyColor": {
+        "name": "Silver",
+        "hex": "#C0C0C0"
+      },
+      "motif": "the thing you keep checking",
+      "message": "Refresh it one last time, then go do something else."
+    },
+    {
+      "rank": 5,
+      "sign": "monkey",
+      "score": 81,
+      "reasons": [
+        "Monkey pairs with Snake — a harmonious day"
+      ],
+      "luckyItem": "Magnifier",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "the first warm evening",
+      "message": "It's finally nice out. Say yes to whatever's outdoors."
+    },
+    {
+      "rank": 6,
+      "sign": "snake",
+      "score": 80,
+      "reasons": [
+        "Snake's own day — your energy runs high"
+      ],
+      "luckyItem": "Glass Prism",
+      "luckyColor": {
+        "name": "Green",
+        "hex": "#2E8B4F"
+      },
+      "motif": "a comment you drafted",
+      "message": "Trim it to one line and hit post."
+    },
+    {
+      "rank": 7,
+      "sign": "ox",
+      "score": 71,
+      "reasons": [
+        "Ox and Snake share a triad — strong alignment today"
+      ],
+      "luckyItem": "Floor Lamp",
+      "luckyColor": {
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
+      },
+      "motif": "a tip left in cash",
+      "message": "Break the twenty for the server. Worth the small errand."
+    },
+    {
+      "rank": 8,
+      "sign": "dragon",
+      "score": 64,
+      "reasons": [
+        "Dragon sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Carabiner",
+      "luckyColor": {
+        "name": "Purple",
+        "hex": "#7B3FA0"
+      },
+      "motif": "a song stuck since morning",
+      "message": "Same four bars since you woke up. Play the actual track."
+    },
+    {
+      "rank": 9,
+      "sign": "pig",
+      "score": 62,
+      "reasons": [
+        "Pig opposes Snake — a day to take slowly"
+      ],
+      "luckyItem": "Protractor",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "motif": "the shared calendar",
+      "message": "Nobody's updating the shared thing. Fine, let it stay wrong."
+    },
+    {
+      "rank": 10,
+      "sign": "goat",
+      "score": 57,
+      "reasons": [
+        "Goat sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Rain Boots",
+      "luckyColor": {
+        "name": "Pink",
+        "hex": "#E88BAE"
+      },
+      "motif": "the second option you keep going back to",
+      "message": "You've reopened that other tab five times. Neither, today."
+    },
+    {
+      "rank": 11,
+      "sign": "tiger",
+      "score": 48,
+      "reasons": [
+        "Tiger sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Cooling Rack",
+      "luckyColor": {
+        "name": "Dark Red",
+        "hex": "#8B1A1A"
+      },
+      "motif": "the standing plan nobody confirms",
+      "message": "Silence about tonight means everyone's relieved. Stay in, no text needed."
+    },
+    {
+      "rank": 12,
+      "sign": "rat",
+      "score": 47,
+      "reasons": [
+        "Rat sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Photo Printer",
+      "luckyColor": {
+        "name": "Teal",
+        "hex": "#2A6B6F"
+      },
+      "motif": "a dinner you offered to host",
+      "message": "You offered to cook for six. Move it, nobody minds."
+    }
+  ]
+}

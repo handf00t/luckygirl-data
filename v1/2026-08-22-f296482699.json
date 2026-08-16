@@ -1,0 +1,192 @@
+{
+  "date": "2026-08-22",
+  "version": 1,
+  "generatedAt": "2026-08-16T01:10:08.337Z",
+  "day": {
+    "animal": "tiger",
+    "branch": "寅",
+    "headline": "A Tiger day — Horse and Dog are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "rooster",
+      "score": 92,
+      "reasons": [
+        "Rooster sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Sun Cream Stick",
+      "luckyColor": {
+        "name": "Beige",
+        "hex": "#D9C7AE"
+      },
+      "motif": "a coffee rescheduled twice",
+      "message": "You've moved that coffee twice. Pick a time, send it."
+    },
+    {
+      "rank": 2,
+      "sign": "monkey",
+      "score": 84,
+      "reasons": [
+        "Monkey opposes Tiger — a day to take slowly"
+      ],
+      "luckyItem": "Pill Tin",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "a zip that gave up",
+      "message": "The zip's done for. Wear the other thing, go."
+    },
+    {
+      "rank": 3,
+      "sign": "horse",
+      "score": 83,
+      "reasons": [
+        "Horse and Tiger share a triad — strong alignment today"
+      ],
+      "luckyItem": "Hair Comb",
+      "luckyColor": {
+        "name": "Red",
+        "hex": "#CC3333"
+      },
+      "motif": "a door held open",
+      "message": "Someone's holding the door. Walk through, say thanks, keep moving."
+    },
+    {
+      "rank": 4,
+      "sign": "snake",
+      "score": 72,
+      "reasons": [
+        "Snake sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Scented Candle",
+      "luckyColor": {
+        "name": "Salmon",
+        "hex": "#EE8A76"
+      },
+      "motif": "something saved to read later",
+      "message": "Open the thing you saved for later. Later's today."
+    },
+    {
+      "rank": 5,
+      "sign": "tiger",
+      "score": 66,
+      "reasons": [
+        "Tiger's own day — your energy runs high"
+      ],
+      "luckyItem": "Corkscrew",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "a service station",
+      "message": "Tank's low. Fill it before the drive, not mid-panic."
+    },
+    {
+      "rank": 6,
+      "sign": "dog",
+      "score": 66,
+      "reasons": [
+        "Dog and Tiger share a triad — strong alignment today"
+      ],
+      "luckyItem": "Coin Tray",
+      "luckyColor": {
+        "name": "Dark Green",
+        "hex": "#1F5C36"
+      },
+      "motif": "a colleague you never talk to",
+      "message": "Say hi to the coworker you've never actually spoken to."
+    },
+    {
+      "rank": 7,
+      "sign": "pig",
+      "score": 62,
+      "reasons": [
+        "Pig pairs with Tiger — a harmonious day"
+      ],
+      "luckyItem": "Jigsaw Puzzle",
+      "luckyColor": {
+        "name": "Pink",
+        "hex": "#E88BAE"
+      },
+      "motif": "a queue that is not moving",
+      "message": "Line's frozen. Answer two messages while you're standing there."
+    },
+    {
+      "rank": 8,
+      "sign": "rat",
+      "score": 61,
+      "reasons": [
+        "Rat sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Index Cards",
+      "luckyColor": {
+        "name": "Teal",
+        "hex": "#2A6B6F"
+      },
+      "motif": "the umbrella you keep losing",
+      "message": "Leave the umbrella in the car. Stop hauling it around."
+    },
+    {
+      "rank": 9,
+      "sign": "goat",
+      "score": 49,
+      "reasons": [
+        "Goat sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Stirrer Stick",
+      "luckyColor": {
+        "name": "Violet",
+        "hex": "#6A4C93"
+      },
+      "motif": "the friend who always says yes",
+      "message": "Your always-down friend would come out. Skip it tonight."
+    },
+    {
+      "rank": 10,
+      "sign": "rabbit",
+      "score": 47,
+      "reasons": [
+        "Rabbit sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Phrase Card",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "the text sent at 1am",
+      "message": "You sent it at 1am. Let it sit, no follow-up."
+    },
+    {
+      "rank": 11,
+      "sign": "ox",
+      "score": 47,
+      "reasons": [
+        "Ox sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Mascara Wand",
+      "luckyColor": {
+        "name": "Gray",
+        "hex": "#8A8A8A"
+      },
+      "motif": "the note in your own handwriting",
+      "message": "Your own scribbled note can wait. It's not going anywhere."
+    },
+    {
+      "rank": 12,
+      "sign": "dragon",
+      "score": 39,
+      "reasons": [
+        "Dragon sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Worn Paperback",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "the thing you would do if asked twice",
+      "message": "Nobody's asking twice. Take that as permission to stay home."
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-09",
+  "version": 1,
+  "generatedAt": "2026-08-16T01:15:46.808Z",
+  "day": {
+    "animal": "monkey",
+    "branch": "申",
+    "headline": "A Monkey day — Rat and Dragon are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "dragon",
+      "score": 97,
+      "reasons": [
+        "Dragon and Monkey share a triad — strong alignment today"
+      ],
+      "luckyItem": "Rolling Pin",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "someone new on the team",
+      "message": "Grab the new hire for coffee before someone duller does."
+    },
+    {
+      "rank": 2,
+      "sign": "snake",
+      "score": 91,
+      "reasons": [
+        "Snake pairs with Monkey — a harmonious day"
+      ],
+      "luckyItem": "Free Newspaper",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "a hand cream never opened",
+      "message": "Still sealed since whenever. Open it, use an obscene amount."
+    },
+    {
+      "rank": 3,
+      "sign": "rabbit",
+      "score": 77,
+      "reasons": [
+        "Rabbit sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Boarding Pass",
+      "luckyColor": {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      "motif": "a lunch brought and forgotten",
+      "message": "You built that lunch and left it home. Go get it."
+    },
+    {
+      "rank": 4,
+      "sign": "ox",
+      "score": 73,
+      "reasons": [
+        "Ox sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Setting Spray",
+      "luckyColor": {
+        "name": "Lemon",
+        "hex": "#F5E05A"
+      },
+      "motif": "a notification you keep swiping away",
+      "message": "Fourth swipe today. Open it, do the thing, forget it."
+    },
+    {
+      "rank": 5,
+      "sign": "rat",
+      "score": 71,
+      "reasons": [
+        "Rat and Monkey share a triad — strong alignment today"
+      ],
+      "luckyItem": "Bangle",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "a lift you decided not to take",
+      "message": "Turning down that ride means you get your podcast. Fine trade."
+    },
+    {
+      "rank": 6,
+      "sign": "horse",
+      "score": 67,
+      "reasons": [
+        "Horse sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Speckled Bowl",
+      "luckyColor": {
+        "name": "Coral",
+        "hex": "#E96B5A"
+      },
+      "motif": "a herb that never lasts",
+      "message": "The cilantro's slime again. Chop what's left tonight, no guilt."
+    },
+    {
+      "rank": 7,
+      "sign": "rooster",
+      "score": 64,
+      "reasons": [
+        "Rooster sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Jacks",
+      "luckyColor": {
+        "name": "Denim Blue",
+        "hex": "#3F5C7A"
+      },
+      "motif": "a street you have never turned down",
+      "message": "Turn left where you always go straight. Five minutes, that's all."
+    },
+    {
+      "rank": 8,
+      "sign": "pig",
+      "score": 58,
+      "reasons": [
+        "Pig sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Vinyl Sleeve",
+      "luckyColor": {
+        "name": "Mustard",
+        "hex": "#C9A227"
+      },
+      "motif": "sitting down to think and not thinking",
+      "message": "You sat down to think and thought nothing. Still counts."
+    },
+    {
+      "rank": 9,
+      "sign": "monkey",
+      "score": 48,
+      "reasons": [
+        "Monkey's own day — your energy runs high"
+      ],
+      "luckyItem": "Film Roll",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "the feed you know is bad for you",
+      "message": "You know which app sours the whole day. Skip it entirely."
+    },
+    {
+      "rank": 10,
+      "sign": "dog",
+      "score": 46,
+      "reasons": [
+        "Dog sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Podcast Queue",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "the last one on the shelf",
+      "message": "Someone else can have the last one. You didn't need it."
+    },
+    {
+      "rank": 11,
+      "sign": "tiger",
+      "score": 44,
+      "reasons": [
+        "Tiger opposes Monkey — a day to take slowly"
+      ],
+      "luckyItem": "Sketchbook",
+      "luckyColor": {
+        "name": "Yellow",
+        "hex": "#F0C419"
+      },
+      "motif": "a sibling you undersell",
+      "message": "You make your sibling sound boring. Just don't bring them up today."
+    },
+    {
+      "rank": 12,
+      "sign": "goat",
+      "score": 40,
+      "reasons": [
+        "Goat sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Seam Ripper",
+      "luckyColor": {
+        "name": "Violet",
+        "hex": "#6A4C93"
+      },
+      "motif": "a bill quietly covered",
+      "message": "Someone paid and never mentioned it. Sorting that out can wait."
+    }
+  ]
+}

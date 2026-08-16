@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-03",
+  "version": 1,
+  "generatedAt": "2026-08-16T01:13:24.945Z",
+  "day": {
+    "animal": "tiger",
+    "branch": "寅",
+    "headline": "A Tiger day — Horse and Dog are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "goat",
+      "score": 89,
+      "reasons": [
+        "Goat sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Pastel Highlighter",
+      "luckyColor": {
+        "name": "Mint",
+        "hex": "#9FD9BE"
+      },
+      "motif": "the total that does not add up",
+      "message": "The math's off by twenty. Ask about it now, politely."
+    },
+    {
+      "rank": 2,
+      "sign": "tiger",
+      "score": 85,
+      "reasons": [
+        "Tiger's own day — your energy runs high"
+      ],
+      "luckyItem": "Dominoes",
+      "luckyColor": {
+        "name": "Mustard",
+        "hex": "#C9A227"
+      },
+      "motif": "something glued twice already",
+      "message": "Two rounds of glue means buy the real replacement today."
+    },
+    {
+      "rank": 3,
+      "sign": "rooster",
+      "score": 85,
+      "reasons": [
+        "Rooster sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Mousepad",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "the thing circled for weeks",
+      "message": "You've stared at that date for weeks. Go, obviously."
+    },
+    {
+      "rank": 4,
+      "sign": "dragon",
+      "score": 83,
+      "reasons": [
+        "Dragon sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Wooden Hanger",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "a text sent for no reason",
+      "message": "Text her nothing in particular. No reason is the reason."
+    },
+    {
+      "rank": 5,
+      "sign": "pig",
+      "score": 79,
+      "reasons": [
+        "Pig pairs with Tiger — a harmonious day"
+      ],
+      "luckyItem": "Espresso Cup",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "motif": "a rivalry only you know about",
+      "message": "Your secret competition? Quietly outwork her this afternoon, no announcement."
+    },
+    {
+      "rank": 6,
+      "sign": "horse",
+      "score": 78,
+      "reasons": [
+        "Horse and Tiger share a triad — strong alignment today"
+      ],
+      "luckyItem": "Glass Tumbler",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "one deep breath at the door",
+      "message": "Inhale once at the threshold, then walk in like that."
+    },
+    {
+      "rank": 7,
+      "sign": "rat",
+      "score": 70,
+      "reasons": [
+        "Rat sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Body Oil",
+      "luckyColor": {
+        "name": "Gold",
+        "hex": "#D4A017"
+      },
+      "motif": "the thing you scroll past",
+      "message": "You keep flicking past it. Stop, read the thing."
+    },
+    {
+      "rank": 8,
+      "sign": "dog",
+      "score": 63,
+      "reasons": [
+        "Dog and Tiger share a triad — strong alignment today"
+      ],
+      "luckyItem": "Corner Booth",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "the reply rewritten four times",
+      "message": "Version four is fine. Send it, close the app."
+    },
+    {
+      "rank": 9,
+      "sign": "rabbit",
+      "score": 61,
+      "reasons": [
+        "Rabbit sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Beaded Bracelet",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "a delay of eleven minutes",
+      "message": "Eleven minutes behind is nothing. Don't jog for it."
+    },
+    {
+      "rank": 10,
+      "sign": "snake",
+      "score": 57,
+      "reasons": [
+        "Snake sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Heatless Curler",
+      "luckyColor": {
+        "name": "Salmon",
+        "hex": "#EE8A76"
+      },
+      "motif": "a song stuck since morning",
+      "message": "That chorus has been looping since 8am. Let it live."
+    },
+    {
+      "rank": 11,
+      "sign": "ox",
+      "score": 48,
+      "reasons": [
+        "Ox sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Umbrella Sleeve",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "an early night that never happens",
+      "message": "You've promised yourself a 10pm for a week. Tonight, actually."
+    },
+    {
+      "rank": 12,
+      "sign": "monkey",
+      "score": 47,
+      "reasons": [
+        "Monkey opposes Tiger — a day to take slowly"
+      ],
+      "luckyItem": "Wool Beret",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "the notification badge ignored all week",
+      "message": "The little number's been there since Monday. Still not urgent."
+    }
+  ]
+}

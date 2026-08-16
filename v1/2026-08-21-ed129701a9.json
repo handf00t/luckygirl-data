@@ -1,0 +1,192 @@
+{
+  "date": "2026-08-21",
+  "version": 1,
+  "generatedAt": "2026-08-16T01:09:20.415Z",
+  "day": {
+    "animal": "ox",
+    "branch": "丑",
+    "headline": "A Ox day — Snake and Rooster are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "rat",
+      "score": 90,
+      "reasons": [
+        "Rat pairs with Ox — a harmonious day"
+      ],
+      "luckyItem": "Under Eye Patch",
+      "luckyColor": {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      "motif": "a comment you drafted",
+      "message": "That comment's been sitting in the box. Post it."
+    },
+    {
+      "rank": 2,
+      "sign": "rooster",
+      "score": 84,
+      "reasons": [
+        "Rooster and Ox share a triad — strong alignment today"
+      ],
+      "luckyItem": "Linen Shirt",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "the recycling sorted wrongly",
+      "message": "Fish the wrong thing out of the blue bin. Redo it."
+    },
+    {
+      "rank": 3,
+      "sign": "snake",
+      "score": 76,
+      "reasons": [
+        "Snake and Ox share a triad — strong alignment today"
+      ],
+      "luckyItem": "Travel Pillow",
+      "luckyColor": {
+        "name": "Denim Blue",
+        "hex": "#3F5C7A"
+      },
+      "motif": "the volume everyone else finds loud",
+      "message": "Keep it at the volume you like. It's your apartment."
+    },
+    {
+      "rank": 4,
+      "sign": "pig",
+      "score": 68,
+      "reasons": [
+        "Pig sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Blotting Paper",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "somewhere new on the same street",
+      "message": "There's a new door two buildings down. Walk in today."
+    },
+    {
+      "rank": 5,
+      "sign": "ox",
+      "score": 55,
+      "reasons": [
+        "Ox's own day — your energy runs high"
+      ],
+      "luckyItem": "Hiking Sock",
+      "luckyColor": {
+        "name": "Green",
+        "hex": "#2E8B4F"
+      },
+      "motif": "a heat that slows the day",
+      "message": "It's too hot to rush. Do everything at half speed."
+    },
+    {
+      "rank": 6,
+      "sign": "goat",
+      "score": 54,
+      "reasons": [
+        "Goat opposes Ox — a day to take slowly"
+      ],
+      "luckyItem": "Kite",
+      "luckyColor": {
+        "name": "Mint",
+        "hex": "#9FD9BE"
+      },
+      "motif": "counting hours backwards",
+      "message": "Work backward from when you want to be home."
+    },
+    {
+      "rank": 7,
+      "sign": "tiger",
+      "score": 50,
+      "reasons": [
+        "Tiger sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Perfume Vial",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "a hand cream never opened",
+      "message": "Crack the seal on the fancy hand cream. Use it."
+    },
+    {
+      "rank": 8,
+      "sign": "monkey",
+      "score": 43,
+      "reasons": [
+        "Monkey sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Ice Roller",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "the bedtime that keeps sliding",
+      "message": "Bed keeps drifting later. Pull it back twenty minutes tonight."
+    },
+    {
+      "rank": 9,
+      "sign": "horse",
+      "score": 43,
+      "reasons": [
+        "Horse sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Eye Drops",
+      "luckyColor": {
+        "name": "Light Pink",
+        "hex": "#F2B8CC"
+      },
+      "motif": "a filter due for changing",
+      "message": "Something in your place needs a fresh filter. Swap it."
+    },
+    {
+      "rank": 10,
+      "sign": "rabbit",
+      "score": 42,
+      "reasons": [
+        "Rabbit sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Press On Nails",
+      "luckyColor": {
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
+      },
+      "motif": "a habit on day three",
+      "message": "Day three of the new thing. Do it badly, still counts."
+    },
+    {
+      "rank": 11,
+      "sign": "dragon",
+      "score": 37,
+      "reasons": [
+        "Dragon sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Ladle",
+      "luckyColor": {
+        "name": "Yellow",
+        "hex": "#F0C419"
+      },
+      "motif": "the coffee order you always get",
+      "message": "Order the usual. Nobody needs you to be adventurous today."
+    },
+    {
+      "rank": 12,
+      "sign": "dog",
+      "score": 37,
+      "reasons": [
+        "Dog sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Bottle Opener",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "a day off spent tidying",
+      "message": "Your day off isn't for chores. Leave the mess standing."
+    }
+  ]
+}
