@@ -1,180 +1,180 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-15",
   "version": 1,
-  "generatedAt": "2026-08-15T20:35:45.060Z",
+  "generatedAt": "2026-08-15T20:35:11.160Z",
   "day": {
-    "animal": "rooster",
-    "branch": "酉",
-    "headline": "A Rooster day — Ox and Snake are in step."
+    "animal": "goat",
+    "branch": "未",
+    "headline": "A Goat day — Rabbit and Pig are in step."
   },
   "signs": [
     {
       "rank": 1,
-      "sign": "goat",
-      "score": 96,
+      "sign": "horse",
+      "score": 95,
       "reasons": [
-        "Goat sits apart from Rooster — the day is yours to steer"
+        "Horse pairs with Goat — a harmonious day"
       ],
-      "luckyItem": "Compass",
+      "luckyItem": "Sweet Potato Fries",
       "luckyColor": {
-        "name": "Teal",
-        "hex": "#2A6B6F"
-      },
-      "message": "Pick the plan, say it out loud, let others follow."
-    },
-    {
-      "rank": 2,
-      "sign": "rabbit",
-      "score": 90,
-      "reasons": [
-        "Rabbit opposes Rooster — a day to take slowly"
-      ],
-      "luckyItem": "Heat Pack",
-      "luckyColor": {
-        "name": "Plum",
-        "hex": "#7A3B63"
+        "name": "Green",
+        "hex": "#2E8B4F"
       },
       "message": "Say yes to tonight before you talk yourself out of it."
     },
     {
+      "rank": 2,
+      "sign": "goat",
+      "score": 94,
+      "reasons": [
+        "Goat's own day — your energy runs high"
+      ],
+      "luckyItem": "Skipping Stone",
+      "luckyColor": {
+        "name": "Lime",
+        "hex": "#8BC34A"
+      },
+      "message": "Make the plan yourself, the group chat will catch up."
+    },
+    {
       "rank": 3,
-      "sign": "rooster",
-      "score": 86,
-      "reasons": [
-        "Rooster's own day — your energy runs high"
-      ],
-      "luckyItem": "Ring Light",
-      "luckyColor": {
-        "name": "Mint",
-        "hex": "#9FD9BE"
-      },
-      "message": "Post the second photo, not the safe one."
-    },
-    {
-      "rank": 4,
-      "sign": "horse",
-      "score": 84,
-      "reasons": [
-        "Horse sits apart from Rooster — the day is yours to steer"
-      ],
-      "luckyItem": "Chore Coat",
-      "luckyColor": {
-        "name": "Burgundy",
-        "hex": "#6E1B2E"
-      },
-      "message": "Go to the class. The outfit's already sitting there."
-    },
-    {
-      "rank": 5,
-      "sign": "snake",
-      "score": 80,
-      "reasons": [
-        "Snake and Rooster share a triad — strong alignment today"
-      ],
-      "luckyItem": "Phone Grip",
-      "luckyColor": {
-        "name": "Olive",
-        "hex": "#6B7233"
-      },
-      "message": "Answer the message you left on read Tuesday."
-    },
-    {
-      "rank": 6,
-      "sign": "ox",
-      "score": 69,
-      "reasons": [
-        "Ox and Rooster share a triad — strong alignment today"
-      ],
-      "luckyItem": "Cream Puff",
-      "luckyColor": {
-        "name": "Apricot",
-        "hex": "#F0A868"
-      },
-      "message": "Get the pastry with the iced coffee. Uncomplicated win."
-    },
-    {
-      "rank": 7,
-      "sign": "dog",
-      "score": 65,
-      "reasons": [
-        "Dog sits apart from Rooster — the day is yours to steer"
-      ],
-      "luckyItem": "Granola",
-      "luckyColor": {
-        "name": "Pink",
-        "hex": "#E88BAE"
-      },
-      "message": "Eat something real before the group chat picks a place."
-    },
-    {
-      "rank": 8,
-      "sign": "dragon",
-      "score": 65,
-      "reasons": [
-        "Dragon pairs with Rooster — a harmonious day"
-      ],
-      "luckyItem": "Mesh Tote",
-      "luckyColor": {
-        "name": "Lemon",
-        "hex": "#F5E05A"
-      },
-      "message": "Empty the bag you've been hauling around since Thursday."
-    },
-    {
-      "rank": 9,
-      "sign": "rat",
-      "score": 63,
-      "reasons": [
-        "Rat sits apart from Rooster — the day is yours to steer"
-      ],
-      "luckyItem": "Pocket Notebook",
-      "luckyColor": {
-        "name": "Light Pink",
-        "hex": "#F2B8CC"
-      },
-      "message": "Write the thought down instead of announcing it to everyone."
-    },
-    {
-      "rank": 10,
       "sign": "monkey",
-      "score": 47,
+      "score": 87,
       "reasons": [
-        "Monkey sits apart from Rooster — the day is yours to steer"
+        "Monkey sits apart from Goat — the day is yours to steer"
       ],
-      "luckyItem": "Gyoza",
-      "luckyColor": {
-        "name": "Black",
-        "hex": "#1F1F1F"
-      },
-      "message": "Dumplings on your couch beats the third venue tonight."
-    },
-    {
-      "rank": 11,
-      "sign": "tiger",
-      "score": 45,
-      "reasons": [
-        "Tiger sits apart from Rooster — the day is yours to steer"
-      ],
-      "luckyItem": "Salted Almonds",
-      "luckyColor": {
-        "name": "Peach",
-        "hex": "#F5B78E"
-      },
-      "message": "Snack instead of caffeinating. Today doesn't need more volume."
-    },
-    {
-      "rank": 12,
-      "sign": "pig",
-      "score": 43,
-      "reasons": [
-        "Pig sits apart from Rooster — the day is yours to steer"
-      ],
-      "luckyItem": "Papaya",
+      "luckyItem": "Jasmine Tea",
       "luckyColor": {
         "name": "Coral",
         "hex": "#E96B5A"
       },
-      "message": "Cancel early enough to actually enjoy the cancelling."
+      "message": "Ask for the thing plainly today, no long windup."
+    },
+    {
+      "rank": 4,
+      "sign": "tiger",
+      "score": 86,
+      "reasons": [
+        "Tiger sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Muesli",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "message": "Wear the outfit you already laid out, no second-guessing."
+    },
+    {
+      "rank": 5,
+      "sign": "pig",
+      "score": 83,
+      "reasons": [
+        "Pig and Goat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Onigiri",
+      "luckyColor": {
+        "name": "Light Pink",
+        "hex": "#F2B8CC"
+      },
+      "message": "Handle the errand you keep sliding to tomorrow."
+    },
+    {
+      "rank": 6,
+      "sign": "snake",
+      "score": 78,
+      "reasons": [
+        "Snake sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Ruler",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "message": "Close nine tabs, keep the two that actually matter."
+    },
+    {
+      "rank": 7,
+      "sign": "rooster",
+      "score": 74,
+      "reasons": [
+        "Rooster sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Raspberries",
+      "luckyColor": {
+        "name": "Charcoal",
+        "hex": "#3A3A3A"
+      },
+      "message": "Answer the message you left on read Tuesday."
+    },
+    {
+      "rank": 8,
+      "sign": "rat",
+      "score": 69,
+      "reasons": [
+        "Rat sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Sourdough Slice",
+      "luckyColor": {
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
+      },
+      "message": "Real lunch before the third iced anything."
+    },
+    {
+      "rank": 9,
+      "sign": "rabbit",
+      "score": 55,
+      "reasons": [
+        "Rabbit and Goat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Slide Sandals",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "message": "Skip pilates, walk somewhere close and slow instead."
+    },
+    {
+      "rank": 10,
+      "sign": "ox",
+      "score": 53,
+      "reasons": [
+        "Ox opposes Goat — a day to take slowly"
+      ],
+      "luckyItem": "Banana",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "message": "The couch counts as a destination today."
+    },
+    {
+      "rank": 11,
+      "sign": "dog",
+      "score": 46,
+      "reasons": [
+        "Dog sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Layered Chain",
+      "luckyColor": {
+        "name": "Lemon",
+        "hex": "#F5E05A"
+      },
+      "message": "Cancel the plans you're only sixty percent into."
+    },
+    {
+      "rank": 12,
+      "sign": "dragon",
+      "score": 42,
+      "reasons": [
+        "Dragon sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Eggplant Parmesan",
+      "luckyColor": {
+        "name": "Dark Green",
+        "hex": "#1F5C36"
+      },
+      "message": "Order in, leave your phone across the room."
     }
   ]
 }
