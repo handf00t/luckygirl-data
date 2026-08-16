@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Rolling Pin",
       "luckyColor": {
-        "name": "Burgundy",
-        "hex": "#6E1B2E"
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
       },
       "motif": "someone new on the team",
       "message": "Grab the new hire for coffee before someone duller does."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Free Newspaper",
       "luckyColor": {
-        "name": "Sage",
-        "hex": "#A3B59A"
+        "name": "Yellow",
+        "hex": "#F0C419"
       },
       "motif": "a hand cream never opened",
       "message": "Still sealed since whenever. Open it, use an obscene amount."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Boarding Pass",
       "luckyColor": {
-        "name": "White",
-        "hex": "#FFFFFF"
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
       },
       "motif": "a lunch brought and forgotten",
       "message": "You built that lunch and left it home. Go get it."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Setting Spray",
       "luckyColor": {
-        "name": "Lemon",
-        "hex": "#F5E05A"
+        "name": "Navy",
+        "hex": "#23375E"
       },
       "motif": "a notification you keep swiping away",
       "message": "Fourth swipe today. Open it, do the thing, forget it."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Bangle",
       "luckyColor": {
-        "name": "Orange",
-        "hex": "#E8730C"
+        "name": "Brown",
+        "hex": "#6B4A32"
       },
       "motif": "a lift you decided not to take",
       "message": "Turning down that ride means you get your podcast. Fine trade."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Speckled Bowl",
       "luckyColor": {
-        "name": "Coral",
-        "hex": "#E96B5A"
+        "name": "Purple",
+        "hex": "#7B3FA0"
       },
       "motif": "a herb that never lasts",
       "message": "The cilantro's slime again. Chop what's left tonight, no guilt."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Jacks",
       "luckyColor": {
-        "name": "Denim Blue",
-        "hex": "#3F5C7A"
+        "name": "Red",
+        "hex": "#CC3333"
       },
       "motif": "a street you have never turned down",
       "message": "Turn left where you always go straight. Five minutes, that's all."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Vinyl Sleeve",
       "luckyColor": {
-        "name": "Mustard",
-        "hex": "#C9A227"
+        "name": "Pink",
+        "hex": "#E88BAE"
       },
       "motif": "sitting down to think and not thinking",
       "message": "You sat down to think and thought nothing. Still counts."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Film Roll",
       "luckyColor": {
-        "name": "Apricot",
-        "hex": "#F0A868"
+        "name": "Hot Pink",
+        "hex": "#E5417F"
       },
       "motif": "the feed you know is bad for you",
       "message": "You know which app sours the whole day. Skip it entirely."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Podcast Queue",
       "luckyColor": {
-        "name": "Chocolate",
-        "hex": "#4A3728"
+        "name": "White",
+        "hex": "#FFFFFF"
       },
       "motif": "the last one on the shelf",
       "message": "Someone else can have the last one. You didn't need it."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Sketchbook",
       "luckyColor": {
-        "name": "Yellow",
-        "hex": "#F0C419"
+        "name": "Orange",
+        "hex": "#E8730C"
       },
       "motif": "a sibling you undersell",
       "message": "You make your sibling sound boring. Just don't bring them up today."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Seam Ripper",
       "luckyColor": {
-        "name": "Violet",
-        "hex": "#6A4C93"
+        "name": "Gray",
+        "hex": "#8A8A8A"
       },
       "motif": "a bill quietly covered",
       "message": "Someone paid and never mentioned it. Sorting that out can wait."

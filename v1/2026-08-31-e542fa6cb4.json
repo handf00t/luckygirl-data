@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Cookie Cutter",
       "luckyColor": {
-        "name": "Coral",
-        "hex": "#E96B5A"
+        "name": "Black",
+        "hex": "#1F1F1F"
       },
       "motif": "a detour past the water",
       "message": "Detour along the water on the way home. Windows down."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Photo Magnet",
       "luckyColor": {
-        "name": "Teal",
-        "hex": "#2A6B6F"
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
       },
       "motif": "a stranger who helped",
       "message": "Somebody stopped to help you once. Do that for someone."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Blue Pen",
       "luckyColor": {
-        "name": "Lime",
-        "hex": "#8BC34A"
+        "name": "Silver",
+        "hex": "#C0C0C0"
       },
       "motif": "the page you keep losing",
       "message": "Stop hunting for your place. Mark it, keep reading."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Postcard Stamp",
       "luckyColor": {
-        "name": "Charcoal",
-        "hex": "#3A3A3A"
+        "name": "Peach",
+        "hex": "#F5B78E"
       },
       "motif": "the seat at the front",
       "message": "Take the front row. You didn't come here to hide."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Hat Box",
       "luckyColor": {
-        "name": "Dark Green",
-        "hex": "#1F5C36"
+        "name": "Lavender",
+        "hex": "#B9A2DB"
       },
       "motif": "the screen time report",
       "message": "Screen time's ugly this week. Reclaim one hour, call it fixed."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Pencil Case",
       "luckyColor": {
-        "name": "Navy",
-        "hex": "#23375E"
+        "name": "Pink",
+        "hex": "#E88BAE"
       },
       "motif": "a jacket for the wrong weather",
       "message": "Overdressed for a warm one. Tie it around your waist."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Pocket Radio",
       "luckyColor": {
-        "name": "Mint",
-        "hex": "#9FD9BE"
+        "name": "Hot Pink",
+        "hex": "#E5417F"
       },
       "motif": "wind that ruins everything",
       "message": "It's gusting outside. Braid it now, skip the mirror checks."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Hair Mask",
       "luckyColor": {
-        "name": "Red",
-        "hex": "#CC3333"
+        "name": "Purple",
+        "hex": "#7B3FA0"
       },
       "motif": "a jar nearly empty",
       "message": "One spoonful left. Use it tonight, then write it down."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Wool Coat",
       "luckyColor": {
-        "name": "Plum",
-        "hex": "#7A3B63"
+        "name": "Brown",
+        "hex": "#6B4A32"
       },
       "motif": "a lift you decided not to take",
       "message": "Skipping that ride was right. Long walk, no rush."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Jewellery Roll",
       "luckyColor": {
-        "name": "Salmon",
-        "hex": "#EE8A76"
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
       },
       "motif": "a discount about to expire",
       "message": "Let the promo lapse. You'd forgotten about it until now."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Laundry Basket",
       "luckyColor": {
-        "name": "Light Blue",
-        "hex": "#A8D4F0"
+        "name": "Navy",
+        "hex": "#23375E"
       },
       "motif": "an opinion you have not voiced",
       "message": "The take can stay in your notes app tonight."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Muffin Tray",
       "luckyColor": {
-        "name": "Green",
-        "hex": "#2E8B4F"
+        "name": "Orange",
+        "hex": "#E8730C"
       },
       "motif": "the letter you have not opened",
       "message": "Leave the envelope shut. Nothing in it needs you today."

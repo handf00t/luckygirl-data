@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Grater",
       "luckyColor": {
-        "name": "Silver",
-        "hex": "#C0C0C0"
+        "name": "Pink",
+        "hex": "#E88BAE"
       },
       "motif": "a name said out loud for the first time",
       "message": "You've typed it a hundred times. Let people hear it."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Bronzer Compact",
       "luckyColor": {
-        "name": "Light Pink",
-        "hex": "#F2B8CC"
+        "name": "Purple",
+        "hex": "#7B3FA0"
       },
       "motif": "the bakery queue",
       "message": "Queue's long, pastries are worth it. Get two while you're there."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Greeting Card",
       "luckyColor": {
-        "name": "Pink",
-        "hex": "#E88BAE"
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
       },
       "motif": "a song that gets you every time",
       "message": "Put it on first thing. Let it wreck you properly."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Hourglass",
       "luckyColor": {
-        "name": "Teal",
-        "hex": "#2A6B6F"
+        "name": "Blue",
+        "hex": "#2F6FD0"
       },
       "motif": "the app opened without deciding to",
       "message": "Your thumb went there again. Move the icon off page one."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Dental Floss",
       "luckyColor": {
-        "name": "Navy",
-        "hex": "#23375E"
+        "name": "Beige",
+        "hex": "#D9C7AE"
       },
       "motif": "the exact volume you like",
       "message": "Find your setting, then stop touching the dial."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Ankle Weight",
       "luckyColor": {
-        "name": "Denim Blue",
-        "hex": "#3F5C7A"
+        "name": "Gold",
+        "hex": "#D4A017"
       },
       "motif": "a hinge that needs oil",
       "message": "That squeak is a two-minute fix. Olive oil, done."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Nylon Backpack",
       "luckyColor": {
-        "name": "Purple",
-        "hex": "#7B3FA0"
+        "name": "Red",
+        "hex": "#CC3333"
       },
       "motif": "a route walked on autopilot",
       "message": "You could walk it asleep. Cross to the other side."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Cotton Pads",
       "luckyColor": {
-        "name": "Lime",
-        "hex": "#8BC34A"
+        "name": "Mint",
+        "hex": "#9FD9BE"
       },
       "motif": "the end of the month",
       "message": "Five days left. Pick one thing to actually finish."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Knitting Gauge",
       "luckyColor": {
-        "name": "Lemon",
-        "hex": "#F5E05A"
+        "name": "Yellow",
+        "hex": "#F0C419"
       },
       "motif": "the long way home",
       "message": "Skip the scenic detour tonight. Straight home, shoes off."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Concealer Stick",
       "luckyColor": {
-        "name": "Chocolate",
-        "hex": "#4A3728"
+        "name": "Gray",
+        "hex": "#8A8A8A"
       },
       "motif": "the beginner class you would enjoy",
       "message": "It'll still be running next week. Book nothing today."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Puffer Vest",
       "luckyColor": {
-        "name": "Charcoal",
-        "hex": "#3A3A3A"
+        "name": "Orange",
+        "hex": "#E8730C"
       },
       "motif": "someone new on the team",
       "message": "You don't have to be the welcome committee today."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Beach Chair",
       "luckyColor": {
-        "name": "Dark Red",
-        "hex": "#8B1A1A"
+        "name": "White",
+        "hex": "#FFFFFF"
       },
       "motif": "someone in your reserved seat",
       "message": "Take the empty one nearby. Not worth the conversation."

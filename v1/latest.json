@@ -1,192 +1,192 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "version": 1,
-  "generatedAt": "2026-08-16T01:07:49.188Z",
+  "generatedAt": "2026-08-16T01:08:42.786Z",
   "day": {
-    "animal": "goat",
-    "branch": "未",
-    "headline": "A Goat day — Rabbit and Pig are in step."
+    "animal": "monkey",
+    "branch": "申",
+    "headline": "A Monkey day — Rat and Dragon are in step."
   },
   "signs": [
     {
       "rank": 1,
-      "sign": "horse",
-      "score": 95,
+      "sign": "dragon",
+      "score": 92,
       "reasons": [
-        "Horse pairs with Goat — a harmonious day"
+        "Dragon and Monkey share a triad — strong alignment today"
       ],
-      "luckyItem": "Arm Warmers",
+      "luckyItem": "Silk Eye Mask",
       "luckyColor": {
-        "name": "Green",
-        "hex": "#2E8B4F"
+        "name": "Gold",
+        "hex": "#D4A017"
       },
-      "motif": "the walk after eating",
-      "message": "Get up after eating and walk the long way home."
+      "motif": "a voice heard through a wall",
+      "message": "That voice through the wall belongs to someone. Introduce yourself."
     },
     {
       "rank": 2,
-      "sign": "goat",
-      "score": 94,
+      "sign": "ox",
+      "score": 84,
       "reasons": [
-        "Goat's own day — your energy runs high"
+        "Ox sits apart from Monkey — the day is yours to steer"
       ],
-      "luckyItem": "Bucket Hat",
+      "luckyItem": "Bar Stool",
       "luckyColor": {
-        "name": "Lime",
-        "hex": "#8BC34A"
+        "name": "Hot Pink",
+        "hex": "#E5417F"
       },
-      "motif": "a mug that is yours",
-      "message": "Take the good mug. Say it's yours if anyone asks."
+      "motif": "someone you outgrew",
+      "message": "You've outgrown them. Let that be true without a speech."
     },
     {
       "rank": 3,
-      "sign": "monkey",
-      "score": 87,
+      "sign": "dog",
+      "score": 76,
       "reasons": [
-        "Monkey sits apart from Goat — the day is yours to steer"
+        "Dog sits apart from Monkey — the day is yours to steer"
       ],
-      "luckyItem": "Paper Clips",
-      "luckyColor": {
-        "name": "Coral",
-        "hex": "#E96B5A"
-      },
-      "motif": "the last slice nobody claims",
-      "message": "Claim the last slice. Standing over the box counts."
-    },
-    {
-      "rank": 4,
-      "sign": "tiger",
-      "score": 86,
-      "reasons": [
-        "Tiger sits apart from Goat — the day is yours to steer"
-      ],
-      "luckyItem": "Coat Peg",
-      "luckyColor": {
-        "name": "Peach",
-        "hex": "#F5B78E"
-      },
-      "motif": "a dinner that took too long",
-      "message": "Let dinner run long tonight. Nobody's timing you."
-    },
-    {
-      "rank": 5,
-      "sign": "pig",
-      "score": 83,
-      "reasons": [
-        "Pig and Goat share a triad — strong alignment today"
-      ],
-      "luckyItem": "Tweezers",
-      "luckyColor": {
-        "name": "Light Pink",
-        "hex": "#F2B8CC"
-      },
-      "motif": "the good idea written on a receipt",
-      "message": "Find that receipt and type the idea somewhere real."
-    },
-    {
-      "rank": 6,
-      "sign": "snake",
-      "score": 78,
-      "reasons": [
-        "Snake sits apart from Goat — the day is yours to steer"
-      ],
-      "luckyItem": "Mini Speaker",
-      "luckyColor": {
-        "name": "Tan",
-        "hex": "#C4A484"
-      },
-      "motif": "the Saturday with nothing booked",
-      "message": "Guard the empty Saturday. One errand, then back to nothing."
-    },
-    {
-      "rank": 7,
-      "sign": "rooster",
-      "score": 74,
-      "reasons": [
-        "Rooster sits apart from Goat — the day is yours to steer"
-      ],
-      "luckyItem": "Folding Stool",
-      "luckyColor": {
-        "name": "Charcoal",
-        "hex": "#3A3A3A"
-      },
-      "motif": "an appointment to reschedule",
-      "message": "Move the appointment now, before the reminder guilts you again."
-    },
-    {
-      "rank": 8,
-      "sign": "rat",
-      "score": 69,
-      "reasons": [
-        "Rat sits apart from Goat — the day is yours to steer"
-      ],
-      "luckyItem": "Coffee Scoop",
-      "luckyColor": {
-        "name": "Sky Blue",
-        "hex": "#7EC0EE"
-      },
-      "motif": "the second half of the day",
-      "message": "Do the real thing after lunch, not before."
-    },
-    {
-      "rank": 9,
-      "sign": "rabbit",
-      "score": 55,
-      "reasons": [
-        "Rabbit and Goat share a triad — strong alignment today"
-      ],
-      "luckyItem": "Cashmere Sock",
-      "luckyColor": {
-        "name": "Blue",
-        "hex": "#2F6FD0"
-      },
-      "motif": "a coat with something in the pocket",
-      "message": "Go through last winter's coat pockets. Free indoor entertainment."
-    },
-    {
-      "rank": 10,
-      "sign": "ox",
-      "score": 53,
-      "reasons": [
-        "Ox opposes Goat — a day to take slowly"
-      ],
-      "luckyItem": "Linen Tote",
+      "luckyItem": "Kaleidoscope",
       "luckyColor": {
         "name": "Burgundy",
         "hex": "#6E1B2E"
       },
-      "motif": "a park with one good bench",
-      "message": "Walk to the one good bench and achieve nothing there."
+      "motif": "a day off used badly",
+      "message": "Blow the whole free day on something dumb. Fully commit."
+    },
+    {
+      "rank": 4,
+      "sign": "rabbit",
+      "score": 73,
+      "reasons": [
+        "Rabbit sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Screen Protector",
+      "luckyColor": {
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
+      },
+      "motif": "the yawn that will not finish",
+      "message": "That half-yawn means step outside, not another iced anything."
+    },
+    {
+      "rank": 5,
+      "sign": "tiger",
+      "score": 72,
+      "reasons": [
+        "Tiger opposes Monkey — a day to take slowly"
+      ],
+      "luckyItem": "Butter Dish",
+      "luckyColor": {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      "motif": "the way you make tea",
+      "message": "Make the tea properly today. Kettle, timer, the good leaves."
+    },
+    {
+      "rank": 6,
+      "sign": "rooster",
+      "score": 69,
+      "reasons": [
+        "Rooster sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Record Sleeve",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "a stone kept from somewhere",
+      "message": "That rock from the trip deserves better than a drawer."
+    },
+    {
+      "rank": 7,
+      "sign": "snake",
+      "score": 68,
+      "reasons": [
+        "Snake pairs with Monkey — a harmonious day"
+      ],
+      "luckyItem": "Lunch Tote",
+      "luckyColor": {
+        "name": "Purple",
+        "hex": "#7B3FA0"
+      },
+      "motif": "the cheaper platform",
+      "message": "Wear the cheaper platforms. You're walking further than planned."
+    },
+    {
+      "rank": 8,
+      "sign": "monkey",
+      "score": 65,
+      "reasons": [
+        "Monkey's own day — your energy runs high"
+      ],
+      "luckyItem": "Night Light",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "something outgrown but kept",
+      "message": "That jacket you've stopped wearing? Into the donate pile."
+    },
+    {
+      "rank": 9,
+      "sign": "rat",
+      "score": 62,
+      "reasons": [
+        "Rat and Monkey share a triad — strong alignment today"
+      ],
+      "luckyItem": "Loaf Tin",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "the pen about to run out",
+      "message": "The pen's nearly out. Use it up, replace it tomorrow."
+    },
+    {
+      "rank": 10,
+      "sign": "horse",
+      "score": 51,
+      "reasons": [
+        "Horse sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Sieve",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "a bag packed the night before",
+      "message": "Leave the bag by the door. Stop repacking it."
     },
     {
       "rank": 11,
-      "sign": "dog",
-      "score": 46,
+      "sign": "pig",
+      "score": 50,
       "reasons": [
-        "Dog sits apart from Goat — the day is yours to steer"
+        "Pig sits apart from Monkey — the day is yours to steer"
       ],
-      "luckyItem": "Playing Card",
+      "luckyItem": "Satin Bonnet",
       "luckyColor": {
-        "name": "Lemon",
-        "hex": "#F5E05A"
+        "name": "Yellow",
+        "hex": "#F0C419"
       },
-      "motif": "an instrument in its case",
-      "message": "Leave it in the case. No one's grading you."
+      "motif": "the album that fits the weather",
+      "message": "Play the album that matches the sky. Stay put."
     },
     {
       "rank": 12,
-      "sign": "dragon",
-      "score": 42,
+      "sign": "goat",
+      "score": 40,
       "reasons": [
-        "Dragon sits apart from Goat — the day is yours to steer"
+        "Goat sits apart from Monkey — the day is yours to steer"
       ],
-      "luckyItem": "Pin Badge",
+      "luckyItem": "Ear Cuff",
       "luckyColor": {
-        "name": "Dark Green",
-        "hex": "#1F5C36"
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
       },
-      "motif": "the choice you keep deferring",
-      "message": "Put the decision off one more day. It keeps."
+      "motif": "the thought you cannot finish",
+      "message": "Let the half-thought stay half. Shut the laptop."
     }
   ]
 }

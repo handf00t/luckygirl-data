@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Under Eye Patch",
       "luckyColor": {
-        "name": "White",
-        "hex": "#FFFFFF"
+        "name": "Brown",
+        "hex": "#6B4A32"
       },
       "motif": "a comment you drafted",
       "message": "That comment's been sitting in the box. Post it."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Linen Shirt",
       "luckyColor": {
-        "name": "Sage",
-        "hex": "#A3B59A"
+        "name": "Olive",
+        "hex": "#6B7233"
       },
       "motif": "the recycling sorted wrongly",
       "message": "Fish the wrong thing out of the blue bin. Redo it."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Travel Pillow",
       "luckyColor": {
-        "name": "Denim Blue",
-        "hex": "#3F5C7A"
+        "name": "Silver",
+        "hex": "#C0C0C0"
       },
       "motif": "the volume everyone else finds loud",
       "message": "Keep it at the volume you like. It's your apartment."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Blotting Paper",
       "luckyColor": {
-        "name": "Brown",
-        "hex": "#6B4A32"
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
       },
       "motif": "somewhere new on the same street",
       "message": "There's a new door two buildings down. Walk in today."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Hiking Sock",
       "luckyColor": {
-        "name": "Green",
-        "hex": "#2E8B4F"
+        "name": "Peach",
+        "hex": "#F5B78E"
       },
       "motif": "a heat that slows the day",
       "message": "It's too hot to rush. Do everything at half speed."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Kite",
       "luckyColor": {
-        "name": "Mint",
-        "hex": "#9FD9BE"
+        "name": "Beige",
+        "hex": "#D9C7AE"
       },
       "motif": "counting hours backwards",
       "message": "Work backward from when you want to be home."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Perfume Vial",
       "luckyColor": {
-        "name": "Olive",
-        "hex": "#6B7233"
+        "name": "Navy",
+        "hex": "#23375E"
       },
       "motif": "a hand cream never opened",
       "message": "Crack the seal on the fancy hand cream. Use it."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Ice Roller",
       "luckyColor": {
-        "name": "Blue",
-        "hex": "#2F6FD0"
+        "name": "Black",
+        "hex": "#1F1F1F"
       },
       "motif": "the bedtime that keeps sliding",
       "message": "Bed keeps drifting later. Pull it back twenty minutes tonight."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Eye Drops",
       "luckyColor": {
-        "name": "Light Pink",
-        "hex": "#F2B8CC"
+        "name": "Pink",
+        "hex": "#E88BAE"
       },
       "motif": "a filter due for changing",
       "message": "Something in your place needs a fresh filter. Swap it."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Press On Nails",
       "luckyColor": {
-        "name": "Turquoise",
-        "hex": "#3FBFBF"
+        "name": "Red",
+        "hex": "#CC3333"
       },
       "motif": "a habit on day three",
       "message": "Day three of the new thing. Do it badly, still counts."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Ladle",
       "luckyColor": {
-        "name": "Yellow",
-        "hex": "#F0C419"
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
       },
       "motif": "the coffee order you always get",
       "message": "Order the usual. Nobody needs you to be adventurous today."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Bottle Opener",
       "luckyColor": {
-        "name": "Peach",
-        "hex": "#F5B78E"
+        "name": "Gray",
+        "hex": "#8A8A8A"
       },
       "motif": "a day off spent tidying",
       "message": "Your day off isn't for chores. Leave the mess standing."

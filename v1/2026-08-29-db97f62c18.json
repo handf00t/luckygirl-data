@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Cuticle Pusher",
       "luckyColor": {
-        "name": "Rust",
-        "hex": "#A8502F"
+        "name": "Red",
+        "hex": "#CC3333"
       },
       "motif": "dry cleaning left too long",
       "message": "That ticket's been in your bag since June. Collect today."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Bell Charm",
       "luckyColor": {
-        "name": "Beige",
-        "hex": "#D9C7AE"
+        "name": "Pink",
+        "hex": "#E88BAE"
       },
       "motif": "something you keep re-reading",
       "message": "You've read it enough times. You already know. Respond."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Colouring Book",
       "luckyColor": {
-        "name": "Orange",
-        "hex": "#E8730C"
+        "name": "Gold",
+        "hex": "#D4A017"
       },
       "motif": "a broken zip",
       "message": "Take it to the tailor at lunch. Fifteen bucks, fixed."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Reading Glasses",
       "luckyColor": {
-        "name": "Pink",
-        "hex": "#E88BAE"
+        "name": "Mint",
+        "hex": "#9FD9BE"
       },
       "motif": "sunglasses with one arm loose",
       "message": "One tiny screw and they're perfect again. Do it now."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Cotton Jar",
       "luckyColor": {
-        "name": "Chocolate",
-        "hex": "#4A3728"
+        "name": "Olive",
+        "hex": "#6B7233"
       },
       "motif": "the first proper frost",
       "message": "Cold snap finally. Wear the coat you bought optimistically."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Badge Reel",
       "luckyColor": {
-        "name": "Purple",
-        "hex": "#7B3FA0"
+        "name": "Brown",
+        "hex": "#6B4A32"
       },
       "motif": "a podcast episode queued for weeks",
       "message": "Press play on the walk. Six weeks is long enough."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Foam Roller",
       "luckyColor": {
-        "name": "Sky Blue",
-        "hex": "#7EC0EE"
+        "name": "Hot Pink",
+        "hex": "#E5417F"
       },
       "motif": "a documentary saved on a whim",
       "message": "Two hours about something niche. Tonight's fine for that."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Sleep Socks",
       "luckyColor": {
-        "name": "Sage",
-        "hex": "#A3B59A"
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
       },
       "motif": "an email opened and closed twice",
       "message": "Third open, actually reply. Three lines, then archive it."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Round Sunglasses",
       "luckyColor": {
-        "name": "Hot Pink",
-        "hex": "#E5417F"
+        "name": "Silver",
+        "hex": "#C0C0C0"
       },
       "motif": "a headline that annoyed you",
       "message": "That story got you once. Don't give it a second scroll."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Key Hook",
       "luckyColor": {
-        "name": "Tan",
-        "hex": "#C4A484"
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
       },
       "motif": "a question asked twice",
       "message": "Somebody asked again. Short answer, no essay, move on."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Lint Brush",
       "luckyColor": {
-        "name": "Blue",
-        "hex": "#2F6FD0"
+        "name": "Yellow",
+        "hex": "#F0C419"
       },
       "motif": "a night of odd dreams",
       "message": "Weird sleep. Don't decode it, just go easy today."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Wavy Vase",
       "luckyColor": {
-        "name": "Olive",
-        "hex": "#6B7233"
+        "name": "Navy",
+        "hex": "#23375E"
       },
       "motif": "the earrings that never match",
       "message": "Nothing pairs. Bare ears and a slow evening in."

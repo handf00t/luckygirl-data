@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Vintage Cap",
       "luckyColor": {
-        "name": "Teal",
-        "hex": "#2A6B6F"
+        "name": "Orange",
+        "hex": "#E8730C"
       },
       "motif": "leftovers with one portion missing",
       "message": "Someone raided the fridge. Cook yourself something better than what's gone."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "String Loop",
       "luckyColor": {
-        "name": "Plum",
-        "hex": "#7A3B63"
+        "name": "Hot Pink",
+        "hex": "#E5417F"
       },
       "motif": "the nap you deserve",
       "message": "Lie down at 3pm with zero negotiation. You earned it."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Egg Timer Sand",
       "luckyColor": {
-        "name": "Burgundy",
-        "hex": "#6E1B2E"
+        "name": "Beige",
+        "hex": "#D9C7AE"
       },
       "motif": "someone recommending the same thing twice",
       "message": "Second time someone's pushed that place. Go tonight, no research."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Poster Paint",
       "luckyColor": {
-        "name": "Olive",
-        "hex": "#6B7233"
+        "name": "Green",
+        "hex": "#2E8B4F"
       },
       "motif": "the meal split unevenly",
       "message": "Say the number out loud when the check lands."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Woven Basket",
       "luckyColor": {
-        "name": "Apricot",
-        "hex": "#F0A868"
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
       },
       "motif": "the friend who moved away",
       "message": "Voice memo the one who moved. Ramble, don't edit."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Clay Block",
       "luckyColor": {
-        "name": "Pink",
-        "hex": "#E88BAE"
+        "name": "Yellow",
+        "hex": "#F0C419"
       },
       "motif": "a sleep you will not get back",
       "message": "You slept badly. Front-load the day, coast after four."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Hole Punch",
       "luckyColor": {
-        "name": "Lemon",
-        "hex": "#F5E05A"
+        "name": "Blue",
+        "hex": "#2F6FD0"
       },
       "motif": "the good day you did not notice",
       "message": "Yesterday was quietly great. Write down what made it work."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Pocket Mirror",
       "luckyColor": {
-        "name": "Light Pink",
-        "hex": "#F2B8CC"
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
       },
       "motif": "coffee made too fast",
       "message": "Coffee came out thin. Slow morning suits you anyway."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Petroleum Jelly",
       "luckyColor": {
-        "name": "Black",
-        "hex": "#1F1F1F"
+        "name": "Navy",
+        "hex": "#23375E"
       },
       "motif": "a heartbeat noticed at rest",
       "message": "Sitting still, you can hear yourself. Stay there a minute."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Peeler",
       "luckyColor": {
-        "name": "Peach",
-        "hex": "#F5B78E"
+        "name": "Gold",
+        "hex": "#D4A017"
       },
       "motif": "something bought because it was reduced",
       "message": "That sale buy isn't earning its shelf. Return window's open."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Nail File",
       "luckyColor": {
-        "name": "Coral",
-        "hex": "#E96B5A"
+        "name": "White",
+        "hex": "#FFFFFF"
       },
       "motif": "a bag of clothes for donation",
       "message": "The donation bag can live by the door another day."

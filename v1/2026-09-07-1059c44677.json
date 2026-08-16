@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Crossbody Bag",
       "luckyColor": {
-        "name": "Black",
-        "hex": "#1F1F1F"
+        "name": "Mint",
+        "hex": "#9FD9BE"
       },
       "motif": "Thursday pretending to be Friday",
       "message": "Nothing about today says Friday. Act like it does anyway."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Chain Bracelet",
       "luckyColor": {
-        "name": "Salmon",
-        "hex": "#EE8A76"
+        "name": "Peach",
+        "hex": "#F5B78E"
       },
       "motif": "a name said out loud for the first time",
       "message": "First time you call it what it is. Say it."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Weighted Eye Pillow",
       "luckyColor": {
-        "name": "Green",
-        "hex": "#2E8B4F"
+        "name": "Purple",
+        "hex": "#7B3FA0"
       },
       "motif": "the follow-up you keep postponing",
       "message": "Three weeks of meaning to. Send the second message today."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Pour Over Cone",
       "luckyColor": {
-        "name": "Pink",
-        "hex": "#E88BAE"
+        "name": "Gold",
+        "hex": "#D4A017"
       },
       "motif": "coins in a jar",
       "message": "Dump the jar out, count it, spend it on lunch."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Loyalty Card",
       "luckyColor": {
-        "name": "Mint",
-        "hex": "#9FD9BE"
+        "name": "Hot Pink",
+        "hex": "#E5417F"
       },
       "motif": "the shoes for standing all day",
       "message": "You know which pair survives eight hours. Wear those."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Pen Loop",
       "luckyColor": {
-        "name": "Sky Blue",
-        "hex": "#7EC0EE"
+        "name": "Navy",
+        "hex": "#23375E"
       },
       "motif": "the tab kept for one sentence",
       "message": "Copy the one line you wanted, then close the tab."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Glue Stick",
       "luckyColor": {
-        "name": "Rust",
-        "hex": "#A8502F"
+        "name": "White",
+        "hex": "#FFFFFF"
       },
       "motif": "an anniversary of nothing in particular",
       "message": "A year since that random day. Mark it quietly, alone."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Hula Hoop",
       "luckyColor": {
-        "name": "Beige",
-        "hex": "#D9C7AE"
+        "name": "Gray",
+        "hex": "#8A8A8A"
       },
       "motif": "a plan that sounded better yesterday",
       "message": "It sounded better last night. Go briefly, leave without explaining."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Cable Organizer",
       "luckyColor": {
-        "name": "Hot Pink",
-        "hex": "#E5417F"
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
       },
       "motif": "the button held by one thread",
       "message": "That button's decorative now. Wear something else, fix it later."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Tea Strainer",
       "luckyColor": {
-        "name": "Gold",
-        "hex": "#D4A017"
+        "name": "Lavender",
+        "hex": "#B9A2DB"
       },
       "motif": "the last carriage",
       "message": "End of the train, empty seats, headphones in. Home slowly."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Bluetooth Speaker",
       "luckyColor": {
-        "name": "Tan",
-        "hex": "#C4A484"
+        "name": "Beige",
+        "hex": "#D9C7AE"
       },
       "motif": "ten minutes before anyone needs you",
       "message": "Ten unclaimed minutes before the day starts. Stare at nothing."

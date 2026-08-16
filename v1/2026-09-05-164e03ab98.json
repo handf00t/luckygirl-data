@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Windbreaker",
       "luckyColor": {
-        "name": "Coral",
-        "hex": "#E96B5A"
+        "name": "Purple",
+        "hex": "#7B3FA0"
       },
       "motif": "a name you keep forgetting",
       "message": "Ask them again what it is. Then use it immediately."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Perfume Vial",
       "luckyColor": {
-        "name": "Navy",
-        "hex": "#23375E"
+        "name": "Black",
+        "hex": "#1F1F1F"
       },
       "motif": "a repair worth doing",
       "message": "That strap is fixable. Find someone who does that, today."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Milk Jug",
       "luckyColor": {
-        "name": "Denim Blue",
-        "hex": "#3F5C7A"
+        "name": "Lavender",
+        "hex": "#B9A2DB"
       },
       "motif": "the phone in bed",
       "message": "Charge it in the kitchen tonight. Radical, works."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Paper Shade",
       "luckyColor": {
-        "name": "Peach",
-        "hex": "#F5B78E"
+        "name": "White",
+        "hex": "#FFFFFF"
       },
       "motif": "the page you keep losing",
       "message": "Dog-ear it, use a receipt, whatever. Quit hunting every night."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Canvas Tote",
       "luckyColor": {
-        "name": "Red",
-        "hex": "#CC3333"
+        "name": "Mint",
+        "hex": "#9FD9BE"
       },
       "motif": "an argument you nearly joined",
       "message": "Your unsent take was correct. Keep it between us."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Whiteboard Marker",
       "luckyColor": {
-        "name": "Brown",
-        "hex": "#6B4A32"
+        "name": "Gray",
+        "hex": "#8A8A8A"
       },
       "motif": "a reservation for four",
       "message": "Confirm the table, then check nobody quietly bailed on you."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Marble",
       "luckyColor": {
-        "name": "Black",
-        "hex": "#1F1F1F"
+        "name": "Red",
+        "hex": "#CC3333"
       },
       "motif": "the choice you keep deferring",
       "message": "Write both options down. The dumb one's obviously winning."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Playing Card",
       "luckyColor": {
-        "name": "Apricot",
-        "hex": "#F0A868"
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
       },
       "motif": "someone you outgrew",
       "message": "No need to explain the distance to anybody today."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Nylon Backpack",
       "luckyColor": {
-        "name": "Light Pink",
-        "hex": "#F2B8CC"
+        "name": "Brown",
+        "hex": "#6B4A32"
       },
       "motif": "an early night",
       "message": "Pajamas at eight, lights off whenever. Nobody's checking."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Cup Sleeve",
       "luckyColor": {
-        "name": "Gray",
-        "hex": "#8A8A8A"
+        "name": "Blue",
+        "hex": "#2F6FD0"
       },
       "motif": "someone asking how you really are",
       "message": "Say fine for now. The long version keeps until later."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Curling Wand",
       "luckyColor": {
-        "name": "Tan",
-        "hex": "#C4A484"
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
       },
       "motif": "the shortcut you keep taking",
       "message": "Take the long way, or just don't go out."

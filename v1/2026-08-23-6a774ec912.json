@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Power Bank",
       "luckyColor": {
-        "name": "Purple",
-        "hex": "#7B3FA0"
+        "name": "White",
+        "hex": "#FFFFFF"
       },
       "motif": "the order you get dressed in",
       "message": "Shoes last, makeup first. The order's why mornings feel smooth."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Hair Tie",
       "luckyColor": {
-        "name": "Lavender",
-        "hex": "#B9A2DB"
+        "name": "Black",
+        "hex": "#1F1F1F"
       },
       "motif": "a lamp with no bulb",
       "message": "Empty socket, dark corner. Buy the bulb on your way."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Photo Strip",
       "luckyColor": {
-        "name": "Green",
-        "hex": "#2E8B4F"
+        "name": "Olive",
+        "hex": "#6B7233"
       },
       "motif": "the platform at the far end",
       "message": "Walk to the far platform. Emptier car, better ride, no crowd."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Belt Bag",
       "luckyColor": {
-        "name": "Light Blue",
-        "hex": "#A8D4F0"
+        "name": "Brown",
+        "hex": "#6B4A32"
       },
       "motif": "sleep you owe yourself",
       "message": "Cash in the nap you've been promising yourself since Tuesday."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Sticky Tabs",
       "luckyColor": {
-        "name": "Sky Blue",
-        "hex": "#7EC0EE"
+        "name": "Orange",
+        "hex": "#E8730C"
       },
       "motif": "a window seat",
       "message": "Take the seat by the glass. Watch the whole way."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Weekly Planner",
       "luckyColor": {
-        "name": "Pink",
-        "hex": "#E88BAE"
+        "name": "Silver",
+        "hex": "#C0C0C0"
       },
       "motif": "a cash machine charging you",
       "message": "That machine wants three dollars. Walk two blocks to yours."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "New Toothbrush",
       "luckyColor": {
-        "name": "Turquoise",
-        "hex": "#3FBFBF"
+        "name": "Peach",
+        "hex": "#F5B78E"
       },
       "motif": "the gap between two things",
       "message": "Forty minutes between things. Don't fill it, walk it off."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Boarding Pass",
       "luckyColor": {
-        "name": "Coral",
-        "hex": "#E96B5A"
+        "name": "Hot Pink",
+        "hex": "#E5417F"
       },
       "motif": "a shop closing down",
       "message": "Everything's marked down before they close. Go look, buy one."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Shower Cap",
       "luckyColor": {
-        "name": "Beige",
-        "hex": "#D9C7AE"
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
       },
       "motif": "the last five minutes",
       "message": "Last five minutes of class, just breathe on the mat."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Monitor Riser",
       "luckyColor": {
-        "name": "Apricot",
-        "hex": "#F0A868"
+        "name": "Gold",
+        "hex": "#D4A017"
       },
       "motif": "the parcel locker code expiring",
       "message": "Code times out tonight. Fine, get it tomorrow instead."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Window Table",
       "luckyColor": {
-        "name": "Gold",
-        "hex": "#D4A017"
+        "name": "Beige",
+        "hex": "#D9C7AE"
       },
       "motif": "something half explained",
       "message": "You only half followed that. Nod, ask again next week."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Walking Stick",
       "luckyColor": {
-        "name": "Denim Blue",
-        "hex": "#3F5C7A"
+        "name": "Gray",
+        "hex": "#8A8A8A"
       },
       "motif": "the recurring meeting nobody defends",
       "message": "Nobody likes that standing call. Skip it, watch nothing happen."

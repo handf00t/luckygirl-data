@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Luggage Strap",
       "luckyColor": {
-        "name": "Yellow",
-        "hex": "#F0C419"
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
       },
       "motif": "a draft nobody has read",
       "message": "Send that unread draft to somebody today, unpolished."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Stylus Pen",
       "luckyColor": {
-        "name": "Beige",
-        "hex": "#D9C7AE"
+        "name": "Olive",
+        "hex": "#6B7233"
       },
       "motif": "a saved recipe never cooked",
       "message": "Cook the one you keep re-saving. Tonight, actual pans."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Palette Knife",
       "luckyColor": {
-        "name": "White",
-        "hex": "#FFFFFF"
+        "name": "Purple",
+        "hex": "#7B3FA0"
       },
       "motif": "the cupboard under the sink",
       "message": "Empty everything under the sink. Twenty minutes, oddly triumphant."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "New Toothbrush",
       "luckyColor": {
-        "name": "Apricot",
-        "hex": "#F0A868"
+        "name": "Brown",
+        "hex": "#6B4A32"
       },
       "motif": "the snack drawer at work",
       "message": "Raid the office snack stash without narrating it to anyone."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Air Plant",
       "luckyColor": {
-        "name": "Hot Pink",
-        "hex": "#E5417F"
+        "name": "Green",
+        "hex": "#2E8B4F"
       },
       "motif": "a scarf that belongs to someone else",
       "message": "Give the scarf back. Wear yours, it suits you more."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Shoe Brush",
       "luckyColor": {
-        "name": "Peach",
-        "hex": "#F5B78E"
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
       },
       "motif": "lunch away from every screen",
       "message": "Eat lunch with no screen in sight. Just food."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Petroleum Jelly",
       "luckyColor": {
-        "name": "Dark Green",
-        "hex": "#1F5C36"
+        "name": "Orange",
+        "hex": "#E8730C"
       },
       "motif": "a small lie about being fine",
       "message": "You said fine and meant something else. Correct it once."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Honey Spoon",
       "luckyColor": {
-        "name": "Dark Red",
-        "hex": "#8B1A1A"
+        "name": "Peach",
+        "hex": "#F5B78E"
       },
       "motif": "the receipt still in your pocket",
       "message": "That paper in your coat pocket, log it now."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Card Wallet",
       "luckyColor": {
-        "name": "Burgundy",
-        "hex": "#6E1B2E"
+        "name": "Black",
+        "hex": "#1F1F1F"
       },
       "motif": "the platform at the far end",
       "message": "Walk down to the far end. Quieter car, better ride."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Pin Cushion",
       "luckyColor": {
-        "name": "Sky Blue",
-        "hex": "#7EC0EE"
+        "name": "Yellow",
+        "hex": "#F0C419"
       },
       "motif": "a weekend with nothing in it",
       "message": "An empty weekend ahead. Don't fill it yet, let it breathe."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Hourglass",
       "luckyColor": {
-        "name": "Red",
-        "hex": "#CC3333"
+        "name": "White",
+        "hex": "#FFFFFF"
       },
       "motif": "an ingredient bought for one dish",
       "message": "The jar you bought for one recipe keeps. Fine where it is."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Document Wallet",
       "luckyColor": {
-        "name": "Violet",
-        "hex": "#6A4C93"
+        "name": "Red",
+        "hex": "#CC3333"
       },
       "motif": "counting stairs without meaning to",
       "message": "You're counting steps again. Harmless, carry on, no meaning needed."

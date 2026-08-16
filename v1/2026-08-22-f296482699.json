@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Sun Cream Stick",
       "luckyColor": {
-        "name": "Beige",
-        "hex": "#D9C7AE"
+        "name": "Green",
+        "hex": "#2E8B4F"
       },
       "motif": "a coffee rescheduled twice",
       "message": "You've moved that coffee twice. Pick a time, send it."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Pill Tin",
       "luckyColor": {
-        "name": "Tan",
-        "hex": "#C4A484"
+        "name": "Purple",
+        "hex": "#7B3FA0"
       },
       "motif": "a zip that gave up",
       "message": "The zip's done for. Wear the other thing, go."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Hair Comb",
       "luckyColor": {
-        "name": "Red",
-        "hex": "#CC3333"
+        "name": "Olive",
+        "hex": "#6B7233"
       },
       "motif": "a door held open",
       "message": "Someone's holding the door. Walk through, say thanks, keep moving."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Scented Candle",
       "luckyColor": {
-        "name": "Salmon",
-        "hex": "#EE8A76"
+        "name": "Gray",
+        "hex": "#8A8A8A"
       },
       "motif": "something saved to read later",
       "message": "Open the thing you saved for later. Later's today."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Corkscrew",
       "luckyColor": {
-        "name": "Lavender",
-        "hex": "#B9A2DB"
+        "name": "Silver",
+        "hex": "#C0C0C0"
       },
       "motif": "a service station",
       "message": "Tank's low. Fill it before the drive, not mid-panic."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Coin Tray",
       "luckyColor": {
-        "name": "Dark Green",
-        "hex": "#1F5C36"
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
       },
       "motif": "a colleague you never talk to",
       "message": "Say hi to the coworker you've never actually spoken to."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Jigsaw Puzzle",
       "luckyColor": {
-        "name": "Pink",
-        "hex": "#E88BAE"
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
       },
       "motif": "a queue that is not moving",
       "message": "Line's frozen. Answer two messages while you're standing there."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Index Cards",
       "luckyColor": {
-        "name": "Teal",
-        "hex": "#2A6B6F"
+        "name": "Navy",
+        "hex": "#23375E"
       },
       "motif": "the umbrella you keep losing",
       "message": "Leave the umbrella in the car. Stop hauling it around."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Stirrer Stick",
       "luckyColor": {
-        "name": "Violet",
-        "hex": "#6A4C93"
+        "name": "Peach",
+        "hex": "#F5B78E"
       },
       "motif": "the friend who always says yes",
       "message": "Your always-down friend would come out. Skip it tonight."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Phrase Card",
       "luckyColor": {
-        "name": "Orange",
-        "hex": "#E8730C"
+        "name": "Pink",
+        "hex": "#E88BAE"
       },
       "motif": "the text sent at 1am",
       "message": "You sent it at 1am. Let it sit, no follow-up."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Mascara Wand",
       "luckyColor": {
-        "name": "Gray",
-        "hex": "#8A8A8A"
+        "name": "Gold",
+        "hex": "#D4A017"
       },
       "motif": "the note in your own handwriting",
       "message": "Your own scribbled note can wait. It's not going anywhere."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Worn Paperback",
       "luckyColor": {
-        "name": "Apricot",
-        "hex": "#F0A868"
+        "name": "Brown",
+        "hex": "#6B4A32"
       },
       "motif": "the thing you would do if asked twice",
       "message": "Nobody's asking twice. Take that as permission to stay home."
