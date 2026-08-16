@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Screen Cloth",
       "luckyColor": {
-        "name": "Turquoise",
-        "hex": "#3FBFBF"
+        "name": "Black",
+        "hex": "#1F1F1F"
       },
       "motif": "an empty carriage",
       "message": "Whole car to yourself. Spread out, take the good seat."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Postcard",
       "luckyColor": {
-        "name": "Pink",
-        "hex": "#E88BAE"
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
       },
       "motif": "an introduction gone well",
       "message": "That intro actually landed. Follow up before the day cools."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Wax Seal",
       "luckyColor": {
-        "name": "Burgundy",
-        "hex": "#6E1B2E"
+        "name": "Peach",
+        "hex": "#F5B78E"
       },
       "motif": "coffee made too fast",
       "message": "Your drink hit the counter in ten seconds. Take the omen."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Pencil Sharpener",
       "luckyColor": {
-        "name": "Beige",
-        "hex": "#D9C7AE"
+        "name": "Pink",
+        "hex": "#E88BAE"
       },
       "motif": "being introduced incorrectly",
       "message": "They got your title wrong. Correct it out loud, lightly."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Bike Bell",
       "luckyColor": {
-        "name": "Green",
-        "hex": "#2E8B4F"
+        "name": "Blue",
+        "hex": "#2F6FD0"
       },
       "motif": "wind that ruins everything",
       "message": "It's whipping out there. Wear what doesn't need the wind's cooperation."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Sleep Socks",
       "luckyColor": {
-        "name": "Red",
-        "hex": "#CC3333"
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
       },
       "motif": "tapping a doorframe on the way out",
       "message": "You tap the doorframe every time you leave. Keep doing it."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Blue Light Glasses",
       "luckyColor": {
-        "name": "Peach",
-        "hex": "#F5B78E"
+        "name": "Orange",
+        "hex": "#E8730C"
       },
       "motif": "a desk you never sit at",
       "message": "That desk is decoration. Sit at it for one actual hour."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Linen Napkin",
       "luckyColor": {
-        "name": "Lavender",
-        "hex": "#B9A2DB"
+        "name": "Brown",
+        "hex": "#6B4A32"
       },
       "motif": "someone easy to be quiet with",
       "message": "Text the person you can sit around saying nothing with."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Laptop Riser",
       "luckyColor": {
-        "name": "Sky Blue",
-        "hex": "#7EC0EE"
+        "name": "Hot Pink",
+        "hex": "#E5417F"
       },
       "motif": "a cash machine charging you",
       "message": "A fee to touch your own money. Cash can wait."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Silk Camisole",
       "luckyColor": {
-        "name": "Hot Pink",
-        "hex": "#E5417F"
+        "name": "Red",
+        "hex": "#CC3333"
       },
       "motif": "someone being kind unexpectedly",
       "message": "Someone was nice for no reason. Let it just land."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Reflector Strip",
       "luckyColor": {
-        "name": "Orange",
-        "hex": "#E8730C"
+        "name": "Navy",
+        "hex": "#23375E"
       },
       "motif": "an ID photo you regret",
       "message": "Your ID photo is a crime. The renewal keeps until later."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Crosswalk Button",
       "luckyColor": {
-        "name": "Blue",
-        "hex": "#2F6FD0"
+        "name": "Green",
+        "hex": "#2E8B4F"
       },
       "motif": "a sky worth looking up at",
       "message": "Sunset's showing off. Watch from the window, stay in tonight."

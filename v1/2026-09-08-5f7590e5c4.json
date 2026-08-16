@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Hair Diffuser",
       "luckyColor": {
-        "name": "Red",
-        "hex": "#CC3333"
+        "name": "Peach",
+        "hex": "#F5B78E"
       },
       "motif": "the meeting that ran over",
       "message": "It's blowing past the hour. Say your piece, then leave."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Weighing Scale",
       "luckyColor": {
-        "name": "Beige",
-        "hex": "#D9C7AE"
+        "name": "Red",
+        "hex": "#CC3333"
       },
       "motif": "the kettle that needs descaling",
       "message": "Vinegar, boil, rinse. Your water tastes like limescale, fix it."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Tea Towel",
       "luckyColor": {
-        "name": "Sky Blue",
-        "hex": "#7EC0EE"
+        "name": "Gray",
+        "hex": "#8A8A8A"
       },
       "motif": "a housewarming across town",
       "message": "Forty minutes of traffic for a good apartment. Worth it."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Vintage Cap",
       "luckyColor": {
-        "name": "Orange",
-        "hex": "#E8730C"
+        "name": "Black",
+        "hex": "#1F1F1F"
       },
       "motif": "a haircut kept postponing",
       "message": "Book the appointment now, while you're still annoyed at yourself."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Brass Bookmark",
       "luckyColor": {
-        "name": "Black",
-        "hex": "#1F1F1F"
+        "name": "Blue",
+        "hex": "#2F6FD0"
       },
       "motif": "the tea gone cold twice",
       "message": "Second reheat is a sign. Pour a fresh one, sit."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Espresso Cup",
       "luckyColor": {
-        "name": "Green",
-        "hex": "#2E8B4F"
+        "name": "Pink",
+        "hex": "#E88BAE"
       },
       "motif": "an email opened and closed twice",
       "message": "Open it a third time and actually type something back."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Cutting Board",
       "luckyColor": {
-        "name": "Peach",
-        "hex": "#F5B78E"
+        "name": "Orange",
+        "hex": "#E8730C"
       },
       "motif": "the corner shop nobody goes to",
       "message": "That empty little market on your block. Go in, look around."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Muffin Tray",
       "luckyColor": {
-        "name": "Blue",
-        "hex": "#2F6FD0"
+        "name": "Green",
+        "hex": "#2E8B4F"
       },
       "motif": "a question asked twice",
       "message": "They asked twice, you're allowed to say you forgot."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Clothes Steamer",
       "luckyColor": {
-        "name": "Burgundy",
-        "hex": "#6E1B2E"
+        "name": "Gold",
+        "hex": "#D4A017"
       },
       "motif": "the second one that broke faster",
       "message": "Replacement died quicker than the original. Stop buying it, no rush."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Ballet Flats",
       "luckyColor": {
-        "name": "Gold",
-        "hex": "#D4A017"
+        "name": "Navy",
+        "hex": "#23375E"
       },
       "motif": "a shortcut through a car park",
       "message": "The lot cut-through isn't faster today. Just take the sidewalk."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Drawer Divider",
       "luckyColor": {
-        "name": "Pink",
-        "hex": "#E88BAE"
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
       },
       "motif": "a shortcut that is not one",
       "message": "You know that route adds ten minutes. Stay home instead."

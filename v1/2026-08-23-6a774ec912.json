@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Power Bank",
       "luckyColor": {
-        "name": "White",
-        "hex": "#FFFFFF"
+        "name": "Silver",
+        "hex": "#C0C0C0"
       },
       "motif": "the order you get dressed in",
       "message": "Shoes last, makeup first. The order's why mornings feel smooth."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Photo Strip",
       "luckyColor": {
-        "name": "Olive",
-        "hex": "#6B7233"
+        "name": "Orange",
+        "hex": "#E8730C"
       },
       "motif": "the platform at the far end",
       "message": "Walk to the far platform. Emptier car, better ride, no crowd."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Belt Bag",
       "luckyColor": {
-        "name": "Brown",
-        "hex": "#6B4A32"
+        "name": "Beige",
+        "hex": "#D9C7AE"
       },
       "motif": "sleep you owe yourself",
       "message": "Cash in the nap you've been promising yourself since Tuesday."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Sticky Tabs",
       "luckyColor": {
-        "name": "Orange",
-        "hex": "#E8730C"
+        "name": "Gray",
+        "hex": "#8A8A8A"
       },
       "motif": "a window seat",
       "message": "Take the seat by the glass. Watch the whole way."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Weekly Planner",
       "luckyColor": {
-        "name": "Silver",
-        "hex": "#C0C0C0"
+        "name": "Lavender",
+        "hex": "#B9A2DB"
       },
       "motif": "a cash machine charging you",
       "message": "That machine wants three dollars. Walk two blocks to yours."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Shower Cap",
       "luckyColor": {
-        "name": "Turquoise",
-        "hex": "#3FBFBF"
+        "name": "Olive",
+        "hex": "#6B7233"
       },
       "motif": "the last five minutes",
       "message": "Last five minutes of class, just breathe on the mat."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Window Table",
       "luckyColor": {
-        "name": "Beige",
-        "hex": "#D9C7AE"
+        "name": "White",
+        "hex": "#FFFFFF"
       },
       "motif": "something half explained",
       "message": "You only half followed that. Nod, ask again next week."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Walking Stick",
       "luckyColor": {
-        "name": "Gray",
-        "hex": "#8A8A8A"
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
       },
       "motif": "the recurring meeting nobody defends",
       "message": "Nobody likes that standing call. Skip it, watch nothing happen."

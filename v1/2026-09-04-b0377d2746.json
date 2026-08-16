@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Shower Cap",
       "luckyColor": {
-        "name": "Navy",
-        "hex": "#23375E"
+        "name": "Gray",
+        "hex": "#8A8A8A"
       },
       "motif": "a spreadsheet that needs one number",
       "message": "One cell is blank. Fill it in, then send the file."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Tea Light",
       "luckyColor": {
-        "name": "Sky Blue",
-        "hex": "#7EC0EE"
+        "name": "Peach",
+        "hex": "#F5B78E"
       },
       "motif": "the fridge shelf nobody cleans",
       "message": "Pull everything out of the fridge. Ten minutes, weirdly satisfying."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Foam Roller",
       "luckyColor": {
-        "name": "Mint",
-        "hex": "#9FD9BE"
+        "name": "Navy",
+        "hex": "#23375E"
       },
       "motif": "the version nobody asked for",
       "message": "Nobody requested your remix. Make it anyway, show one person."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Bath Oil",
       "luckyColor": {
-        "name": "Black",
-        "hex": "#1F1F1F"
+        "name": "Silver",
+        "hex": "#C0C0C0"
       },
       "motif": "the safe option and the other one",
       "message": "You already know which one's boring. Pick the other."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Screen Protector",
       "luckyColor": {
-        "name": "Gray",
-        "hex": "#8A8A8A"
+        "name": "Brown",
+        "hex": "#6B4A32"
       },
       "motif": "the introduction that went badly",
       "message": "That intro was clumsy. Message them directly, start over clean."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Ceramic Bowl",
       "luckyColor": {
-        "name": "White",
-        "hex": "#FFFFFF"
+        "name": "Red",
+        "hex": "#CC3333"
       },
       "motif": "the thing said in front of everyone",
       "message": "You said it loud in the room. Don't walk it back."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Capsule Toy",
       "luckyColor": {
-        "name": "Red",
-        "hex": "#CC3333"
+        "name": "Black",
+        "hex": "#1F1F1F"
       },
       "motif": "someone recommending the same thing twice",
       "message": "They've brought it up twice now. Save it, look later."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Egg Timer Sand",
       "luckyColor": {
-        "name": "Lavender",
-        "hex": "#B9A2DB"
+        "name": "Blue",
+        "hex": "#2F6FD0"
       },
       "motif": "an idea that needs one more piece",
       "message": "Still missing a piece. It'll show up without you circling."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Spinning Top",
       "luckyColor": {
-        "name": "Peach",
-        "hex": "#F5B78E"
+        "name": "Purple",
+        "hex": "#7B3FA0"
       },
       "motif": "dry cleaning left too long",
       "message": "Those clothes have waited weeks. They'll wait through the weekend."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Hair Oil",
       "luckyColor": {
-        "name": "Beige",
-        "hex": "#D9C7AE"
+        "name": "Mint",
+        "hex": "#9FD9BE"
       },
       "motif": "a return window closing",
       "message": "The window shuts and honestly, keep it. Stay in."

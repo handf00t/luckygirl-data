@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Egg Timer Sand",
       "luckyColor": {
-        "name": "Beige",
-        "hex": "#D9C7AE"
+        "name": "Black",
+        "hex": "#1F1F1F"
       },
       "motif": "someone recommending the same thing twice",
       "message": "Second time someone's pushed that place. Go tonight, no research."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Woven Basket",
       "luckyColor": {
-        "name": "Sky Blue",
-        "hex": "#7EC0EE"
+        "name": "Blue",
+        "hex": "#2F6FD0"
       },
       "motif": "the friend who moved away",
       "message": "Voice memo the one who moved. Ramble, don't edit."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Hole Punch",
       "luckyColor": {
-        "name": "Blue",
-        "hex": "#2F6FD0"
+        "name": "Navy",
+        "hex": "#23375E"
       },
       "motif": "the good day you did not notice",
       "message": "Yesterday was quietly great. Write down what made it work."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Petroleum Jelly",
       "luckyColor": {
-        "name": "Navy",
-        "hex": "#23375E"
+        "name": "Purple",
+        "hex": "#7B3FA0"
       },
       "motif": "a heartbeat noticed at rest",
       "message": "Sitting still, you can hear yourself. Stay there a minute."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Nail File",
       "luckyColor": {
-        "name": "White",
-        "hex": "#FFFFFF"
+        "name": "Pink",
+        "hex": "#E88BAE"
       },
       "motif": "a bag of clothes for donation",
       "message": "The donation bag can live by the door another day."

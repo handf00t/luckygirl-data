@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Soap Dish",
       "luckyColor": {
-        "name": "Peach",
-        "hex": "#F5B78E"
+        "name": "Gold",
+        "hex": "#D4A017"
       },
       "motif": "the last of the good bread",
       "message": "One loaf left at the counter. Take it, eat it warm."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Bus Pass",
       "luckyColor": {
-        "name": "Sky Blue",
-        "hex": "#7EC0EE"
+        "name": "Mint",
+        "hex": "#9FD9BE"
       },
       "motif": "a Monday that behaved",
       "message": "A Monday that didn't fight you. Push your luck a little."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Bicycle Lock",
       "luckyColor": {
-        "name": "Green",
-        "hex": "#2E8B4F"
+        "name": "Lavender",
+        "hex": "#B9A2DB"
       },
       "motif": "the sequel nobody wanted",
       "message": "Second one's supposed to be bad. Watch it tonight anyway, loudly."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Light Bulb",
       "luckyColor": {
-        "name": "Mint",
-        "hex": "#9FD9BE"
+        "name": "Peach",
+        "hex": "#F5B78E"
       },
       "motif": "a no you keep softening",
       "message": "You've said maybe three times now. Make it a no."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Coffee Scoop",
       "luckyColor": {
-        "name": "Burgundy",
-        "hex": "#6E1B2E"
+        "name": "Green",
+        "hex": "#2E8B4F"
       },
       "motif": "the umbrella you keep losing",
       "message": "Fourth one this year. Leave it by the door, not your bag."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Paper Aeroplane",
       "luckyColor": {
-        "name": "Turquoise",
-        "hex": "#3FBFBF"
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
       },
       "motif": "the shoes worn past saving",
       "message": "Those soles are gone. Wear them out one last day."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Salt Cellar",
       "luckyColor": {
-        "name": "Navy",
-        "hex": "#23375E"
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
       },
       "motif": "the tab open since Monday",
       "message": "Still open from Monday. Read it or close it, pick one."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Fountain Pen",
       "luckyColor": {
-        "name": "Beige",
-        "hex": "#D9C7AE"
+        "name": "Black",
+        "hex": "#1F1F1F"
       },
       "motif": "something outgrown but kept",
       "message": "You haven't worn it since high school. Bag it, no ceremony."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Ice Tray",
       "luckyColor": {
-        "name": "Brown",
-        "hex": "#6B4A32"
+        "name": "Beige",
+        "hex": "#D9C7AE"
       },
       "motif": "a comic recommended twice",
       "message": "Two people swear by it. Nothing says today's the day."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Brass Candlestick",
       "luckyColor": {
-        "name": "Gold",
-        "hex": "#D4A017"
+        "name": "Blue",
+        "hex": "#2F6FD0"
       },
       "motif": "a wishlist gathering dust",
       "message": "Nothing in that cart needs you. Let it sit longer."

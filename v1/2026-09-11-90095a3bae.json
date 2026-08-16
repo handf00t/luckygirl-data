@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Shoe Box",
       "luckyColor": {
-        "name": "Blue",
-        "hex": "#2F6FD0"
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
       },
       "motif": "the seat you always take",
       "message": "Your usual chair, again. Sit down like you booked it."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Ankle Chain",
       "luckyColor": {
-        "name": "Sky Blue",
-        "hex": "#7EC0EE"
+        "name": "Gold",
+        "hex": "#D4A017"
       },
       "motif": "a filter due for changing",
       "message": "Your pitcher's been lying to you for weeks. New one today."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Woven Basket",
       "luckyColor": {
-        "name": "White",
-        "hex": "#FFFFFF"
+        "name": "Blue",
+        "hex": "#2F6FD0"
       },
       "motif": "an offer with a deadline",
       "message": "Expires tonight. Claim it before you talk yourself out of it."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Bed Tray",
       "luckyColor": {
-        "name": "Lavender",
-        "hex": "#B9A2DB"
+        "name": "Brown",
+        "hex": "#6B4A32"
       },
       "motif": "the gap between two things",
       "message": "An hour loose between plans. Go somewhere you've never been."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Wind-Up Toy",
       "luckyColor": {
-        "name": "Silver",
-        "hex": "#C0C0C0"
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
       },
       "motif": "the long way home",
       "message": "Add the extra ten blocks tonight. Nothing's waiting at home."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Clear Glasses",
       "luckyColor": {
-        "name": "Orange",
-        "hex": "#E8730C"
+        "name": "White",
+        "hex": "#FFFFFF"
       },
       "motif": "a message drafted then deleted",
       "message": "Send the short version. That paragraph you erased was too much."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Corner Booth",
       "luckyColor": {
-        "name": "Mint",
-        "hex": "#9FD9BE"
+        "name": "Orange",
+        "hex": "#E8730C"
       },
       "motif": "a meeting you could skip",
       "message": "You'd add nothing to that room. Decline, read the recap."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Silk Scrunchie",
       "luckyColor": {
-        "name": "Turquoise",
-        "hex": "#3FBFBF"
+        "name": "Mint",
+        "hex": "#9FD9BE"
       },
       "motif": "a bike with a flat",
       "message": "Still flat, still fine. The patch kit keeps till Sunday."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Laundry Bag",
       "luckyColor": {
-        "name": "Gold",
-        "hex": "#D4A017"
+        "name": "Navy",
+        "hex": "#23375E"
       },
       "motif": "a coat with something in the pocket",
       "message": "Something's in that pocket. Leave the mystery for future you."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Shower Curtain",
       "luckyColor": {
-        "name": "Gray",
-        "hex": "#8A8A8A"
+        "name": "Silver",
+        "hex": "#C0C0C0"
       },
       "motif": "the friend of a friend",
       "message": "Someone's bringing a stranger you'd have to entertain. Stay in."

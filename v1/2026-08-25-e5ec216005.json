@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Cuticle Oil",
       "luckyColor": {
-        "name": "Olive",
-        "hex": "#6B7233"
+        "name": "Black",
+        "hex": "#1F1F1F"
       },
       "motif": "dinner eaten at the wrong hour",
       "message": "Eat dinner at 4pm if that's what today wants."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Pier Railing",
       "luckyColor": {
-        "name": "Purple",
-        "hex": "#7B3FA0"
+        "name": "Brown",
+        "hex": "#6B4A32"
       },
       "motif": "shoes that need fixing",
       "message": "Drop the scuffed pair at the cobbler on Sunset."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Enamel Pin",
       "luckyColor": {
-        "name": "Navy",
-        "hex": "#23375E"
+        "name": "Purple",
+        "hex": "#7B3FA0"
       },
       "motif": "a desk with no clear surface",
       "message": "Clear the desk down to wood. Twenty minutes, all of it."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Kitchen Scale",
       "luckyColor": {
-        "name": "Beige",
-        "hex": "#D9C7AE"
+        "name": "Olive",
+        "hex": "#6B7233"
       },
       "motif": "a favour asked lightly",
       "message": "Someone asked casually. Say yes, it's genuinely a two-minute thing."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Brow Gel",
       "luckyColor": {
-        "name": "Lavender",
-        "hex": "#B9A2DB"
+        "name": "Pink",
+        "hex": "#E88BAE"
       },
       "motif": "a project abandoned at eighty percent",
       "message": "You're eighty percent done. Finish the ugly last bit today."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Travel Adapter",
       "luckyColor": {
-        "name": "Sky Blue",
-        "hex": "#7EC0EE"
+        "name": "Blue",
+        "hex": "#2F6FD0"
       },
       "motif": "the calendar invite with no agenda",
       "message": "That invite has no agenda. Ask what it's for."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Cotton Headband",
       "luckyColor": {
-        "name": "Black",
-        "hex": "#1F1F1F"
+        "name": "Gray",
+        "hex": "#8A8A8A"
       },
       "motif": "a taxi you did not need",
       "message": "You could've walked it. Tonight, don't go anywhere at all."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Record Stand",
       "luckyColor": {
-        "name": "Pink",
-        "hex": "#E88BAE"
+        "name": "Lavender",
+        "hex": "#B9A2DB"
       },
       "motif": "the feedback still unread",
       "message": "The notes will still be there Wednesday. Read them then."

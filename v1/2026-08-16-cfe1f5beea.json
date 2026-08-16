@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Screen Protector",
       "luckyColor": {
-        "name": "Sky Blue",
-        "hex": "#7EC0EE"
+        "name": "Peach",
+        "hex": "#F5B78E"
       },
       "motif": "the yawn that will not finish",
       "message": "That half-yawn means step outside, not another iced anything."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Butter Dish",
       "luckyColor": {
-        "name": "White",
-        "hex": "#FFFFFF"
+        "name": "Red",
+        "hex": "#CC3333"
       },
       "motif": "the way you make tea",
       "message": "Make the tea properly today. Kettle, timer, the good leaves."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Record Sleeve",
       "luckyColor": {
-        "name": "Black",
-        "hex": "#1F1F1F"
+        "name": "Gray",
+        "hex": "#8A8A8A"
       },
       "motif": "a stone kept from somewhere",
       "message": "That rock from the trip deserves better than a drawer."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Lunch Tote",
       "luckyColor": {
-        "name": "Purple",
-        "hex": "#7B3FA0"
+        "name": "Lavender",
+        "hex": "#B9A2DB"
       },
       "motif": "the cheaper platform",
       "message": "Wear the cheaper platforms. You're walking further than planned."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Night Light",
       "luckyColor": {
-        "name": "Brown",
-        "hex": "#6B4A32"
+        "name": "Beige",
+        "hex": "#D9C7AE"
       },
       "motif": "something outgrown but kept",
       "message": "That jacket you've stopped wearing? Into the donate pile."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Loaf Tin",
       "luckyColor": {
-        "name": "Peach",
-        "hex": "#F5B78E"
+        "name": "Blue",
+        "hex": "#2F6FD0"
       },
       "motif": "the pen about to run out",
       "message": "The pen's nearly out. Use it up, replace it tomorrow."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Ear Cuff",
       "luckyColor": {
-        "name": "Turquoise",
-        "hex": "#3FBFBF"
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
       },
       "motif": "the thought you cannot finish",
       "message": "Let the half-thought stay half. Shut the laptop."

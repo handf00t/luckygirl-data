@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Sketchbook",
       "luckyColor": {
-        "name": "Gray",
-        "hex": "#8A8A8A"
+        "name": "Silver",
+        "hex": "#C0C0C0"
       },
       "motif": "being tired in a specific way",
       "message": "That specific fried feeling means talk to nobody until noon."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Shower Gel",
       "luckyColor": {
-        "name": "Lavender",
-        "hex": "#B9A2DB"
+        "name": "Brown",
+        "hex": "#6B4A32"
       },
       "motif": "posture at the end of the day",
       "message": "Notice how you're sitting at 9pm. Sit up, whole day improves."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Toothbrush Cup",
       "luckyColor": {
-        "name": "Navy",
-        "hex": "#23375E"
+        "name": "Gray",
+        "hex": "#8A8A8A"
       },
       "motif": "something in the freezer since spring",
       "message": "That mystery bag from March? Thaw it, eat it tonight."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Button Tin",
       "luckyColor": {
-        "name": "Silver",
-        "hex": "#C0C0C0"
+        "name": "White",
+        "hex": "#FFFFFF"
       },
       "motif": "the free thing with a catch",
       "message": "Free, technically. Read the fine print, then take it anyway."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Windbreaker",
       "luckyColor": {
-        "name": "Black",
-        "hex": "#1F1F1F"
+        "name": "Purple",
+        "hex": "#7B3FA0"
       },
       "motif": "a wardrobe out of season",
       "message": "Half your closet is for weather that isn't happening. Swap it."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Pickle Jar",
       "luckyColor": {
-        "name": "Purple",
-        "hex": "#7B3FA0"
+        "name": "Lavender",
+        "hex": "#B9A2DB"
       },
       "motif": "a ringtone you never changed",
       "message": "Default sound still startles you. Two minutes, pick a new one."

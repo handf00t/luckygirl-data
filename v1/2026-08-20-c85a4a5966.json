@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Disposable Camera",
       "luckyColor": {
-        "name": "Sky Blue",
-        "hex": "#7EC0EE"
+        "name": "Blue",
+        "hex": "#2F6FD0"
       },
       "motif": "the hour after getting home",
       "message": "Don't sit down when you get home. Ride the momentum."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Compass Set",
       "luckyColor": {
-        "name": "White",
-        "hex": "#FFFFFF"
+        "name": "Silver",
+        "hex": "#C0C0C0"
       },
       "motif": "a card declined once",
       "message": "Run the card again. One decline means nothing."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Airmail Sticker",
       "luckyColor": {
-        "name": "Brown",
-        "hex": "#6B4A32"
+        "name": "Beige",
+        "hex": "#D9C7AE"
       },
       "motif": "two options that are both fine",
       "message": "Both work. Pick the closer one and stop weighing."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Throw Blanket",
       "luckyColor": {
-        "name": "Black",
-        "hex": "#1F1F1F"
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
       },
       "motif": "the notification during a call",
       "message": "It buzzed mid-call. Finish the call, then look."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Dimmer Switch",
       "luckyColor": {
-        "name": "Lavender",
-        "hex": "#B9A2DB"
+        "name": "Brown",
+        "hex": "#6B4A32"
       },
       "motif": "a renewal date approaching",
       "message": "That subscription renews soon. Decide now, not the day after."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Sheet Mask",
       "luckyColor": {
-        "name": "Turquoise",
-        "hex": "#3FBFBF"
+        "name": "Red",
+        "hex": "#CC3333"
       },
       "motif": "the playlist for one task",
       "message": "No soundtrack needed. Just start the task in silence."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Laundry Bag",
       "luckyColor": {
-        "name": "Blue",
-        "hex": "#2F6FD0"
+        "name": "Navy",
+        "hex": "#23375E"
       },
       "motif": "a diversion sign",
       "message": "Road's closed ahead. Take the detour, no complaining."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Bamboo Straw",
       "luckyColor": {
-        "name": "Red",
-        "hex": "#CC3333"
+        "name": "Gray",
+        "hex": "#8A8A8A"
       },
       "motif": "a reply that should have come",
       "message": "They still haven't answered. Put your phone face down."

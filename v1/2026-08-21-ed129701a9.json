@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Under Eye Patch",
       "luckyColor": {
-        "name": "Brown",
-        "hex": "#6B4A32"
+        "name": "Beige",
+        "hex": "#D9C7AE"
       },
       "motif": "a comment you drafted",
       "message": "That comment's been sitting in the box. Post it."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Travel Pillow",
       "luckyColor": {
-        "name": "Silver",
-        "hex": "#C0C0C0"
+        "name": "Peach",
+        "hex": "#F5B78E"
       },
       "motif": "the volume everyone else finds loud",
       "message": "Keep it at the volume you like. It's your apartment."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Blotting Paper",
       "luckyColor": {
-        "name": "Turquoise",
-        "hex": "#3FBFBF"
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
       },
       "motif": "somewhere new on the same street",
       "message": "There's a new door two buildings down. Walk in today."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Hiking Sock",
       "luckyColor": {
-        "name": "Peach",
-        "hex": "#F5B78E"
+        "name": "White",
+        "hex": "#FFFFFF"
       },
       "motif": "a heat that slows the day",
       "message": "It's too hot to rush. Do everything at half speed."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Kite",
       "luckyColor": {
-        "name": "Beige",
-        "hex": "#D9C7AE"
+        "name": "Black",
+        "hex": "#1F1F1F"
       },
       "motif": "counting hours backwards",
       "message": "Work backward from when you want to be home."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Perfume Vial",
       "luckyColor": {
-        "name": "Navy",
-        "hex": "#23375E"
+        "name": "Purple",
+        "hex": "#7B3FA0"
       },
       "motif": "a hand cream never opened",
       "message": "Crack the seal on the fancy hand cream. Use it."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Ice Roller",
       "luckyColor": {
-        "name": "Black",
-        "hex": "#1F1F1F"
+        "name": "Gray",
+        "hex": "#8A8A8A"
       },
       "motif": "the bedtime that keeps sliding",
       "message": "Bed keeps drifting later. Pull it back twenty minutes tonight."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Bottle Opener",
       "luckyColor": {
-        "name": "Gray",
-        "hex": "#8A8A8A"
+        "name": "Silver",
+        "hex": "#C0C0C0"
       },
       "motif": "a day off spent tidying",
       "message": "Your day off isn't for chores. Leave the mess standing."

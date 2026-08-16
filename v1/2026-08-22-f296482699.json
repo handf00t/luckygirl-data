@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Pill Tin",
       "luckyColor": {
-        "name": "Purple",
-        "hex": "#7B3FA0"
+        "name": "Lavender",
+        "hex": "#B9A2DB"
       },
       "motif": "a zip that gave up",
       "message": "The zip's done for. Wear the other thing, go."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Scented Candle",
       "luckyColor": {
-        "name": "Gray",
-        "hex": "#8A8A8A"
+        "name": "Silver",
+        "hex": "#C0C0C0"
       },
       "motif": "something saved to read later",
       "message": "Open the thing you saved for later. Later's today."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Corkscrew",
       "luckyColor": {
-        "name": "Silver",
-        "hex": "#C0C0C0"
+        "name": "White",
+        "hex": "#FFFFFF"
       },
       "motif": "a service station",
       "message": "Tank's low. Fill it before the drive, not mid-panic."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Coin Tray",
       "luckyColor": {
-        "name": "Sky Blue",
-        "hex": "#7EC0EE"
+        "name": "Blue",
+        "hex": "#2F6FD0"
       },
       "motif": "a colleague you never talk to",
       "message": "Say hi to the coworker you've never actually spoken to."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Index Cards",
       "luckyColor": {
-        "name": "Navy",
-        "hex": "#23375E"
+        "name": "Purple",
+        "hex": "#7B3FA0"
       },
       "motif": "the umbrella you keep losing",
       "message": "Leave the umbrella in the car. Stop hauling it around."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Worn Paperback",
       "luckyColor": {
-        "name": "Brown",
-        "hex": "#6B4A32"
+        "name": "Beige",
+        "hex": "#D9C7AE"
       },
       "motif": "the thing you would do if asked twice",
       "message": "Nobody's asking twice. Take that as permission to stay home."

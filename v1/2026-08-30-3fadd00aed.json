@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Bird Guide",
       "luckyColor": {
-        "name": "Beige",
-        "hex": "#D9C7AE"
+        "name": "Black",
+        "hex": "#1F1F1F"
       },
       "motif": "cold hands",
       "message": "Hands freezing in August air conditioning. Cup the matcha, go anyway."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Brass Bookmark",
       "luckyColor": {
-        "name": "Gold",
-        "hex": "#D4A017"
+        "name": "Blue",
+        "hex": "#2F6FD0"
       },
       "motif": "a draft nobody has read",
       "message": "Send the draft to one person before you soften it."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Reading Pillow",
       "luckyColor": {
-        "name": "Black",
-        "hex": "#1F1F1F"
+        "name": "Gray",
+        "hex": "#8A8A8A"
       },
       "motif": "a warranty about to lapse",
       "message": "Coverage ends this week. File the claim while it still counts."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Chain Bracelet",
       "luckyColor": {
-        "name": "Peach",
-        "hex": "#F5B78E"
+        "name": "Lavender",
+        "hex": "#B9A2DB"
       },
       "motif": "a lift with someone in it",
       "message": "Someone's already inside. Get in, press your floor, easy."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Spice Jar",
       "luckyColor": {
-        "name": "Navy",
-        "hex": "#23375E"
+        "name": "Purple",
+        "hex": "#7B3FA0"
       },
       "motif": "an old account still logged in",
       "message": "You're still signed into that old thing. Log out, whatever."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Foot Warmer",
       "luckyColor": {
-        "name": "Sky Blue",
-        "hex": "#7EC0EE"
+        "name": "Gold",
+        "hex": "#D4A017"
       },
       "motif": "the cafe that got loud",
       "message": "Your quiet spot turned into a scene. Take it home."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Placemat",
       "luckyColor": {
-        "name": "Purple",
-        "hex": "#7B3FA0"
+        "name": "Peach",
+        "hex": "#F5B78E"
       },
       "motif": "the walk that is faster than the bus",
       "message": "Twelve minutes on foot, sure. Not today, sit down."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Knit Vest",
       "luckyColor": {
-        "name": "Brown",
-        "hex": "#6B4A32"
+        "name": "Beige",
+        "hex": "#D9C7AE"
       },
       "motif": "a bed left unmade",
       "message": "Sheets stay rumpled. Get back in them if anything."

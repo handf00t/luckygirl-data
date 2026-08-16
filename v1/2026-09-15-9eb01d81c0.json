@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Shoe Rack",
       "luckyColor": {
-        "name": "Navy",
-        "hex": "#23375E"
+        "name": "Purple",
+        "hex": "#7B3FA0"
       },
       "motif": "the class you keep rescheduling",
       "message": "Stop moving it. Book today's slot and actually walk in."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Guitar Pick",
       "luckyColor": {
-        "name": "Sky Blue",
-        "hex": "#7EC0EE"
+        "name": "Brown",
+        "hex": "#6B4A32"
       },
       "motif": "an app you pay for monthly",
       "message": "You love that subscription. Use every feature you're paying for today."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Bento Box",
       "luckyColor": {
-        "name": "Gray",
-        "hex": "#8A8A8A"
+        "name": "Gold",
+        "hex": "#D4A017"
       },
       "motif": "an early train",
       "message": "Set the alarm for the 6am. Early you wins."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Body Oil",
       "luckyColor": {
-        "name": "Beige",
-        "hex": "#D9C7AE"
+        "name": "Mint",
+        "hex": "#9FD9BE"
       },
       "motif": "a class you have not been to yet",
       "message": "New studio, first session, today. Show up unbothered by strangers."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Wall Hook",
       "luckyColor": {
-        "name": "Burgundy",
-        "hex": "#6E1B2E"
+        "name": "Red",
+        "hex": "#CC3333"
       },
       "motif": "the good knife nobody else uses",
       "message": "Use the sharp one tonight. It's yours, that's the point."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Tourist Map",
       "luckyColor": {
-        "name": "Mint",
-        "hex": "#9FD9BE"
+        "name": "Silver",
+        "hex": "#C0C0C0"
       },
       "motif": "a question you never looked up",
       "message": "Look it up properly. Two minutes ends months of guessing."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "White Noise Machine",
       "luckyColor": {
-        "name": "Lavender",
-        "hex": "#B9A2DB"
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
       },
       "motif": "someone calling at nine",
       "message": "Nine o'clock call. Pick up, talk until your phone's hot."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Cargo Pants",
       "luckyColor": {
-        "name": "Yellow",
-        "hex": "#F0C419"
+        "name": "Black",
+        "hex": "#1F1F1F"
       },
       "motif": "the mirror on the way out",
       "message": "One glance at the door. That's a full check, go."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Compass Set",
       "luckyColor": {
-        "name": "Red",
-        "hex": "#CC3333"
+        "name": "Hot Pink",
+        "hex": "#E5417F"
       },
       "motif": "an inbox at four figures",
       "message": "Thousands unread, still zero emergencies. Archive a handful, walk away."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Jewellery Roll",
       "luckyColor": {
-        "name": "Gold",
-        "hex": "#D4A017"
+        "name": "Blue",
+        "hex": "#2F6FD0"
       },
       "motif": "the queue before eight",
       "message": "That line before eight isn't happening. Coffee at home instead."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Origami Star",
       "luckyColor": {
-        "name": "Hot Pink",
-        "hex": "#E5417F"
+        "name": "Yellow",
+        "hex": "#F0C419"
       },
       "motif": "someone whose story you watched twice",
       "message": "You've seen it. A third look teaches you nothing new."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Vintage Watch",
       "luckyColor": {
-        "name": "Brown",
-        "hex": "#6B4A32"
+        "name": "Beige",
+        "hex": "#D9C7AE"
       },
       "motif": "a takeaway menu memorised",
       "message": "You know the order already. Call it in, stay put."

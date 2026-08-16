@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Easel",
       "luckyColor": {
-        "name": "Gray",
-        "hex": "#8A8A8A"
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
       },
       "motif": "something you pretend to understand",
       "message": "You've been nodding along for weeks. Just admit it, ask."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Measuring Tape",
       "luckyColor": {
-        "name": "Beige",
-        "hex": "#D9C7AE"
+        "name": "Black",
+        "hex": "#1F1F1F"
       },
       "motif": "an instrument in its case",
       "message": "Zip it open tonight. Play badly for twenty minutes."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Lip Mask",
       "luckyColor": {
-        "name": "Hot Pink",
-        "hex": "#E5417F"
+        "name": "Beige",
+        "hex": "#D9C7AE"
       },
       "motif": "a reply that should have come",
       "message": "They're overdue. Nudge once, casually, before you overthink the wording."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Marble Tray",
       "luckyColor": {
-        "name": "Pink",
-        "hex": "#E88BAE"
+        "name": "White",
+        "hex": "#FFFFFF"
       },
       "motif": "the thing you keep checking",
       "message": "Refresh it one last time, then go do something else."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Protractor",
       "luckyColor": {
-        "name": "Black",
-        "hex": "#1F1F1F"
+        "name": "Pink",
+        "hex": "#E88BAE"
       },
       "motif": "the shared calendar",
       "message": "Nobody's updating the shared thing. Fine, let it stay wrong."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Rain Boots",
       "luckyColor": {
-        "name": "Brown",
-        "hex": "#6B4A32"
+        "name": "Gray",
+        "hex": "#8A8A8A"
       },
       "motif": "the second option you keep going back to",
       "message": "You've reopened that other tab five times. Neither, today."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Cooling Rack",
       "luckyColor": {
-        "name": "Silver",
-        "hex": "#C0C0C0"
+        "name": "Hot Pink",
+        "hex": "#E5417F"
       },
       "motif": "the standing plan nobody confirms",
       "message": "Silence about tonight means everyone's relieved. Stay in, no text needed."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Photo Printer",
       "luckyColor": {
-        "name": "Turquoise",
-        "hex": "#3FBFBF"
+        "name": "Silver",
+        "hex": "#C0C0C0"
       },
       "motif": "a dinner you offered to host",
       "message": "You offered to cook for six. Move it, nobody minds."

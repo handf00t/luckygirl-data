@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Cable Pouch",
       "luckyColor": {
-        "name": "Black",
-        "hex": "#1F1F1F"
+        "name": "Hot Pink",
+        "hex": "#E5417F"
       },
       "motif": "a lunch brought and forgotten",
       "message": "Your lunch is still on the counter. Go back, grab it."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Phone Wallet",
       "luckyColor": {
-        "name": "White",
-        "hex": "#FFFFFF"
+        "name": "Brown",
+        "hex": "#6B4A32"
       },
       "motif": "someone who owes you nothing",
       "message": "They don't owe you a thing. Ask anyway, today."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Bus Pass",
       "luckyColor": {
-        "name": "Navy",
-        "hex": "#23375E"
+        "name": "Gold",
+        "hex": "#D4A017"
       },
       "motif": "an argument you nearly joined",
       "message": "You almost typed into that thread. Staying out was the move."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Bread Bin",
       "luckyColor": {
-        "name": "Gold",
-        "hex": "#D4A017"
+        "name": "Silver",
+        "hex": "#C0C0C0"
       },
       "motif": "a fix that held",
       "message": "The thing you taped up is holding. Leave it alone."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Bucket Bag",
       "luckyColor": {
-        "name": "Olive",
-        "hex": "#6B7233"
+        "name": "Green",
+        "hex": "#2E8B4F"
       },
       "motif": "the umbrella that survived",
       "message": "That cheap umbrella made it. Put it back in your bag."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Embroidery Hoop",
       "luckyColor": {
-        "name": "Lavender",
-        "hex": "#B9A2DB"
+        "name": "Olive",
+        "hex": "#6B7233"
       },
       "motif": "a takeaway menu memorised",
       "message": "You know the menu by heart. Order it, stay horizontal."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Foot File",
       "luckyColor": {
-        "name": "Burgundy",
-        "hex": "#6E1B2E"
+        "name": "Lavender",
+        "hex": "#B9A2DB"
       },
       "motif": "the thing you said you would look up",
       "message": "That thing you meant to google keeps until tomorrow."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Trivet",
       "luckyColor": {
-        "name": "Green",
-        "hex": "#2E8B4F"
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
       },
       "motif": "the language app on a nine-day streak",
       "message": "Nine days of vocabulary. Miss tonight, nothing collapses."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Document Wallet",
       "luckyColor": {
-        "name": "Beige",
-        "hex": "#D9C7AE"
+        "name": "Black",
+        "hex": "#1F1F1F"
       },
       "motif": "the place with one thing worth ordering",
       "message": "One dish there is good. Not worth leaving the couch."
