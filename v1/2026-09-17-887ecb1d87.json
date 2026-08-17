@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-17",
+  "version": 1,
+  "generatedAt": "2026-08-17T05:29:19.965Z",
+  "day": {
+    "animal": "dragon",
+    "branch": "辰",
+    "headline": "A Dragon day — Rat and Monkey are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "rat",
+      "score": 94,
+      "reasons": [
+        "Rat and Dragon share a triad — strong alignment today"
+      ],
+      "luckyItem": "Phone Wallet",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "feet after a long day",
+      "message": "Shoes off the second you're in. Five minutes, then out again."
+    },
+    {
+      "rank": 2,
+      "sign": "horse",
+      "score": 85,
+      "reasons": [
+        "Horse sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Beach Towel",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "an ending you argued about",
+      "message": "You were right about that finale. Say it louder tonight."
+    },
+    {
+      "rank": 3,
+      "sign": "monkey",
+      "score": 81,
+      "reasons": [
+        "Monkey and Dragon share a triad — strong alignment today"
+      ],
+      "luckyItem": "Leg Warmers",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "the film at the top of the list",
+      "message": "It's been number one on your list for months. Tonight."
+    },
+    {
+      "rank": 4,
+      "sign": "pig",
+      "score": 77,
+      "reasons": [
+        "Pig sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Bubble Wand",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "a deadline quietly moved",
+      "message": "The deadline slid and nobody announced it. Start now, finish early."
+    },
+    {
+      "rank": 5,
+      "sign": "tiger",
+      "score": 75,
+      "reasons": [
+        "Tiger sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Stirrer Stick",
+      "luckyColor": {
+        "name": "Gray",
+        "hex": "#8A8A8A"
+      },
+      "motif": "being asked to explain",
+      "message": "Someone wants the reasoning. Three sentences, and skip the apology."
+    },
+    {
+      "rank": 6,
+      "sign": "dog",
+      "score": 74,
+      "reasons": [
+        "Dog opposes Dragon — a day to take slowly"
+      ],
+      "luckyItem": "Jump Rope",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "a direct debit you forgot",
+      "message": "That charge you forgot hits soon. Look it up, note it."
+    },
+    {
+      "rank": 7,
+      "sign": "rooster",
+      "score": 74,
+      "reasons": [
+        "Rooster pairs with Dragon — a harmonious day"
+      ],
+      "luckyItem": "Compass Rose",
+      "luckyColor": {
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
+      },
+      "motif": "a discount about to expire",
+      "message": "The code dies tonight. Two minutes to decide, either way."
+    },
+    {
+      "rank": 8,
+      "sign": "rabbit",
+      "score": 74,
+      "reasons": [
+        "Rabbit sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Pearl Pin",
+      "luckyColor": {
+        "name": "Mint",
+        "hex": "#9FD9BE"
+      },
+      "motif": "a car park level you forget",
+      "message": "Snap a photo of the level number. Saves the lap."
+    },
+    {
+      "rank": 9,
+      "sign": "snake",
+      "score": 73,
+      "reasons": [
+        "Snake sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Bucket Bag",
+      "luckyColor": {
+        "name": "Teal",
+        "hex": "#2A6B6F"
+      },
+      "motif": "the note that only makes sense to you",
+      "message": "That note only you can decode stays undecoded today. Fine."
+    },
+    {
+      "rank": 10,
+      "sign": "dragon",
+      "score": 69,
+      "reasons": [
+        "Dragon's own day — your energy runs high"
+      ],
+      "luckyItem": "Chunky Cardigan",
+      "luckyColor": {
+        "name": "Purple",
+        "hex": "#7B3FA0"
+      },
+      "motif": "the reunion you are quietly dreading",
+      "message": "Nobody's taking attendance. Stay in, no explanation needed for anyone."
+    },
+    {
+      "rank": 11,
+      "sign": "ox",
+      "score": 60,
+      "reasons": [
+        "Ox sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Slide Sandals",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "motif": "an argument you already won",
+      "message": "You already won it. Stop rerunning it in the shower."
+    },
+    {
+      "rank": 12,
+      "sign": "goat",
+      "score": 43,
+      "reasons": [
+        "Goat sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Coin Tray",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "a shopping list left at home",
+      "message": "List's on your counter. Skip the store, eat what's there."
+    }
+  ]
+}

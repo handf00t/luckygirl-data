@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-21",
+  "version": 1,
+  "generatedAt": "2026-08-17T05:31:07.104Z",
+  "day": {
+    "animal": "monkey",
+    "branch": "申",
+    "headline": "A Monkey day — Rat and Dragon are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "rooster",
+      "score": 93,
+      "reasons": [
+        "Rooster sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Tripod Mount",
+      "luckyColor": {
+        "name": "Lime",
+        "hex": "#8BC34A"
+      },
+      "motif": "an apology owed since Tuesday",
+      "message": "You've owed her since Tuesday. Say it plainly, skip the essay."
+    },
+    {
+      "rank": 2,
+      "sign": "horse",
+      "score": 92,
+      "reasons": [
+        "Horse sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Thermos Flask",
+      "luckyColor": {
+        "name": "Salmon",
+        "hex": "#EE8A76"
+      },
+      "motif": "something saved to read later",
+      "message": "That thing you saved Thursday. Read it now, standing up."
+    },
+    {
+      "rank": 3,
+      "sign": "snake",
+      "score": 89,
+      "reasons": [
+        "Snake pairs with Monkey — a harmonious day"
+      ],
+      "luckyItem": "Drawer Liner",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "a fridge with nothing that goes together",
+      "message": "Nothing in there matches. Cook it together anyway, call it dinner."
+    },
+    {
+      "rank": 4,
+      "sign": "rat",
+      "score": 87,
+      "reasons": [
+        "Rat and Monkey share a triad — strong alignment today"
+      ],
+      "luckyItem": "Wired Earbuds",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "a neighbour practising something",
+      "message": "Someone nearby is getting better at that. Tell them so today."
+    },
+    {
+      "rank": 5,
+      "sign": "dragon",
+      "score": 86,
+      "reasons": [
+        "Dragon and Monkey share a triad — strong alignment today"
+      ],
+      "luckyItem": "Flip Book",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "the article read halfway",
+      "message": "Finish the second half at lunch. Twelve minutes, tops."
+    },
+    {
+      "rank": 6,
+      "sign": "ox",
+      "score": 83,
+      "reasons": [
+        "Ox sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Storage Bin",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "a detour past the water",
+      "message": "Swing by the water for ten minutes before heading home."
+    },
+    {
+      "rank": 7,
+      "sign": "goat",
+      "score": 74,
+      "reasons": [
+        "Goat sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Napkin Ring",
+      "luckyColor": {
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
+      },
+      "motif": "a colleague leaving early",
+      "message": "Someone bailed at four. Finish your list, then go too."
+    },
+    {
+      "rank": 8,
+      "sign": "monkey",
+      "score": 66,
+      "reasons": [
+        "Monkey's own day — your energy runs high"
+      ],
+      "luckyItem": "Disposable Camera",
+      "luckyColor": {
+        "name": "Dark Red",
+        "hex": "#8B1A1A"
+      },
+      "motif": "the charger fraying at one end",
+      "message": "That cord's split near the plug. Replace it before tonight."
+    },
+    {
+      "rank": 9,
+      "sign": "rabbit",
+      "score": 65,
+      "reasons": [
+        "Rabbit sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Memory Card",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "a receipt used as a bookmark",
+      "message": "The receipt's holding your page fine. Leave it there."
+    },
+    {
+      "rank": 10,
+      "sign": "tiger",
+      "score": 61,
+      "reasons": [
+        "Tiger opposes Monkey — a day to take slowly"
+      ],
+      "luckyItem": "Shoe Bag",
+      "luckyColor": {
+        "name": "Red",
+        "hex": "#CC3333"
+      },
+      "motif": "the crossing that takes forever",
+      "message": "Don't sprint that crossing today. Wait the whole cycle out."
+    },
+    {
+      "rank": 11,
+      "sign": "dog",
+      "score": 53,
+      "reasons": [
+        "Dog sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Compass",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "motif": "a refund that never arrived",
+      "message": "Still no refund. Not today's errand, close the tab."
+    },
+    {
+      "rank": 12,
+      "sign": "pig",
+      "score": 48,
+      "reasons": [
+        "Pig sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Candle Cloche",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "the mug on the windowsill",
+      "message": "The mug on the sill keeps. Nobody's inspecting your windows."
+    }
+  ]
+}

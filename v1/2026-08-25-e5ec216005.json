@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Cuticle Oil",
       "luckyColor": {
-        "name": "Black",
-        "hex": "#1F1F1F"
+        "name": "Rust",
+        "hex": "#A8502F"
       },
       "motif": "dinner eaten at the wrong hour",
       "message": "Eat dinner at 4pm if that's what today wants."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Pier Railing",
       "luckyColor": {
-        "name": "Brown",
-        "hex": "#6B4A32"
+        "name": "Dark Red",
+        "hex": "#8B1A1A"
       },
       "motif": "shoes that need fixing",
       "message": "Drop the scuffed pair at the cobbler on Sunset."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Enamel Pin",
       "luckyColor": {
-        "name": "Purple",
-        "hex": "#7B3FA0"
+        "name": "Dark Green",
+        "hex": "#1F5C36"
       },
       "motif": "a desk with no clear surface",
       "message": "Clear the desk down to wood. Twenty minutes, all of it."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Kitchen Scale",
       "luckyColor": {
-        "name": "Olive",
-        "hex": "#6B7233"
+        "name": "Peach",
+        "hex": "#F5B78E"
       },
       "motif": "a favour asked lightly",
       "message": "Someone asked casually. Say yes, it's genuinely a two-minute thing."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Brow Gel",
       "luckyColor": {
-        "name": "Pink",
-        "hex": "#E88BAE"
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
       },
       "motif": "a project abandoned at eighty percent",
       "message": "You're eighty percent done. Finish the ugly last bit today."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Travel Adapter",
       "luckyColor": {
-        "name": "Blue",
-        "hex": "#2F6FD0"
+        "name": "Violet",
+        "hex": "#6A4C93"
       },
       "motif": "the calendar invite with no agenda",
       "message": "That invite has no agenda. Ask what it's for."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Cable Clip",
       "luckyColor": {
-        "name": "Hot Pink",
-        "hex": "#E5417F"
+        "name": "Olive",
+        "hex": "#6B7233"
       },
       "motif": "an email signature you hate",
       "message": "Rewrite your email sign-off. It's been embarrassing you for months."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Wide Brim Hat",
       "luckyColor": {
-        "name": "Orange",
-        "hex": "#E8730C"
+        "name": "Gray",
+        "hex": "#8A8A8A"
       },
       "motif": "the notification you turned off",
       "message": "You muted that app for a reason. Check it once, deliberately."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Hair Diffuser",
       "luckyColor": {
-        "name": "Yellow",
-        "hex": "#F0C419"
+        "name": "Blue",
+        "hex": "#2F6FD0"
       },
       "motif": "a song ruined by association",
       "message": "Skip that song when it comes on. No rehab attempt today."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Cotton Headband",
       "luckyColor": {
-        "name": "Gray",
-        "hex": "#8A8A8A"
+        "name": "Lime",
+        "hex": "#8BC34A"
       },
       "motif": "a taxi you did not need",
       "message": "You could've walked it. Tonight, don't go anywhere at all."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Travel Bottle",
       "luckyColor": {
-        "name": "Burgundy",
-        "hex": "#6E1B2E"
+        "name": "Black",
+        "hex": "#1F1F1F"
       },
       "motif": "waking twenty minutes early",
       "message": "Twenty minutes early is a gift. Go back to sleep."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Record Stand",
       "luckyColor": {
-        "name": "Lavender",
-        "hex": "#B9A2DB"
+        "name": "Salmon",
+        "hex": "#EE8A76"
       },
       "motif": "the feedback still unread",
       "message": "The notes will still be there Wednesday. Read them then."

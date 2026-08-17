@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Zip Folder",
       "luckyColor": {
-        "name": "Gray",
-        "hex": "#8A8A8A"
+        "name": "Charcoal",
+        "hex": "#3A3A3A"
       },
       "motif": "something everyone is talking about",
       "message": "Everyone's got a take on it. Say yours first, loudly."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Skipping Stone",
       "luckyColor": {
-        "name": "Red",
-        "hex": "#CC3333"
+        "name": "Beige",
+        "hex": "#D9C7AE"
       },
       "motif": "the pan that needs soaking",
       "message": "That crusted skillet takes four minutes. Do it before you sit."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Phone Grip",
       "luckyColor": {
-        "name": "Mint",
-        "hex": "#9FD9BE"
+        "name": "Hot Pink",
+        "hex": "#E5417F"
       },
       "motif": "an unplayed voice note",
       "message": "Forty-second voice note, still gray. Play it walking to pilates."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Pressed Flower",
       "luckyColor": {
-        "name": "Silver",
-        "hex": "#C0C0C0"
+        "name": "Gray",
+        "hex": "#8A8A8A"
       },
       "motif": "an ID photo you regret",
       "message": "Retake the awful little photo today. You look nothing like that."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Shoe Rack",
       "luckyColor": {
-        "name": "Blue",
-        "hex": "#2F6FD0"
+        "name": "Rust",
+        "hex": "#A8502F"
       },
       "motif": "shoes left in the hallway",
       "message": "Three pairs by the door. Put them where they live."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Kitchen Timer",
       "luckyColor": {
-        "name": "Lavender",
-        "hex": "#B9A2DB"
+        "name": "Dark Green",
+        "hex": "#1F5C36"
       },
       "motif": "the newsletter you never unsubscribe from",
       "message": "You skim it every week. Unsubscribe, takes one tap."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Flat Iron",
       "luckyColor": {
-        "name": "Green",
-        "hex": "#2E8B4F"
+        "name": "Purple",
+        "hex": "#7B3FA0"
       },
       "motif": "the result you keep refreshing",
       "message": "Refreshing won't speed it up. Close it, go get lunch."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Capo",
       "luckyColor": {
-        "name": "Olive",
-        "hex": "#6B7233"
+        "name": "Teal",
+        "hex": "#2A6B6F"
       },
       "motif": "the sequel nobody wanted",
       "message": "Watch the bad follow-up anyway. Group chat needs the commentary."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Nail Clippers",
       "luckyColor": {
-        "name": "Peach",
-        "hex": "#F5B78E"
+        "name": "Green",
+        "hex": "#2E8B4F"
       },
       "motif": "the sentence you started again",
       "message": "Fourth attempt at one sentence. Leave it, come back tomorrow."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Headphone Case",
       "luckyColor": {
-        "name": "White",
-        "hex": "#FFFFFF"
+        "name": "Red",
+        "hex": "#CC3333"
       },
       "motif": "something recommended without being asked",
       "message": "Nobody asked what she should do. Let it go unsaid."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Pocket Notebook",
       "luckyColor": {
-        "name": "Hot Pink",
-        "hex": "#E5417F"
+        "name": "Lavender",
+        "hex": "#B9A2DB"
       },
       "motif": "a code sent to an old phone",
       "message": "The number went to a dead phone. Deal with it later."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Instant Camera",
       "luckyColor": {
-        "name": "Pink",
-        "hex": "#E88BAE"
+        "name": "Silver",
+        "hex": "#C0C0C0"
       },
       "motif": "the view from the top floor",
       "message": "City looks great from up there. Still, go home early."

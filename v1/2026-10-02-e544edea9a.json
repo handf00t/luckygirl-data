@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-02",
+  "version": 1,
+  "generatedAt": "2026-08-17T05:36:57.747Z",
+  "day": {
+    "animal": "goat",
+    "branch": "未",
+    "headline": "A Goat day — Rabbit and Pig are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "rat",
+      "score": 92,
+      "reasons": [
+        "Rat sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Velvet Scrunchie",
+      "luckyColor": {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      "motif": "a handle coming loose",
+      "message": "The drawer handle's wobbling. Two turns with a screwdriver, done today."
+    },
+    {
+      "rank": 2,
+      "sign": "horse",
+      "score": 89,
+      "reasons": [
+        "Horse pairs with Goat — a harmonious day"
+      ],
+      "luckyItem": "Canvas Board",
+      "luckyColor": {
+        "name": "Coral",
+        "hex": "#E96B5A"
+      },
+      "motif": "an old routine that no longer fits",
+      "message": "You outgrew that morning lineup months ago. Rebuild it today."
+    },
+    {
+      "rank": 3,
+      "sign": "pig",
+      "score": 79,
+      "reasons": [
+        "Pig and Goat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Brooch",
+      "luckyColor": {
+        "name": "Gold",
+        "hex": "#D4A017"
+      },
+      "motif": "a heat that slows the day",
+      "message": "Heat's flattening everyone else. Get your thing done before ten."
+    },
+    {
+      "rank": 4,
+      "sign": "dog",
+      "score": 74,
+      "reasons": [
+        "Dog sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Watercolor Set",
+      "luckyColor": {
+        "name": "Mint",
+        "hex": "#9FD9BE"
+      },
+      "motif": "a note to self from March",
+      "message": "March you left instructions. She was right, start it today."
+    },
+    {
+      "rank": 5,
+      "sign": "tiger",
+      "score": 71,
+      "reasons": [
+        "Tiger sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Striped Socks",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "the bank holiday nobody planned for",
+      "message": "Turns out today's a holiday. Fix the small stuff at home."
+    },
+    {
+      "rank": 6,
+      "sign": "monkey",
+      "score": 61,
+      "reasons": [
+        "Monkey sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Hair Mask",
+      "luckyColor": {
+        "name": "Yellow",
+        "hex": "#F0C419"
+      },
+      "motif": "the split bill nobody settled",
+      "message": "Somebody still owes for last week's table. Say the number plainly."
+    },
+    {
+      "rank": 7,
+      "sign": "rooster",
+      "score": 60,
+      "reasons": [
+        "Rooster sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Page Tabs",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "motif": "the good day you did not notice",
+      "message": "Yesterday was quietly good. Write down why before you forget it."
+    },
+    {
+      "rank": 8,
+      "sign": "rabbit",
+      "score": 56,
+      "reasons": [
+        "Rabbit and Goat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Snack Tin",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "the printer queue with your name on it",
+      "message": "Your pages are still sitting in that tray. Go get them."
+    },
+    {
+      "rank": 9,
+      "sign": "goat",
+      "score": 50,
+      "reasons": [
+        "Goat's own day — your energy runs high"
+      ],
+      "luckyItem": "Dart Set",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "the plan made on a whim",
+      "message": "That impulse plan can un-happen. Say so early, then stay in."
+    },
+    {
+      "rank": 10,
+      "sign": "dragon",
+      "score": 50,
+      "reasons": [
+        "Dragon sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Paper Clips",
+      "luckyColor": {
+        "name": "Light Pink",
+        "hex": "#F2B8CC"
+      },
+      "motif": "the forecast you ignored",
+      "message": "You skipped the forecast and it was right. Indoors wins tonight."
+    },
+    {
+      "rank": 11,
+      "sign": "snake",
+      "score": 43,
+      "reasons": [
+        "Snake sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Bottle Opener",
+      "luckyColor": {
+        "name": "Purple",
+        "hex": "#7B3FA0"
+      },
+      "motif": "the countdown on a screen",
+      "message": "Staring at the countdown won't move it. Screen down, blanket on."
+    },
+    {
+      "rank": 12,
+      "sign": "ox",
+      "score": 39,
+      "reasons": [
+        "Ox opposes Goat — a day to take slowly"
+      ],
+      "luckyItem": "Throw Blanket",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "a bag of clothes for donation",
+      "message": "That bag isn't going anywhere today. Neither are you, happily."
+    }
+  ]
+}

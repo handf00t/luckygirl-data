@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-25",
+  "version": 1,
+  "generatedAt": "2026-08-17T05:33:02.921Z",
+  "day": {
+    "animal": "rat",
+    "branch": "子",
+    "headline": "A Rat day — Dragon and Monkey are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "ox",
+      "score": 99,
+      "reasons": [
+        "Ox pairs with Rat — a harmonious day"
+      ],
+      "luckyItem": "Airmail Sticker",
+      "luckyColor": {
+        "name": "Gold",
+        "hex": "#D4A017"
+      },
+      "motif": "a jacket for the wrong weather",
+      "message": "You dressed for a colder city. Ditch the layer, head out."
+    },
+    {
+      "rank": 2,
+      "sign": "tiger",
+      "score": 96,
+      "reasons": [
+        "Tiger sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Honey Dipper",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "a message read by the wrong person",
+      "message": "Wrong person saw it. Stand behind it, no frantic follow-up."
+    },
+    {
+      "rank": 3,
+      "sign": "rat",
+      "score": 92,
+      "reasons": [
+        "Rat's own day — your energy runs high"
+      ],
+      "luckyItem": "Lucky Coin",
+      "luckyColor": {
+        "name": "Light Pink",
+        "hex": "#F2B8CC"
+      },
+      "motif": "a colleague you never talk to",
+      "message": "Say more than hi to the person two desks over."
+    },
+    {
+      "rank": 4,
+      "sign": "rabbit",
+      "score": 85,
+      "reasons": [
+        "Rabbit sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Cuticle Oil",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "a small win nobody saw",
+      "message": "Nobody clocked that win. Tell one person, no throat-clearing."
+    },
+    {
+      "rank": 5,
+      "sign": "monkey",
+      "score": 85,
+      "reasons": [
+        "Monkey and Rat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Flat Iron",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "the newsletter you never unsubscribe from",
+      "message": "Two clicks at the bottom of it. Do that today."
+    },
+    {
+      "rank": 6,
+      "sign": "rooster",
+      "score": 68,
+      "reasons": [
+        "Rooster sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Cloakroom Ticket",
+      "luckyColor": {
+        "name": "Yellow",
+        "hex": "#F0C419"
+      },
+      "motif": "a new sign on an old door",
+      "message": "The corner place has a new name. Go read the menu."
+    },
+    {
+      "rank": 7,
+      "sign": "dragon",
+      "score": 65,
+      "reasons": [
+        "Dragon and Rat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Pickle Jar",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "motif": "the junk drawer",
+      "message": "Dead batteries, three dried pens. Clear those out, shut it."
+    },
+    {
+      "rank": 8,
+      "sign": "dog",
+      "score": 60,
+      "reasons": [
+        "Dog sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Laptop Sleeve",
+      "luckyColor": {
+        "name": "Red",
+        "hex": "#CC3333"
+      },
+      "motif": "money lent and forgotten",
+      "message": "Write the amount down for your own records. That's enough."
+    },
+    {
+      "rank": 9,
+      "sign": "pig",
+      "score": 60,
+      "reasons": [
+        "Pig sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Silver Hoops",
+      "luckyColor": {
+        "name": "Purple",
+        "hex": "#7B3FA0"
+      },
+      "motif": "a cart never checked out",
+      "message": "Nothing in there has changed in weeks. Leave it parked."
+    },
+    {
+      "rank": 10,
+      "sign": "goat",
+      "score": 48,
+      "reasons": [
+        "Goat sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Sewing Kit",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "a chapter read three times",
+      "message": "Third pass, same pages, nothing landing. Shut the book."
+    },
+    {
+      "rank": 11,
+      "sign": "snake",
+      "score": 39,
+      "reasons": [
+        "Snake sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Texture Spray",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "a wardrobe half sorted",
+      "message": "Half-sorted piles can stay half-sorted. Push them aside, get comfortable."
+    },
+    {
+      "rank": 12,
+      "sign": "horse",
+      "score": 39,
+      "reasons": [
+        "Horse opposes Rat — a day to take slowly"
+      ],
+      "luckyItem": "Filing Folder",
+      "luckyColor": {
+        "name": "Gray",
+        "hex": "#8A8A8A"
+      },
+      "motif": "something you keep re-reading",
+      "message": "You've memorized it by now. Close it, phone face-down."
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-12",
+  "version": 1,
+  "generatedAt": "2026-08-17T05:42:56.013Z",
+  "day": {
+    "animal": "snake",
+    "branch": "巳",
+    "headline": "A Snake day — Ox and Rooster are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "ox",
+      "score": 97,
+      "reasons": [
+        "Ox and Snake share a triad — strong alignment today"
+      ],
+      "luckyItem": "Fabric Scrap",
+      "luckyColor": {
+        "name": "Salmon",
+        "hex": "#EE8A76"
+      },
+      "motif": "a recipe halved badly",
+      "message": "Halved it wrong, made twice too much. Feed someone tonight."
+    },
+    {
+      "rank": 2,
+      "sign": "horse",
+      "score": 83,
+      "reasons": [
+        "Horse sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Sleep Mask",
+      "luckyColor": {
+        "name": "Gold",
+        "hex": "#D4A017"
+      },
+      "motif": "a jumper worn thin",
+      "message": "Thin at the elbows, still the best thing you own. Wear it."
+    },
+    {
+      "rank": 3,
+      "sign": "rabbit",
+      "score": 71,
+      "reasons": [
+        "Rabbit sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Milk Frother",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "a phrase you overuse",
+      "message": "You've said it four times already today. Say it again, unbothered."
+    },
+    {
+      "rank": 4,
+      "sign": "rooster",
+      "score": 70,
+      "reasons": [
+        "Rooster and Snake share a triad — strong alignment today"
+      ],
+      "luckyItem": "Corduroy Shirt",
+      "luckyColor": {
+        "name": "Dark Green",
+        "hex": "#1F5C36"
+      },
+      "motif": "something in the freezer since spring",
+      "message": "That bag from March in the freezer. Thaw it, cook tonight."
+    },
+    {
+      "rank": 5,
+      "sign": "tiger",
+      "score": 67,
+      "reasons": [
+        "Tiger sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Signet Ring",
+      "luckyColor": {
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
+      },
+      "motif": "the sentence you started again",
+      "message": "Third run at that opening line. This one's fine, keep going."
+    },
+    {
+      "rank": 6,
+      "sign": "rat",
+      "score": 67,
+      "reasons": [
+        "Rat sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Cotton Buds",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "the person who never asks",
+      "message": "She's never once asked. Clock it, don't build a case."
+    },
+    {
+      "rank": 7,
+      "sign": "monkey",
+      "score": 66,
+      "reasons": [
+        "Monkey pairs with Snake — a harmonious day"
+      ],
+      "luckyItem": "Jam Jar",
+      "luckyColor": {
+        "name": "Pink",
+        "hex": "#E88BAE"
+      },
+      "motif": "the noise you only hear at night",
+      "message": "Find the source of that 2am hum before dinner."
+    },
+    {
+      "rank": 8,
+      "sign": "dog",
+      "score": 60,
+      "reasons": [
+        "Dog sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Bamboo Straw",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "the calendar invite with no agenda",
+      "message": "Half an hour booked, no reason given. Ask what for."
+    },
+    {
+      "rank": 9,
+      "sign": "dragon",
+      "score": 53,
+      "reasons": [
+        "Dragon sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Turtleneck",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "motif": "a comparison that helps nobody",
+      "message": "That side-by-side in your head helps nobody. Quit running it."
+    },
+    {
+      "rank": 10,
+      "sign": "snake",
+      "score": 48,
+      "reasons": [
+        "Snake's own day — your energy runs high"
+      ],
+      "luckyItem": "Lanyard Clip",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "the jacket bought for a different life",
+      "message": "Bought for a version of you who goes out. Let it hang."
+    },
+    {
+      "rank": 11,
+      "sign": "pig",
+      "score": 45,
+      "reasons": [
+        "Pig opposes Snake — a day to take slowly"
+      ],
+      "luckyItem": "Ring Binder",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "a coin found in a coat",
+      "message": "Change in an old pocket. Leave it, stay where you are."
+    },
+    {
+      "rank": 12,
+      "sign": "goat",
+      "score": 43,
+      "reasons": [
+        "Goat sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Wide Leg Jeans",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "someone who owes you nothing",
+      "message": "They owe you nothing. Let that make today pleasantly small."
+    }
+  ]
+}

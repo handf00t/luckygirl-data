@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-07",
+  "version": 1,
+  "generatedAt": "2026-08-17T05:39:12.266Z",
+  "day": {
+    "animal": "rat",
+    "branch": "子",
+    "headline": "A Rat day — Dragon and Monkey are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "monkey",
+      "score": 92,
+      "reasons": [
+        "Monkey and Rat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Felt Sheet",
+      "luckyColor": {
+        "name": "Purple",
+        "hex": "#7B3FA0"
+      },
+      "motif": "a hair day that decided itself",
+      "message": "Hair did the work for you. Don't touch it, go."
+    },
+    {
+      "rank": 2,
+      "sign": "ox",
+      "score": 88,
+      "reasons": [
+        "Ox pairs with Rat — a harmonious day"
+      ],
+      "luckyItem": "Bell Charm",
+      "luckyColor": {
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
+      },
+      "motif": "a project abandoned at eighty percent",
+      "message": "Eighty percent finished is twenty minutes from done. Finish it."
+    },
+    {
+      "rank": 3,
+      "sign": "dragon",
+      "score": 79,
+      "reasons": [
+        "Dragon and Rat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Solid Soap",
+      "luckyColor": {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      "motif": "the ask you keep shrinking",
+      "message": "You keep making the ask smaller. Ask for the real number."
+    },
+    {
+      "rank": 4,
+      "sign": "dog",
+      "score": 77,
+      "reasons": [
+        "Dog sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Round Sunglasses",
+      "luckyColor": {
+        "name": "Teal",
+        "hex": "#2A6B6F"
+      },
+      "motif": "a diversion sign",
+      "message": "Road's rerouted. Follow the arrows, you'll like where they go."
+    },
+    {
+      "rank": 5,
+      "sign": "rat",
+      "score": 76,
+      "reasons": [
+        "Rat's own day — your energy runs high"
+      ],
+      "luckyItem": "Brush Cleaner",
+      "luckyColor": {
+        "name": "Gray",
+        "hex": "#8A8A8A"
+      },
+      "motif": "a door held open",
+      "message": "Someone held the door. Take it as a green light."
+    },
+    {
+      "rank": 6,
+      "sign": "rooster",
+      "score": 75,
+      "reasons": [
+        "Rooster sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Fortune Slip",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "the umbrella that survived",
+      "message": "That umbrella made it home. Keep it in the bag today."
+    },
+    {
+      "rank": 7,
+      "sign": "pig",
+      "score": 68,
+      "reasons": [
+        "Pig sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Mason Jar",
+      "luckyColor": {
+        "name": "Mustard",
+        "hex": "#C9A227"
+      },
+      "motif": "a contact saved under one letter",
+      "message": "Contact saved as one letter. Give them a real name."
+    },
+    {
+      "rank": 8,
+      "sign": "goat",
+      "score": 59,
+      "reasons": [
+        "Goat sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Label Maker",
+      "luckyColor": {
+        "name": "Mint",
+        "hex": "#9FD9BE"
+      },
+      "motif": "the parcel locker code expiring",
+      "message": "Locker code runs out tonight. Grab the box on your way."
+    },
+    {
+      "rank": 9,
+      "sign": "rabbit",
+      "score": 58,
+      "reasons": [
+        "Rabbit sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Whistle",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "a link opened and forgotten",
+      "message": "That tab you opened yesterday can close unread. Nothing lost."
+    },
+    {
+      "rank": 10,
+      "sign": "horse",
+      "score": 58,
+      "reasons": [
+        "Horse opposes Rat — a day to take slowly"
+      ],
+      "luckyItem": "Fingerless Gloves",
+      "luckyColor": {
+        "name": "Green",
+        "hex": "#2E8B4F"
+      },
+      "motif": "the second screen while watching",
+      "message": "Watch the show with one screen. Phone in another room."
+    },
+    {
+      "rank": 11,
+      "sign": "snake",
+      "score": 57,
+      "reasons": [
+        "Snake sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Bow Tie",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "a card declined once",
+      "message": "One card didn't go through. Try again tomorrow, not now."
+    },
+    {
+      "rank": 12,
+      "sign": "tiger",
+      "score": 46,
+      "reasons": [
+        "Tiger sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Diffuser Reeds",
+      "luckyColor": {
+        "name": "Beige",
+        "hex": "#D9C7AE"
+      },
+      "motif": "the place that closes early",
+      "message": "They shut at six. Perfect excuse to stay in tonight."
+    }
+  ]
+}

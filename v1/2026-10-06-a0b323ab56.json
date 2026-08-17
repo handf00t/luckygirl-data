@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-06",
+  "version": 1,
+  "generatedAt": "2026-08-17T05:39:04.229Z",
+  "day": {
+    "animal": "pig",
+    "branch": "亥",
+    "headline": "A Pig day — Rabbit and Goat are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "tiger",
+      "score": 99,
+      "reasons": [
+        "Tiger pairs with Pig — a harmonious day"
+      ],
+      "luckyItem": "Spice Jar",
+      "luckyColor": {
+        "name": "Dark Red",
+        "hex": "#8B1A1A"
+      },
+      "motif": "a bath run too late",
+      "message": "Bath's ready way too late. Get in anyway, tomorrow can wait."
+    },
+    {
+      "rank": 2,
+      "sign": "dragon",
+      "score": 88,
+      "reasons": [
+        "Dragon sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Picture Hook",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "the second one you did not need",
+      "message": "Didn't need the second one. Spend the buzz on something ambitious."
+    },
+    {
+      "rank": 3,
+      "sign": "rat",
+      "score": 83,
+      "reasons": [
+        "Rat sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Stacking Cup",
+      "luckyColor": {
+        "name": "Gold",
+        "hex": "#D4A017"
+      },
+      "motif": "the back row",
+      "message": "You took the back row again. Move up, sit where things happen."
+    },
+    {
+      "rank": 4,
+      "sign": "pig",
+      "score": 79,
+      "reasons": [
+        "Pig's own day — your energy runs high"
+      ],
+      "luckyItem": "Weekly Planner",
+      "luckyColor": {
+        "name": "Denim Blue",
+        "hex": "#3F5C7A"
+      },
+      "motif": "an offer made and meant",
+      "message": "She meant that offer. Say yes today, no polite hedging."
+    },
+    {
+      "rank": 5,
+      "sign": "rabbit",
+      "score": 73,
+      "reasons": [
+        "Rabbit and Pig share a triad — strong alignment today"
+      ],
+      "luckyItem": "Slippers",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "a book started on a train",
+      "message": "That book from the train gets a chapter at lunch."
+    },
+    {
+      "rank": 6,
+      "sign": "goat",
+      "score": 70,
+      "reasons": [
+        "Goat and Pig share a triad — strong alignment today"
+      ],
+      "luckyItem": "Iron-On Patch",
+      "luckyColor": {
+        "name": "Silver",
+        "hex": "#C0C0C0"
+      },
+      "motif": "someone cancelling first",
+      "message": "She cancelled first. Use the free hours on small unglamorous stuff."
+    },
+    {
+      "rank": 7,
+      "sign": "ox",
+      "score": 67,
+      "reasons": [
+        "Ox sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Wooden Spoon",
+      "luckyColor": {
+        "name": "Teal",
+        "hex": "#2A6B6F"
+      },
+      "motif": "the nap you deserve",
+      "message": "Twenty minutes flat on your back, alarm on. Then carry on."
+    },
+    {
+      "rank": 8,
+      "sign": "rooster",
+      "score": 67,
+      "reasons": [
+        "Rooster sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Emery Board",
+      "luckyColor": {
+        "name": "Rust",
+        "hex": "#A8502F"
+      },
+      "motif": "a song that gets you every time",
+      "message": "Play the one that always gets you. Once, then keep moving."
+    },
+    {
+      "rank": 9,
+      "sign": "monkey",
+      "score": 63,
+      "reasons": [
+        "Monkey sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Under Bed Tray",
+      "luckyColor": {
+        "name": "Gray",
+        "hex": "#8A8A8A"
+      },
+      "motif": "a pen that still works",
+      "message": "You found a pen that works. Nothing today needs writing down."
+    },
+    {
+      "rank": 10,
+      "sign": "horse",
+      "score": 62,
+      "reasons": [
+        "Horse sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Cotton Pads",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "the yawn that will not finish",
+      "message": "The yawn that won't finish. That's your whole plan, bed early."
+    },
+    {
+      "rank": 11,
+      "sign": "snake",
+      "score": 61,
+      "reasons": [
+        "Snake opposes Pig — a day to take slowly"
+      ],
+      "luckyItem": "Welcome Mat",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "an alarm set too optimistically",
+      "message": "That alarm was pure optimism. Push it an hour, sleep in."
+    },
+    {
+      "rank": 12,
+      "sign": "dog",
+      "score": 38,
+      "reasons": [
+        "Dog sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Gua Sha Stone",
+      "luckyColor": {
+        "name": "Lemon",
+        "hex": "#F5E05A"
+      },
+      "motif": "a zip that gave up",
+      "message": "The zip finally quit. Let that decide tonight for you."
+    }
+  ]
+}

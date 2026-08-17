@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-28",
+  "version": 1,
+  "generatedAt": "2026-08-17T05:35:00.260Z",
+  "day": {
+    "animal": "rabbit",
+    "branch": "卯",
+    "headline": "A Rabbit day — Goat and Pig are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "pig",
+      "score": 93,
+      "reasons": [
+        "Pig and Rabbit share a triad — strong alignment today"
+      ],
+      "luckyItem": "Pin Badge",
+      "luckyColor": {
+        "name": "Gray",
+        "hex": "#8A8A8A"
+      },
+      "motif": "the thing you said you would look up",
+      "message": "That thing you swore you'd google. Do it before lunch."
+    },
+    {
+      "rank": 2,
+      "sign": "dog",
+      "score": 90,
+      "reasons": [
+        "Dog pairs with Rabbit — a harmonious day"
+      ],
+      "luckyItem": "Knit Headband",
+      "luckyColor": {
+        "name": "Light Pink",
+        "hex": "#F2B8CC"
+      },
+      "motif": "a green light you did not expect",
+      "message": "It cleared without a fight. Go now, ask questions later."
+    },
+    {
+      "rank": 3,
+      "sign": "goat",
+      "score": 89,
+      "reasons": [
+        "Goat and Rabbit share a triad — strong alignment today"
+      ],
+      "luckyItem": "Snow Globe",
+      "luckyColor": {
+        "name": "Pink",
+        "hex": "#E88BAE"
+      },
+      "motif": "a book abandoned at page forty",
+      "message": "Pick it back up tonight. Page forty isn't a verdict."
+    },
+    {
+      "rank": 4,
+      "sign": "monkey",
+      "score": 79,
+      "reasons": [
+        "Monkey sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Steel Thermos",
+      "luckyColor": {
+        "name": "Charcoal",
+        "hex": "#3A3A3A"
+      },
+      "motif": "the watch that stopped",
+      "message": "It stopped weeks ago. Get the battery swapped, wear it out."
+    },
+    {
+      "rank": 5,
+      "sign": "ox",
+      "score": 65,
+      "reasons": [
+        "Ox sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Air Freshener",
+      "luckyColor": {
+        "name": "Purple",
+        "hex": "#7B3FA0"
+      },
+      "motif": "an email signature you hate",
+      "message": "Fix the sign-off you flinch at. Ninety seconds, done."
+    },
+    {
+      "rank": 6,
+      "sign": "tiger",
+      "score": 62,
+      "reasons": [
+        "Tiger sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Sun Cream Stick",
+      "luckyColor": {
+        "name": "Coral",
+        "hex": "#E96B5A"
+      },
+      "motif": "someone talking over you",
+      "message": "Someone talked over you. Say it again, same words, calmly."
+    },
+    {
+      "rank": 7,
+      "sign": "rooster",
+      "score": 56,
+      "reasons": [
+        "Rooster opposes Rabbit — a day to take slowly"
+      ],
+      "luckyItem": "Slinky",
+      "luckyColor": {
+        "name": "Gold",
+        "hex": "#D4A017"
+      },
+      "motif": "a room too warm to sleep in",
+      "message": "Fan on before dinner. Cool room now, better sleep later."
+    },
+    {
+      "rank": 8,
+      "sign": "rat",
+      "score": 54,
+      "reasons": [
+        "Rat sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Foil Sticker",
+      "luckyColor": {
+        "name": "Dark Green",
+        "hex": "#1F5C36"
+      },
+      "motif": "the mirror covered in marks",
+      "message": "You look better than that smudged glass suggests. Wipe it down."
+    },
+    {
+      "rank": 9,
+      "sign": "dragon",
+      "score": 52,
+      "reasons": [
+        "Dragon sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Phrasebook",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "motif": "a hinge that needs oil",
+      "message": "The squeak isn't urgent. Oil it whenever, not this afternoon."
+    },
+    {
+      "rank": 10,
+      "sign": "rabbit",
+      "score": 49,
+      "reasons": [
+        "Rabbit's own day — your energy runs high"
+      ],
+      "luckyItem": "Hand Mirror",
+      "luckyColor": {
+        "name": "Mint",
+        "hex": "#9FD9BE"
+      },
+      "motif": "a renewal date approaching",
+      "message": "That renewal's still a few days out. Nothing to decide today."
+    },
+    {
+      "rank": 11,
+      "sign": "snake",
+      "score": 49,
+      "reasons": [
+        "Snake sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Zine",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "a boundary tested politely",
+      "message": "Someone tested the line politely. Hold where you are, no speech."
+    },
+    {
+      "rank": 12,
+      "sign": "horse",
+      "score": 46,
+      "reasons": [
+        "Horse sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Ice Roller",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "something glued twice already",
+      "message": "Two rounds of glue already. Set it down, sit down."
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-13",
+  "version": 1,
+  "generatedAt": "2026-08-17T05:43:18.140Z",
+  "day": {
+    "animal": "horse",
+    "branch": "午",
+    "headline": "A Horse day — Tiger and Dog are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "goat",
+      "score": 94,
+      "reasons": [
+        "Goat pairs with Horse — a harmonious day"
+      ],
+      "luckyItem": "Road Trip Playlist",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "motif": "the seat facing backwards",
+      "message": "Only the backwards seat left. Take it, watch the city leave."
+    },
+    {
+      "rank": 2,
+      "sign": "horse",
+      "score": 82,
+      "reasons": [
+        "Horse's own day — your energy runs high"
+      ],
+      "luckyItem": "Kendama",
+      "luckyColor": {
+        "name": "Light Pink",
+        "hex": "#F2B8CC"
+      },
+      "motif": "the walk skipped again",
+      "message": "Third day skipped. Shoes on now, loop the block."
+    },
+    {
+      "rank": 3,
+      "sign": "tiger",
+      "score": 77,
+      "reasons": [
+        "Tiger and Horse share a triad — strong alignment today"
+      ],
+      "luckyItem": "Dice Set",
+      "luckyColor": {
+        "name": "Dark Red",
+        "hex": "#8B1A1A"
+      },
+      "motif": "the thing that only you would notice",
+      "message": "You clocked a detail nobody else did. Say it out loud."
+    },
+    {
+      "rank": 4,
+      "sign": "snake",
+      "score": 73,
+      "reasons": [
+        "Snake sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Crew Socks",
+      "luckyColor": {
+        "name": "Denim Blue",
+        "hex": "#3F5C7A"
+      },
+      "motif": "the shelf never hung",
+      "message": "Two brackets, one drill, twenty minutes. That shelf goes up today."
+    },
+    {
+      "rank": 5,
+      "sign": "rat",
+      "score": 72,
+      "reasons": [
+        "Rat opposes Horse — a day to take slowly"
+      ],
+      "luckyItem": "Wool Coat",
+      "luckyColor": {
+        "name": "Dark Green",
+        "hex": "#1F5C36"
+      },
+      "motif": "something everyone is talking about",
+      "message": "Watch the first ten minutes yourself before joining the discourse."
+    },
+    {
+      "rank": 6,
+      "sign": "monkey",
+      "score": 68,
+      "reasons": [
+        "Monkey sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Aux Cable",
+      "luckyColor": {
+        "name": "Red",
+        "hex": "#CC3333"
+      },
+      "motif": "a jacket bought and never worn",
+      "message": "Tags still on since June. Wear it on the coffee run."
+    },
+    {
+      "rank": 7,
+      "sign": "dog",
+      "score": 59,
+      "reasons": [
+        "Dog and Horse share a triad — strong alignment today"
+      ],
+      "luckyItem": "Placemat",
+      "luckyColor": {
+        "name": "Violet",
+        "hex": "#6A4C93"
+      },
+      "motif": "the search history you would not defend",
+      "message": "Your 3am googling isn't evidence. Close the tabs, move on."
+    },
+    {
+      "rank": 8,
+      "sign": "ox",
+      "score": 57,
+      "reasons": [
+        "Ox sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Hat Box",
+      "luckyColor": {
+        "name": "Beige",
+        "hex": "#D9C7AE"
+      },
+      "motif": "a heartbeat noticed at rest",
+      "message": "Quiet enough to hear your own pulse. Stay there a minute."
+    },
+    {
+      "rank": 9,
+      "sign": "rooster",
+      "score": 57,
+      "reasons": [
+        "Rooster sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Press On Nails",
+      "luckyColor": {
+        "name": "Lemon",
+        "hex": "#F5E05A"
+      },
+      "motif": "someone repeating themselves",
+      "message": "She's told you this one before. Let her tell it."
+    },
+    {
+      "rank": 10,
+      "sign": "dragon",
+      "score": 53,
+      "reasons": [
+        "Dragon sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Eyelash Comb",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "the introduction someone offered",
+      "message": "That intro someone offered keeps till next week. No rush."
+    },
+    {
+      "rank": 11,
+      "sign": "pig",
+      "score": 49,
+      "reasons": [
+        "Pig sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Glovebox Note",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "the deadline nobody enforces",
+      "message": "Nobody's chasing that due date. Tomorrow handles it, genuinely."
+    },
+    {
+      "rank": 12,
+      "sign": "rabbit",
+      "score": 46,
+      "reasons": [
+        "Rabbit sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Key Cabinet",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "someone else finishing first",
+      "message": "Someone got there first. Log off, let today stay small."
+    }
+  ]
+}

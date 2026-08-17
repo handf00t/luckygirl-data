@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-15",
+  "version": 1,
+  "generatedAt": "2026-08-17T05:45:12.090Z",
+  "day": {
+    "animal": "monkey",
+    "branch": "申",
+    "headline": "A Monkey day — Rat and Dragon are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "rat",
+      "score": 93,
+      "reasons": [
+        "Rat and Monkey share a triad — strong alignment today"
+      ],
+      "luckyItem": "Record Sleeve",
+      "luckyColor": {
+        "name": "Coral",
+        "hex": "#E96B5A"
+      },
+      "motif": "the bakery queue",
+      "message": "Line's out the door. Get in it, order two things."
+    },
+    {
+      "rank": 2,
+      "sign": "rabbit",
+      "score": 82,
+      "reasons": [
+        "Rabbit sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Oversized Hoodie",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "an old account still logged in",
+      "message": "Still logged in from three phones ago. Sign out today."
+    },
+    {
+      "rank": 3,
+      "sign": "rooster",
+      "score": 81,
+      "reasons": [
+        "Rooster sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Cafetiere",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "the spare key with no home",
+      "message": "Loose key, no lock. Label it today or hand it off."
+    },
+    {
+      "rank": 4,
+      "sign": "pig",
+      "score": 77,
+      "reasons": [
+        "Pig sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Tin of Bandages",
+      "luckyColor": {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      "motif": "an unused gift card",
+      "message": "Prepaid plastic, full balance, zero plan. Go spend the whole thing."
+    },
+    {
+      "rank": 5,
+      "sign": "ox",
+      "score": 76,
+      "reasons": [
+        "Ox sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Notebook Band",
+      "luckyColor": {
+        "name": "Mint",
+        "hex": "#9FD9BE"
+      },
+      "motif": "dishes in the sink",
+      "message": "Ten minutes at the sink and the kitchen stops nagging."
+    },
+    {
+      "rank": 6,
+      "sign": "dragon",
+      "score": 74,
+      "reasons": [
+        "Dragon and Monkey share a triad — strong alignment today"
+      ],
+      "luckyItem": "Photo Box",
+      "luckyColor": {
+        "name": "Lime",
+        "hex": "#8BC34A"
+      },
+      "motif": "a phone case falling apart",
+      "message": "The case is held together by vibes. Order a new one."
+    },
+    {
+      "rank": 7,
+      "sign": "monkey",
+      "score": 61,
+      "reasons": [
+        "Monkey's own day — your energy runs high"
+      ],
+      "luckyItem": "Bud Vase",
+      "luckyColor": {
+        "name": "Gray",
+        "hex": "#8A8A8A"
+      },
+      "motif": "a room that needs air",
+      "message": "Window open ten minutes while you shower. Whole place resets."
+    },
+    {
+      "rank": 8,
+      "sign": "dog",
+      "score": 54,
+      "reasons": [
+        "Dog sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Concealer Stick",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "waking twenty minutes early",
+      "message": "Awake before the alarm. Don't waste it on your phone."
+    },
+    {
+      "rank": 9,
+      "sign": "tiger",
+      "score": 50,
+      "reasons": [
+        "Tiger opposes Monkey — a day to take slowly"
+      ],
+      "luckyItem": "Wide Brim Hat",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "a playlist half made",
+      "message": "Nine songs in and stalled. Leave it, shuffle someone else's."
+    },
+    {
+      "rank": 10,
+      "sign": "snake",
+      "score": 49,
+      "reasons": [
+        "Snake pairs with Monkey — a harmonious day"
+      ],
+      "luckyItem": "Ticket Wallet",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "fog on the way in",
+      "message": "City's wrapped in cotton this morning. Let today stay blurry."
+    },
+    {
+      "rank": 11,
+      "sign": "horse",
+      "score": 47,
+      "reasons": [
+        "Horse sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Webcam Cover",
+      "luckyColor": {
+        "name": "Purple",
+        "hex": "#7B3FA0"
+      },
+      "motif": "the view from the top floor",
+      "message": "Stand at the big window a while. Cancel the rest."
+    },
+    {
+      "rank": 12,
+      "sign": "goat",
+      "score": 36,
+      "reasons": [
+        "Goat sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Rubber Duck",
+      "luckyColor": {
+        "name": "Pink",
+        "hex": "#E88BAE"
+      },
+      "motif": "eating standing up",
+      "message": "Plate over the sink tonight, then straight to the couch."
+    }
+  ]
+}

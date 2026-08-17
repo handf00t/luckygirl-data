@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-19",
+  "version": 1,
+  "generatedAt": "2026-08-17T05:30:34.144Z",
+  "day": {
+    "animal": "horse",
+    "branch": "午",
+    "headline": "A Horse day — Tiger and Dog are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "rooster",
+      "score": 98,
+      "reasons": [
+        "Rooster sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Kitchen Scale",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "motif": "the account you should mute",
+      "message": "Mute it this morning. No unfollow, no announcement, just quiet."
+    },
+    {
+      "rank": 2,
+      "sign": "dragon",
+      "score": 95,
+      "reasons": [
+        "Dragon sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Ink Bottle",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "an umbrella not needed",
+      "message": "Sky's fine. Leave the umbrella by the door and go."
+    },
+    {
+      "rank": 3,
+      "sign": "rat",
+      "score": 81,
+      "reasons": [
+        "Rat opposes Horse — a day to take slowly"
+      ],
+      "luckyItem": "Zip Folder",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "a series you are only half watching",
+      "message": "Abandon it mid-season, no guilt. Tonight's for something you'd choose."
+    },
+    {
+      "rank": 4,
+      "sign": "tiger",
+      "score": 81,
+      "reasons": [
+        "Tiger and Horse share a triad — strong alignment today"
+      ],
+      "luckyItem": "Laundry Basket",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "the first ten minutes of the day",
+      "message": "Don't reach for your phone first. Stand up, start moving."
+    },
+    {
+      "rank": 5,
+      "sign": "goat",
+      "score": 74,
+      "reasons": [
+        "Goat pairs with Horse — a harmonious day"
+      ],
+      "luckyItem": "Cover Charge",
+      "luckyColor": {
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
+      },
+      "motif": "the end of the month",
+      "message": "Eleven days left in this month. Pick one thing, finish it."
+    },
+    {
+      "rank": 6,
+      "sign": "pig",
+      "score": 65,
+      "reasons": [
+        "Pig sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Mirror Wipe",
+      "luckyColor": {
+        "name": "Mustard",
+        "hex": "#C9A227"
+      },
+      "motif": "an impulse buy on the way",
+      "message": "Grab the little thing you spot en route. Zero deliberation."
+    },
+    {
+      "rank": 7,
+      "sign": "monkey",
+      "score": 64,
+      "reasons": [
+        "Monkey sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Stitch Marker",
+      "luckyColor": {
+        "name": "Dark Green",
+        "hex": "#1F5C36"
+      },
+      "motif": "the shop with the good window",
+      "message": "Stop at that window two minutes, then keep walking."
+    },
+    {
+      "rank": 8,
+      "sign": "snake",
+      "score": 56,
+      "reasons": [
+        "Snake sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Pocket Dictionary",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "something bought because it was reduced",
+      "message": "Wear the sale one tonight. That's what buying it was for."
+    },
+    {
+      "rank": 9,
+      "sign": "horse",
+      "score": 50,
+      "reasons": [
+        "Horse's own day — your energy runs high"
+      ],
+      "luckyItem": "Arcade Prize",
+      "luckyColor": {
+        "name": "Denim Blue",
+        "hex": "#3F5C7A"
+      },
+      "motif": "something that fitted last year",
+      "message": "Don't fight the zipper. Something forgiving, and a slow morning."
+    },
+    {
+      "rank": 10,
+      "sign": "dog",
+      "score": 47,
+      "reasons": [
+        "Dog and Horse share a triad — strong alignment today"
+      ],
+      "luckyItem": "Glass Carafe",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "the last of the good weather",
+      "message": "Warm nights are winding down. Enjoy this one from indoors."
+    },
+    {
+      "rank": 11,
+      "sign": "ox",
+      "score": 37,
+      "reasons": [
+        "Ox sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Mousepad",
+      "luckyColor": {
+        "name": "Violet",
+        "hex": "#6A4C93"
+      },
+      "motif": "the message left on read",
+      "message": "It can stay on read tonight. Nobody's timing you."
+    },
+    {
+      "rank": 12,
+      "sign": "rabbit",
+      "score": 34,
+      "reasons": [
+        "Rabbit sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Duct Tape",
+      "luckyColor": {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      "motif": "the second attempt",
+      "message": "One try was plenty. The second one keeps till tomorrow."
+    }
+  ]
+}

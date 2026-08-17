@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-23",
+  "version": 1,
+  "generatedAt": "2026-08-17T05:31:58.605Z",
+  "day": {
+    "animal": "dog",
+    "branch": "戌",
+    "headline": "A Dog day — Tiger and Horse are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "tiger",
+      "score": 90,
+      "reasons": [
+        "Tiger and Dog share a triad — strong alignment today"
+      ],
+      "luckyItem": "Film Camera",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "a shirt missing a button",
+      "message": "Sew it back on this morning. Then wear it out."
+    },
+    {
+      "rank": 2,
+      "sign": "goat",
+      "score": 80,
+      "reasons": [
+        "Goat sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Address Book",
+      "luckyColor": {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      "motif": "a compliment badly received",
+      "message": "You brushed it off earlier. Go back and actually take it."
+    },
+    {
+      "rank": 3,
+      "sign": "horse",
+      "score": 78,
+      "reasons": [
+        "Horse and Dog share a triad — strong alignment today"
+      ],
+      "luckyItem": "Lip Liner",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "a worry with no next step",
+      "message": "There's no task hiding in it. Put it down, go move."
+    },
+    {
+      "rank": 4,
+      "sign": "snake",
+      "score": 69,
+      "reasons": [
+        "Snake sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Kite",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "motif": "a plant nobody remembers",
+      "message": "The one in the corner is somehow still alive. Water it."
+    },
+    {
+      "rank": 5,
+      "sign": "dog",
+      "score": 66,
+      "reasons": [
+        "Dog's own day — your energy runs high"
+      ],
+      "luckyItem": "Leather Loafers",
+      "luckyColor": {
+        "name": "Gray",
+        "hex": "#8A8A8A"
+      },
+      "motif": "the version before it got tidy",
+      "message": "The messy first pass had more of you. Put some back."
+    },
+    {
+      "rank": 6,
+      "sign": "monkey",
+      "score": 64,
+      "reasons": [
+        "Monkey sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Goggles",
+      "luckyColor": {
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
+      },
+      "motif": "the bike you left somewhere",
+      "message": "You know exactly which rack it's chained to. Go collect it."
+    },
+    {
+      "rank": 7,
+      "sign": "rabbit",
+      "score": 63,
+      "reasons": [
+        "Rabbit pairs with Dog — a harmonious day"
+      ],
+      "luckyItem": "Wool Beret",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "a route you never vary",
+      "message": "Shift the usual walk one block over. Small upgrade."
+    },
+    {
+      "rank": 8,
+      "sign": "dragon",
+      "score": 48,
+      "reasons": [
+        "Dragon opposes Dog — a day to take slowly"
+      ],
+      "luckyItem": "Scented Candle",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "a signature that never looks the same",
+      "message": "Pick one way to write your name, then quit fussing."
+    },
+    {
+      "rank": 9,
+      "sign": "ox",
+      "score": 46,
+      "reasons": [
+        "Ox sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Set Square",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "a ring turned around",
+      "message": "You've been spinning it since breakfast. Take it off, lie down."
+    },
+    {
+      "rank": 10,
+      "sign": "pig",
+      "score": 43,
+      "reasons": [
+        "Pig sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Capo",
+      "luckyColor": {
+        "name": "Lemon",
+        "hex": "#F5E05A"
+      },
+      "motif": "a plan waiting on one reply",
+      "message": "Still one reply short. Call it off, get into sweatpants."
+    },
+    {
+      "rank": 11,
+      "sign": "rooster",
+      "score": 37,
+      "reasons": [
+        "Rooster sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Picture Ledge",
+      "luckyColor": {
+        "name": "Coral",
+        "hex": "#E96B5A"
+      },
+      "motif": "an episode you fell asleep during",
+      "message": "You slept through most of it. Rerun it in bed."
+    },
+    {
+      "rank": 12,
+      "sign": "rat",
+      "score": 37,
+      "reasons": [
+        "Rat sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Toe Separator",
+      "luckyColor": {
+        "name": "Yellow",
+        "hex": "#F0C419"
+      },
+      "motif": "the cafe that got loud",
+      "message": "Your spot's a zoo now. Make it at home instead."
+    }
+  ]
+}

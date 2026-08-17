@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Silk Eye Mask",
       "luckyColor": {
-        "name": "Gold",
-        "hex": "#D4A017"
+        "name": "Sage",
+        "hex": "#A3B59A"
       },
       "motif": "a voice heard through a wall",
       "message": "That voice through the wall belongs to someone. Introduce yourself."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Bar Stool",
       "luckyColor": {
-        "name": "Hot Pink",
-        "hex": "#E5417F"
+        "name": "Navy",
+        "hex": "#23375E"
       },
       "motif": "someone you outgrew",
       "message": "You've outgrown them. Let that be true without a speech."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Kaleidoscope",
       "luckyColor": {
-        "name": "Burgundy",
-        "hex": "#6E1B2E"
+        "name": "Yellow",
+        "hex": "#F0C419"
       },
       "motif": "a day off used badly",
       "message": "Blow the whole free day on something dumb. Fully commit."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Screen Protector",
       "luckyColor": {
-        "name": "Peach",
-        "hex": "#F5B78E"
+        "name": "Brown",
+        "hex": "#6B4A32"
       },
       "motif": "the yawn that will not finish",
       "message": "That half-yawn means step outside, not another iced anything."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Butter Dish",
       "luckyColor": {
-        "name": "Red",
-        "hex": "#CC3333"
+        "name": "White",
+        "hex": "#FFFFFF"
       },
       "motif": "the way you make tea",
       "message": "Make the tea properly today. Kettle, timer, the good leaves."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Record Sleeve",
       "luckyColor": {
-        "name": "Gray",
-        "hex": "#8A8A8A"
+        "name": "Chocolate",
+        "hex": "#4A3728"
       },
       "motif": "a stone kept from somewhere",
       "message": "That rock from the trip deserves better than a drawer."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Lunch Tote",
       "luckyColor": {
-        "name": "Lavender",
-        "hex": "#B9A2DB"
+        "name": "Beige",
+        "hex": "#D9C7AE"
       },
       "motif": "the cheaper platform",
       "message": "Wear the cheaper platforms. You're walking further than planned."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Night Light",
       "luckyColor": {
-        "name": "Beige",
-        "hex": "#D9C7AE"
+        "name": "Lavender",
+        "hex": "#B9A2DB"
       },
       "motif": "something outgrown but kept",
       "message": "That jacket you've stopped wearing? Into the donate pile."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Loaf Tin",
       "luckyColor": {
-        "name": "Blue",
-        "hex": "#2F6FD0"
+        "name": "Teal",
+        "hex": "#2A6B6F"
       },
       "motif": "the pen about to run out",
       "message": "The pen's nearly out. Use it up, replace it tomorrow."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Sieve",
       "luckyColor": {
-        "name": "Orange",
-        "hex": "#E8730C"
+        "name": "Apricot",
+        "hex": "#F0A868"
       },
       "motif": "a bag packed the night before",
       "message": "Leave the bag by the door. Stop repacking it."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Satin Bonnet",
       "luckyColor": {
-        "name": "Yellow",
-        "hex": "#F0C419"
+        "name": "Gray",
+        "hex": "#8A8A8A"
       },
       "motif": "the album that fits the weather",
       "message": "Play the album that matches the sky. Stay put."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Ear Cuff",
       "luckyColor": {
-        "name": "Sky Blue",
-        "hex": "#7EC0EE"
+        "name": "Hot Pink",
+        "hex": "#E5417F"
       },
       "motif": "the thought you cannot finish",
       "message": "Let the half-thought stay half. Shut the laptop."

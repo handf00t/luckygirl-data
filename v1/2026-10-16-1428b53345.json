@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-16",
+  "version": 1,
+  "generatedAt": "2026-08-17T05:46:06.240Z",
+  "day": {
+    "animal": "rooster",
+    "branch": "酉",
+    "headline": "A Rooster day — Ox and Snake are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "dragon",
+      "score": 93,
+      "reasons": [
+        "Dragon pairs with Rooster — a harmonious day"
+      ],
+      "luckyItem": "Tuning Fork",
+      "luckyColor": {
+        "name": "Charcoal",
+        "hex": "#3A3A3A"
+      },
+      "motif": "the earrings that never match",
+      "message": "Wear the mismatched pair on purpose. Nobody's asking, everyone clocks it."
+    },
+    {
+      "rank": 2,
+      "sign": "rooster",
+      "score": 88,
+      "reasons": [
+        "Rooster's own day — your energy runs high"
+      ],
+      "luckyItem": "Sheer Tights",
+      "luckyColor": {
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
+      },
+      "motif": "a key with no lock",
+      "message": "That spare key fits something. Go find out this afternoon."
+    },
+    {
+      "rank": 3,
+      "sign": "ox",
+      "score": 83,
+      "reasons": [
+        "Ox and Rooster share a triad — strong alignment today"
+      ],
+      "luckyItem": "Egg Timer",
+      "luckyColor": {
+        "name": "Pink",
+        "hex": "#E88BAE"
+      },
+      "motif": "an unplayed voice note",
+      "message": "It's been sitting unplayed since Tuesday. Press play, it's two minutes."
+    },
+    {
+      "rank": 4,
+      "sign": "rat",
+      "score": 78,
+      "reasons": [
+        "Rat sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Spare Button",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "the sticker that will not come off",
+      "message": "Hot water and a thumbnail. That gunky label comes off today."
+    },
+    {
+      "rank": 5,
+      "sign": "snake",
+      "score": 74,
+      "reasons": [
+        "Snake and Rooster share a triad — strong alignment today"
+      ],
+      "luckyItem": "Root Powder",
+      "luckyColor": {
+        "name": "Dark Red",
+        "hex": "#8B1A1A"
+      },
+      "motif": "the lift on a Monday",
+      "message": "Let the crowded one go up without you. Next one's yours."
+    },
+    {
+      "rank": 6,
+      "sign": "monkey",
+      "score": 68,
+      "reasons": [
+        "Monkey sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Bus Seat",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "the person you copy without meaning to",
+      "message": "Her phrasing keeps coming out of your mouth. Keep the good parts."
+    },
+    {
+      "rank": 7,
+      "sign": "horse",
+      "score": 64,
+      "reasons": [
+        "Horse sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Pill Tin",
+      "luckyColor": {
+        "name": "Denim Blue",
+        "hex": "#3F5C7A"
+      },
+      "motif": "a garden nobody tends",
+      "message": "That patch nobody waters is thriving anyway. Give it five minutes."
+    },
+    {
+      "rank": 8,
+      "sign": "dog",
+      "score": 59,
+      "reasons": [
+        "Dog sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Selfie Stick",
+      "luckyColor": {
+        "name": "Light Pink",
+        "hex": "#F2B8CC"
+      },
+      "motif": "the shared folder in chaos",
+      "message": "Six files named final. Rename them properly, ten minutes, everyone's grateful."
+    },
+    {
+      "rank": 9,
+      "sign": "rabbit",
+      "score": 55,
+      "reasons": [
+        "Rabbit opposes Rooster — a day to take slowly"
+      ],
+      "luckyItem": "Mushroom Lamp",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "the light you always leave on",
+      "message": "Leave it burning tonight. Coming home to a lit room wins."
+    },
+    {
+      "rank": 10,
+      "sign": "tiger",
+      "score": 52,
+      "reasons": [
+        "Tiger sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Sandal Strap",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "a laptop at four percent",
+      "message": "Four percent and the charger's upstairs. Shut the lid, stay put."
+    },
+    {
+      "rank": 11,
+      "sign": "pig",
+      "score": 49,
+      "reasons": [
+        "Pig sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Cream Blush",
+      "luckyColor": {
+        "name": "Dark Green",
+        "hex": "#1F5C36"
+      },
+      "motif": "something with an actual pocket",
+      "message": "Pockets today. Nothing in them but your hands, ideally."
+    },
+    {
+      "rank": 12,
+      "sign": "goat",
+      "score": 40,
+      "reasons": [
+        "Goat sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Magazine Clipping",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "being tired in a specific way",
+      "message": "This isn't sleep tired, it's screen tired. Dim the room, turn in."
+    }
+  ]
+}

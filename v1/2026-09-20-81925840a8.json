@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-20",
+  "version": 1,
+  "generatedAt": "2026-08-17T05:30:42.542Z",
+  "day": {
+    "animal": "goat",
+    "branch": "未",
+    "headline": "A Goat day — Rabbit and Pig are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "dog",
+      "score": 98,
+      "reasons": [
+        "Dog sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Portable Charger",
+      "luckyColor": {
+        "name": "Light Pink",
+        "hex": "#F2B8CC"
+      },
+      "motif": "the double booking on Saturday",
+      "message": "Two things Saturday. Pick the one you actually want, tell them today."
+    },
+    {
+      "rank": 2,
+      "sign": "horse",
+      "score": 79,
+      "reasons": [
+        "Horse pairs with Goat — a harmonious day"
+      ],
+      "luckyItem": "Sleep Headphones",
+      "luckyColor": {
+        "name": "Coral",
+        "hex": "#E96B5A"
+      },
+      "motif": "the museum with free entry",
+      "message": "Free entry today. Go alone, stay an hour, no research."
+    },
+    {
+      "rank": 3,
+      "sign": "rat",
+      "score": 78,
+      "reasons": [
+        "Rat sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Toe Ring",
+      "luckyColor": {
+        "name": "Rust",
+        "hex": "#A8502F"
+      },
+      "motif": "the seat that was free",
+      "message": "Nobody claimed that seat. Take it, put your bag down."
+    },
+    {
+      "rank": 4,
+      "sign": "snake",
+      "score": 74,
+      "reasons": [
+        "Snake sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Bread Bin",
+      "luckyColor": {
+        "name": "Purple",
+        "hex": "#7B3FA0"
+      },
+      "motif": "someone quoting you back",
+      "message": "They repeated your line back verbatim. Take the credit out loud."
+    },
+    {
+      "rank": 5,
+      "sign": "rooster",
+      "score": 71,
+      "reasons": [
+        "Rooster sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Charcoal Stick",
+      "luckyColor": {
+        "name": "Charcoal",
+        "hex": "#3A3A3A"
+      },
+      "motif": "the file uploading",
+      "message": "It's at ninety percent. Wait it out, then send the note."
+    },
+    {
+      "rank": 6,
+      "sign": "rabbit",
+      "score": 68,
+      "reasons": [
+        "Rabbit and Goat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Hair Clips",
+      "luckyColor": {
+        "name": "Beige",
+        "hex": "#D9C7AE"
+      },
+      "motif": "the commute you could change",
+      "message": "Try the other route home tonight. Same time, better mood."
+    },
+    {
+      "rank": 7,
+      "sign": "dragon",
+      "score": 62,
+      "reasons": [
+        "Dragon sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Ceramic Vase",
+      "luckyColor": {
+        "name": "Green",
+        "hex": "#2E8B4F"
+      },
+      "motif": "a colour you never wear",
+      "message": "That shade you'd never pick. Wear it once, see."
+    },
+    {
+      "rank": 8,
+      "sign": "tiger",
+      "score": 59,
+      "reasons": [
+        "Tiger sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Enamel Mug",
+      "luckyColor": {
+        "name": "Lemon",
+        "hex": "#F5E05A"
+      },
+      "motif": "the middle of the week",
+      "message": "Wednesday's just a hallway. Do one thing that isn't admin."
+    },
+    {
+      "rank": 9,
+      "sign": "pig",
+      "score": 56,
+      "reasons": [
+        "Pig and Goat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Rubber Stamp",
+      "luckyColor": {
+        "name": "Pink",
+        "hex": "#E88BAE"
+      },
+      "motif": "a window that has not opened this month",
+      "message": "That window's been shut since August. Open it, stay in."
+    },
+    {
+      "rank": 10,
+      "sign": "goat",
+      "score": 54,
+      "reasons": [
+        "Goat's own day — your energy runs high"
+      ],
+      "luckyItem": "Funnel",
+      "luckyColor": {
+        "name": "Teal",
+        "hex": "#2A6B6F"
+      },
+      "motif": "the cupboard you avoid",
+      "message": "The cupboard you keep not opening stays shut today. Fine."
+    },
+    {
+      "rank": 11,
+      "sign": "monkey",
+      "score": 47,
+      "reasons": [
+        "Monkey sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Blanket Clip",
+      "luckyColor": {
+        "name": "Gray",
+        "hex": "#8A8A8A"
+      },
+      "motif": "a compliment in public",
+      "message": "Someone praised you in front of people. Just say thanks, quietly."
+    },
+    {
+      "rank": 12,
+      "sign": "ox",
+      "score": 37,
+      "reasons": [
+        "Ox opposes Goat — a day to take slowly"
+      ],
+      "luckyItem": "Wellington Boots",
+      "luckyColor": {
+        "name": "Yellow",
+        "hex": "#F0C419"
+      },
+      "motif": "a Wednesday with too much in it",
+      "message": "Too much stacked on today. Move one thing, don't feel bad."
+    }
+  ]
+}

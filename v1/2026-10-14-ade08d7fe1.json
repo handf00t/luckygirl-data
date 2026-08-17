@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-14",
+  "version": 1,
+  "generatedAt": "2026-08-17T05:44:06.912Z",
+  "day": {
+    "animal": "goat",
+    "branch": "未",
+    "headline": "A Goat day — Rabbit and Pig are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "pig",
+      "score": 90,
+      "reasons": [
+        "Pig and Goat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Speckled Cup",
+      "luckyColor": {
+        "name": "Green",
+        "hex": "#2E8B4F"
+      },
+      "motif": "one deep breath at the door",
+      "message": "Breathe once at the door, then walk in like it's yours."
+    },
+    {
+      "rank": 2,
+      "sign": "goat",
+      "score": 72,
+      "reasons": [
+        "Goat's own day — your energy runs high"
+      ],
+      "luckyItem": "Photo Album",
+      "luckyColor": {
+        "name": "Charcoal",
+        "hex": "#3A3A3A"
+      },
+      "motif": "the way you make tea",
+      "message": "Nobody makes it the way you do. Take the extra minute."
+    },
+    {
+      "rank": 3,
+      "sign": "dragon",
+      "score": 66,
+      "reasons": [
+        "Dragon sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Travel Pillow",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "advice you did not ask for",
+      "message": "Someone handed you a take you didn't ask for. Try it."
+    },
+    {
+      "rank": 4,
+      "sign": "rabbit",
+      "score": 63,
+      "reasons": [
+        "Rabbit and Goat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Ticket Lanyard",
+      "luckyColor": {
+        "name": "Salmon",
+        "hex": "#EE8A76"
+      },
+      "motif": "the letter you have not opened",
+      "message": "Open it standing up, right now. It's shorter than your dread."
+    },
+    {
+      "rank": 5,
+      "sign": "tiger",
+      "score": 62,
+      "reasons": [
+        "Tiger sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Microfibre Cloth",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "a party you would leave early",
+      "message": "Go, stay an hour, leave while you still like everyone."
+    },
+    {
+      "rank": 6,
+      "sign": "rat",
+      "score": 59,
+      "reasons": [
+        "Rat sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Cufflinks",
+      "luckyColor": {
+        "name": "Mustard",
+        "hex": "#C9A227"
+      },
+      "motif": "traffic on a road you never take",
+      "message": "Jammed up on a street you never use. Not your problem."
+    },
+    {
+      "rank": 7,
+      "sign": "rooster",
+      "score": 58,
+      "reasons": [
+        "Rooster sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Phone Stand",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "a backup that never ran",
+      "message": "That backup hasn't actually run in months. Kick it off before lunch."
+    },
+    {
+      "rank": 8,
+      "sign": "dog",
+      "score": 58,
+      "reasons": [
+        "Dog sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Linen Apron",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "feeling behind for no reason",
+      "message": "Nothing's late. Do one small thing, the itch quiets down."
+    },
+    {
+      "rank": 9,
+      "sign": "monkey",
+      "score": 57,
+      "reasons": [
+        "Monkey sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Cord Clip",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "water still untouched",
+      "message": "That glass has been full since morning. Drink it, slowly."
+    },
+    {
+      "rank": 10,
+      "sign": "horse",
+      "score": 48,
+      "reasons": [
+        "Horse pairs with Goat — a harmonious day"
+      ],
+      "luckyItem": "Extension Cord",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "the hour after getting home",
+      "message": "The first hour home belongs to nobody. Don't fill it."
+    },
+    {
+      "rank": 11,
+      "sign": "snake",
+      "score": 42,
+      "reasons": [
+        "Snake sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Sticker Album",
+      "luckyColor": {
+        "name": "Silver",
+        "hex": "#C0C0C0"
+      },
+      "motif": "two options that are both fine",
+      "message": "Both work. Quit weighing them, let six o'clock you choose."
+    },
+    {
+      "rank": 12,
+      "sign": "ox",
+      "score": 34,
+      "reasons": [
+        "Ox opposes Goat — a day to take slowly"
+      ],
+      "luckyItem": "Shoe Bag Set",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "motif": "a lift with someone in it",
+      "message": "Someone's already riding up. Take the stairs, skip the pleasantries."
+    }
+  ]
+}

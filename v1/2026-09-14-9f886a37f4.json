@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Skipping Rope",
       "luckyColor": {
-        "name": "Brown",
-        "hex": "#6B4A32"
+        "name": "Dark Green",
+        "hex": "#1F5C36"
       },
       "motif": "a week that ended differently",
       "message": "This week broke pattern. Ride it into something bigger today."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Foot Cream",
       "luckyColor": {
-        "name": "Blue",
-        "hex": "#2F6FD0"
+        "name": "Orange",
+        "hex": "#E8730C"
       },
       "motif": "a route taken deliberately",
       "message": "You chose the long way on purpose. Choose it again."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Stamp Card",
       "luckyColor": {
-        "name": "Hot Pink",
-        "hex": "#E5417F"
+        "name": "Beige",
+        "hex": "#D9C7AE"
       },
       "motif": "being bored in a good way",
       "message": "Bored and fine with it. Follow that into something new."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Cork Board",
       "luckyColor": {
-        "name": "Mint",
-        "hex": "#9FD9BE"
+        "name": "Rust",
+        "hex": "#A8502F"
       },
       "motif": "an exception that became the rule",
       "message": "Your one-time exception is just how you do it now. Own it."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Sugar Bowl",
       "luckyColor": {
-        "name": "Pink",
-        "hex": "#E88BAE"
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
       },
       "motif": "the week that got away",
       "message": "The week blurred past. Salvage one small thing before dark."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Picnic Flask",
       "luckyColor": {
-        "name": "Black",
-        "hex": "#1F1F1F"
+        "name": "Coral",
+        "hex": "#E96B5A"
       },
       "motif": "a sleep you will not get back",
       "message": "You lost four hours last night. Coast, don't catch up."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Sea Glass",
       "luckyColor": {
-        "name": "Lavender",
-        "hex": "#B9A2DB"
+        "name": "Denim Blue",
+        "hex": "#3F5C7A"
       },
       "motif": "the wrong turn that worked",
       "message": "That wrong exit found you a better block. Note it down."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Lash Curler",
       "luckyColor": {
-        "name": "Beige",
-        "hex": "#D9C7AE"
+        "name": "Lavender",
+        "hex": "#B9A2DB"
       },
       "motif": "something rehearsed and never used",
       "message": "You prepped a whole speech nobody asked for. Shelve it."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Cable Pouch",
       "luckyColor": {
-        "name": "Red",
-        "hex": "#CC3333"
+        "name": "Tan",
+        "hex": "#C4A484"
       },
       "motif": "feeling briefly competent",
       "message": "You handled one thing well. That's the whole quota, rest."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Beach Chair",
       "luckyColor": {
-        "name": "Silver",
-        "hex": "#C0C0C0"
+        "name": "Gray",
+        "hex": "#8A8A8A"
       },
       "motif": "a goodbye done badly",
       "message": "You left that conversation clumsily. It can stay unmended today."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Enamel Pin",
       "luckyColor": {
-        "name": "Sky Blue",
-        "hex": "#7EC0EE"
+        "name": "Olive",
+        "hex": "#6B7233"
       },
       "motif": "an evening with no plan",
       "message": "No plans tonight and no guilt about it. Enjoy that."

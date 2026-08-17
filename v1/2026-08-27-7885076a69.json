@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Swim Cap",
       "luckyColor": {
-        "name": "Burgundy",
-        "hex": "#6E1B2E"
+        "name": "Mint",
+        "hex": "#9FD9BE"
       },
       "motif": "an old routine that no longer fits",
       "message": "That morning order stopped working months ago. Change it today."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Pin Cushion",
       "luckyColor": {
-        "name": "Sky Blue",
-        "hex": "#7EC0EE"
+        "name": "Red",
+        "hex": "#CC3333"
       },
       "motif": "the podcast on double speed",
       "message": "Slow it back to normal speed. You'll actually hear it."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Shaker Egg",
       "luckyColor": {
-        "name": "Hot Pink",
-        "hex": "#E5417F"
+        "name": "Gold",
+        "hex": "#D4A017"
       },
       "motif": "a shopping list left at home",
       "message": "Shop from memory. You'll do better than the paper anyway."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Puzzle Cube",
       "luckyColor": {
-        "name": "White",
-        "hex": "#FFFFFF"
+        "name": "Rust",
+        "hex": "#A8502F"
       },
       "motif": "a direct debit you forgot",
       "message": "Check what quietly left your account this month. Then cancel one."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Bath Oil",
       "luckyColor": {
-        "name": "Silver",
-        "hex": "#C0C0C0"
+        "name": "Olive",
+        "hex": "#6B7233"
       },
       "motif": "the folder called miscellaneous",
       "message": "Rename that junk folder something honest. Sort half of it."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Lash Curler",
       "luckyColor": {
-        "name": "Green",
-        "hex": "#2E8B4F"
+        "name": "Brown",
+        "hex": "#6B4A32"
       },
       "motif": "the passport with a date on it",
       "message": "Look at the expiry. Renew it before the line gets long."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Comic Book",
       "luckyColor": {
-        "name": "Black",
-        "hex": "#1F1F1F"
+        "name": "Dark Green",
+        "hex": "#1F5C36"
       },
       "motif": "a plus-one still undecided",
       "message": "Just pick who you're bringing. Text them before dinner."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Graph Paper",
       "luckyColor": {
-        "name": "Mint",
-        "hex": "#9FD9BE"
+        "name": "Salmon",
+        "hex": "#EE8A76"
       },
       "motif": "the calm after making a decision",
       "message": "You already decided. Notice how quiet your head is now."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Egg Timer",
       "luckyColor": {
-        "name": "Beige",
-        "hex": "#D9C7AE"
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
       },
       "motif": "an early train",
       "message": "Early departure, low stakes. Sleep on the way, eat later."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Notebook Band",
       "luckyColor": {
-        "name": "Gray",
-        "hex": "#8A8A8A"
+        "name": "Yellow",
+        "hex": "#F0C419"
       },
       "motif": "the wind on one street",
       "message": "One block is always freezing. Take a layer, no analysis."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Dry Brush",
       "luckyColor": {
-        "name": "Lavender",
-        "hex": "#B9A2DB"
+        "name": "Peach",
+        "hex": "#F5B78E"
       },
       "motif": "someone else planting something",
       "message": "Someone else's garden project. Admire it, volunteer for nothing."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Face Mist",
       "luckyColor": {
-        "name": "Pink",
-        "hex": "#E88BAE"
+        "name": "White",
+        "hex": "#FFFFFF"
       },
       "motif": "a link opened and forgotten",
       "message": "That tab you opened last week? Close it, unread forever."

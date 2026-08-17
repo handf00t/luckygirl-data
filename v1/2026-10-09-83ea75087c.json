@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-09",
+  "version": 1,
+  "generatedAt": "2026-08-17T05:40:10.572Z",
+  "day": {
+    "animal": "tiger",
+    "branch": "寅",
+    "headline": "A Tiger day — Horse and Dog are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "rat",
+      "score": 98,
+      "reasons": [
+        "Rat sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Cuticle Pusher",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "a bench in the sun",
+      "message": "Sun's on that bench by noon. Be the one sitting there."
+    },
+    {
+      "rank": 2,
+      "sign": "rabbit",
+      "score": 83,
+      "reasons": [
+        "Rabbit sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Paper Envelope",
+      "luckyColor": {
+        "name": "Dark Red",
+        "hex": "#8B1A1A"
+      },
+      "motif": "the pile of receipts",
+      "message": "Dump the wallet out, bin the paper, keep two. Fifteen minutes."
+    },
+    {
+      "rank": 3,
+      "sign": "dragon",
+      "score": 83,
+      "reasons": [
+        "Dragon sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Dominoes",
+      "luckyColor": {
+        "name": "Rust",
+        "hex": "#A8502F"
+      },
+      "motif": "the recurring meeting nobody defends",
+      "message": "That weekly call is a formality now. Say so, drop it."
+    },
+    {
+      "rank": 4,
+      "sign": "rooster",
+      "score": 82,
+      "reasons": [
+        "Rooster sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Duvet Cover",
+      "luckyColor": {
+        "name": "Salmon",
+        "hex": "#EE8A76"
+      },
+      "motif": "the notification you turned off",
+      "message": "You muted that alert weeks ago. Turn it on, look now."
+    },
+    {
+      "rank": 5,
+      "sign": "dog",
+      "score": 75,
+      "reasons": [
+        "Dog and Tiger share a triad — strong alignment today"
+      ],
+      "luckyItem": "Tongue Scraper",
+      "luckyColor": {
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
+      },
+      "motif": "a number never saved",
+      "message": "That number you keep retyping from the thread. Save it properly."
+    },
+    {
+      "rank": 6,
+      "sign": "snake",
+      "score": 70,
+      "reasons": [
+        "Snake sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Stamp Pad",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "keys found at the last second",
+      "message": "Keys surfaced just in time again. Give them one hook, today."
+    },
+    {
+      "rank": 7,
+      "sign": "ox",
+      "score": 68,
+      "reasons": [
+        "Ox sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Ceramic Knob",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "an unfinished corner",
+      "message": "The corner you keep stepping around. Twenty minutes tonight, then done."
+    },
+    {
+      "rank": 8,
+      "sign": "horse",
+      "score": 66,
+      "reasons": [
+        "Horse and Tiger share a triad — strong alignment today"
+      ],
+      "luckyItem": "Denim Jacket",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "a day off used badly",
+      "message": "The free day slipped away. One real thing today, nothing ambitious."
+    },
+    {
+      "rank": 9,
+      "sign": "pig",
+      "score": 66,
+      "reasons": [
+        "Pig pairs with Tiger — a harmonious day"
+      ],
+      "luckyItem": "Hair Net",
+      "luckyColor": {
+        "name": "Light Pink",
+        "hex": "#F2B8CC"
+      },
+      "motif": "someone who remembers everything",
+      "message": "Someone keeps receipts on everything you've said. Say less today, casually."
+    },
+    {
+      "rank": 10,
+      "sign": "tiger",
+      "score": 65,
+      "reasons": [
+        "Tiger's own day — your energy runs high"
+      ],
+      "luckyItem": "Checkered Blanket",
+      "luckyColor": {
+        "name": "Violet",
+        "hex": "#6A4C93"
+      },
+      "motif": "the smell of somewhere else",
+      "message": "Air smells like a different city. Stand in it, book nothing."
+    },
+    {
+      "rank": 11,
+      "sign": "monkey",
+      "score": 55,
+      "reasons": [
+        "Monkey opposes Tiger — a day to take slowly"
+      ],
+      "luckyItem": "Duffel Bag",
+      "luckyColor": {
+        "name": "Lime",
+        "hex": "#8BC34A"
+      },
+      "motif": "a sky that cannot decide",
+      "message": "Sky's been undecided since morning. Fair enough. Stay in with it."
+    },
+    {
+      "rank": 12,
+      "sign": "goat",
+      "score": 42,
+      "reasons": [
+        "Goat sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Silk Eye Mask",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "a read receipt you regret",
+      "message": "You opened it too fast. No reply owed, phone face-down tonight."
+    }
+  ]
+}

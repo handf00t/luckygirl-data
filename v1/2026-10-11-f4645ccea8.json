@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-11",
+  "version": 1,
+  "generatedAt": "2026-08-17T05:41:46.693Z",
+  "day": {
+    "animal": "dragon",
+    "branch": "辰",
+    "headline": "A Dragon day — Rat and Monkey are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "tiger",
+      "score": 98,
+      "reasons": [
+        "Tiger sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Sticky Notes",
+      "luckyColor": {
+        "name": "Lime",
+        "hex": "#8BC34A"
+      },
+      "motif": "a stranger who helped",
+      "message": "A stranger made your morning easier. Go do that for someone."
+    },
+    {
+      "rank": 2,
+      "sign": "pig",
+      "score": 87,
+      "reasons": [
+        "Pig sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Binder Clip",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "a catch-up three months overdue",
+      "message": "Three months of \"we should catch up.\" Pick a day, send it."
+    },
+    {
+      "rank": 3,
+      "sign": "rooster",
+      "score": 86,
+      "reasons": [
+        "Rooster pairs with Dragon — a harmonious day"
+      ],
+      "luckyItem": "Tailors Chalk",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "motif": "the first proper frost",
+      "message": "First real cold snap. Dress for it, don't let it shrink today."
+    },
+    {
+      "rank": 4,
+      "sign": "ox",
+      "score": 82,
+      "reasons": [
+        "Ox sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Reading Pillow",
+      "luckyColor": {
+        "name": "Green",
+        "hex": "#2E8B4F"
+      },
+      "motif": "the pillow on the wrong side",
+      "message": "Pillow's on the wrong side. Move it before you leave."
+    },
+    {
+      "rank": 5,
+      "sign": "snake",
+      "score": 78,
+      "reasons": [
+        "Snake sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Walking Map",
+      "luckyColor": {
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
+      },
+      "motif": "a compliment you replayed",
+      "message": "You've replayed that compliment all week. Believe it, stop auditing it."
+    },
+    {
+      "rank": 6,
+      "sign": "dragon",
+      "score": 70,
+      "reasons": [
+        "Dragon's own day — your energy runs high"
+      ],
+      "luckyItem": "Scalp Massager",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "the thank-you never written",
+      "message": "The thank-you you never wrote. Two sentences, send it before lunch."
+    },
+    {
+      "rank": 7,
+      "sign": "rat",
+      "score": 68,
+      "reasons": [
+        "Rat and Dragon share a triad — strong alignment today"
+      ],
+      "luckyItem": "Lamp Shade",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "a delivery box not broken down",
+      "message": "That box by the door. Flatten it, thirty seconds, gone."
+    },
+    {
+      "rank": 8,
+      "sign": "rabbit",
+      "score": 67,
+      "reasons": [
+        "Rabbit sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Silk Scarf",
+      "luckyColor": {
+        "name": "Coral",
+        "hex": "#E96B5A"
+      },
+      "motif": "breakfast standing at the counter",
+      "message": "You ate breakfast upright in ninety seconds. Sit for the next one."
+    },
+    {
+      "rank": 9,
+      "sign": "dog",
+      "score": 63,
+      "reasons": [
+        "Dog opposes Dragon — a day to take slowly"
+      ],
+      "luckyItem": "Patch",
+      "luckyColor": {
+        "name": "Silver",
+        "hex": "#C0C0C0"
+      },
+      "motif": "a trailer better than the film",
+      "message": "The trailer already gave you the good parts. Skip the rest."
+    },
+    {
+      "rank": 10,
+      "sign": "monkey",
+      "score": 62,
+      "reasons": [
+        "Monkey and Dragon share a triad — strong alignment today"
+      ],
+      "luckyItem": "Eye Drops",
+      "luckyColor": {
+        "name": "Teal",
+        "hex": "#2A6B6F"
+      },
+      "motif": "a bed that needs stripping",
+      "message": "Sheets can go one more night. Get in, nobody's checking."
+    },
+    {
+      "rank": 11,
+      "sign": "goat",
+      "score": 40,
+      "reasons": [
+        "Goat sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Highlighter Balm",
+      "luckyColor": {
+        "name": "Mustard",
+        "hex": "#C9A227"
+      },
+      "motif": "a photo you keep meaning to send",
+      "message": "That photo's still parked in your camera roll. It'll keep."
+    },
+    {
+      "rank": 12,
+      "sign": "horse",
+      "score": 38,
+      "reasons": [
+        "Horse sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Sea Salt Spray",
+      "luckyColor": {
+        "name": "Beige",
+        "hex": "#D9C7AE"
+      },
+      "motif": "a third coffee",
+      "message": "A third one won't fix the afternoon. Sit it out."
+    }
+  ]
+}

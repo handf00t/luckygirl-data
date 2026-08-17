@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-26",
+  "version": 1,
+  "generatedAt": "2026-08-17T05:33:37.181Z",
+  "day": {
+    "animal": "ox",
+    "branch": "丑",
+    "headline": "A Ox day — Snake and Rooster are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "rooster",
+      "score": 98,
+      "reasons": [
+        "Rooster and Ox share a triad — strong alignment today"
+      ],
+      "luckyItem": "Bathrobe",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "a seat given up",
+      "message": "Someone needs it more. Stand up, no announcement, keep scrolling."
+    },
+    {
+      "rank": 2,
+      "sign": "snake",
+      "score": 96,
+      "reasons": [
+        "Snake and Ox share a triad — strong alignment today"
+      ],
+      "luckyItem": "Wireless Earbuds",
+      "luckyColor": {
+        "name": "Lemon",
+        "hex": "#F5E05A"
+      },
+      "motif": "the walk that is faster than the bus",
+      "message": "Twelve minutes waiting or twelve minutes walking. Walk it."
+    },
+    {
+      "rank": 3,
+      "sign": "rabbit",
+      "score": 88,
+      "reasons": [
+        "Rabbit sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Claw Clip",
+      "luckyColor": {
+        "name": "Beige",
+        "hex": "#D9C7AE"
+      },
+      "motif": "a long shower",
+      "message": "Stay in the shower past reasonable. The day starts after."
+    },
+    {
+      "rank": 4,
+      "sign": "monkey",
+      "score": 87,
+      "reasons": [
+        "Monkey sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Ironing Board",
+      "luckyColor": {
+        "name": "Charcoal",
+        "hex": "#3A3A3A"
+      },
+      "motif": "a memory triggered by nothing",
+      "message": "Something old surfaced out of nowhere. Text whoever was there too."
+    },
+    {
+      "rank": 5,
+      "sign": "horse",
+      "score": 75,
+      "reasons": [
+        "Horse sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Buckwheat Pillow",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "the order you get dressed in",
+      "message": "Same sequence every morning, shoes last. It works, don't redesign it."
+    },
+    {
+      "rank": 6,
+      "sign": "rat",
+      "score": 65,
+      "reasons": [
+        "Rat pairs with Ox — a harmonious day"
+      ],
+      "luckyItem": "Whisk",
+      "luckyColor": {
+        "name": "Lime",
+        "hex": "#8BC34A"
+      },
+      "motif": "a password about to expire",
+      "message": "Ten days of warnings. Reset it now, not mid-meeting."
+    },
+    {
+      "rank": 7,
+      "sign": "goat",
+      "score": 59,
+      "reasons": [
+        "Goat opposes Ox — a day to take slowly"
+      ],
+      "luckyItem": "Sunshade",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "a bulb gone out",
+      "message": "One dead bulb is running your whole evening. Swap it."
+    },
+    {
+      "rank": 8,
+      "sign": "tiger",
+      "score": 57,
+      "reasons": [
+        "Tiger sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Coffee Maker",
+      "luckyColor": {
+        "name": "Rust",
+        "hex": "#A8502F"
+      },
+      "motif": "a bag packed the night before",
+      "message": "It's by the door, already handled. Don't reopen it to check."
+    },
+    {
+      "rank": 9,
+      "sign": "dog",
+      "score": 56,
+      "reasons": [
+        "Dog sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Polaroid Frame",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "the savings pot you avoid opening",
+      "message": "It's fine sitting closed. Today isn't the day you peek."
+    },
+    {
+      "rank": 10,
+      "sign": "ox",
+      "score": 53,
+      "reasons": [
+        "Ox's own day — your energy runs high"
+      ],
+      "luckyItem": "Room Spray",
+      "luckyColor": {
+        "name": "Green",
+        "hex": "#2E8B4F"
+      },
+      "motif": "the answer you rehearsed",
+      "message": "Nobody asked for the rehearsed version. Let it sit unsaid."
+    },
+    {
+      "rank": 11,
+      "sign": "pig",
+      "score": 46,
+      "reasons": [
+        "Pig sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Hair Slide",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "rain that was not forecast",
+      "message": "Wet sidewalks nobody predicted. Take that as permission to stay in."
+    },
+    {
+      "rank": 12,
+      "sign": "dragon",
+      "score": 42,
+      "reasons": [
+        "Dragon sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Matchbook",
+      "luckyColor": {
+        "name": "Teal",
+        "hex": "#2A6B6F"
+      },
+      "motif": "an opinion you changed quietly",
+      "message": "You quietly changed your mind. It needs no audience today."
+    }
+  ]
+}

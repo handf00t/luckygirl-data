@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-04",
+  "version": 1,
+  "generatedAt": "2026-08-17T05:38:16.771Z",
+  "day": {
+    "animal": "rooster",
+    "branch": "酉",
+    "headline": "A Rooster day — Ox and Snake are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "dog",
+      "score": 97,
+      "reasons": [
+        "Dog sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Travel Mug",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "sitting outside for one song",
+      "message": "Take one song outside on the step. Best three minutes today."
+    },
+    {
+      "rank": 2,
+      "sign": "pig",
+      "score": 92,
+      "reasons": [
+        "Pig sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Hiking Sock",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "a photo roll that needs deleting",
+      "message": "Twelve versions of one selfie. Keep the winner, dump the rest."
+    },
+    {
+      "rank": 3,
+      "sign": "snake",
+      "score": 81,
+      "reasons": [
+        "Snake and Rooster share a triad — strong alignment today"
+      ],
+      "luckyItem": "Button Tin",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "a thing done properly once",
+      "message": "One thing, done fully, no revisiting. Pick which and go."
+    },
+    {
+      "rank": 4,
+      "sign": "rat",
+      "score": 75,
+      "reasons": [
+        "Rat sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Wool Socks",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "the passport with a date on it",
+      "message": "The date's closer than you'd like. Get the renewal started today."
+    },
+    {
+      "rank": 5,
+      "sign": "tiger",
+      "score": 74,
+      "reasons": [
+        "Tiger sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Metronome",
+      "luckyColor": {
+        "name": "Coral",
+        "hex": "#E96B5A"
+      },
+      "motif": "the screen time report",
+      "message": "That weekly number landed. Pick one app, trim an hour."
+    },
+    {
+      "rank": 6,
+      "sign": "goat",
+      "score": 73,
+      "reasons": [
+        "Goat sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Hole Punch",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "a lobby you sit in",
+      "message": "Ten minutes early in that lobby. Sit, refresh nothing."
+    },
+    {
+      "rank": 7,
+      "sign": "monkey",
+      "score": 70,
+      "reasons": [
+        "Monkey sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Body Butter",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "motif": "the shirt that needs ironing",
+      "message": "Steam it while you brush your teeth. Sorted before you leave."
+    },
+    {
+      "rank": 8,
+      "sign": "ox",
+      "score": 69,
+      "reasons": [
+        "Ox and Rooster share a triad — strong alignment today"
+      ],
+      "luckyItem": "Window Table",
+      "luckyColor": {
+        "name": "Pink",
+        "hex": "#E88BAE"
+      },
+      "motif": "the friend who always says yes",
+      "message": "She agrees to everything. Ask what she actually wants tonight."
+    },
+    {
+      "rank": 9,
+      "sign": "rooster",
+      "score": 69,
+      "reasons": [
+        "Rooster's own day — your energy runs high"
+      ],
+      "luckyItem": "Plaster Box",
+      "luckyColor": {
+        "name": "Charcoal",
+        "hex": "#3A3A3A"
+      },
+      "motif": "a package out for delivery",
+      "message": "The van comes whenever. Close the tracker, don't plan around it."
+    },
+    {
+      "rank": 10,
+      "sign": "horse",
+      "score": 67,
+      "reasons": [
+        "Horse sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Masking Tape",
+      "luckyColor": {
+        "name": "Red",
+        "hex": "#CC3333"
+      },
+      "motif": "the washing up left until tomorrow",
+      "message": "Two bowls and a pan. They keep till morning, honestly."
+    },
+    {
+      "rank": 11,
+      "sign": "dragon",
+      "score": 61,
+      "reasons": [
+        "Dragon pairs with Rooster — a harmonious day"
+      ],
+      "luckyItem": "Hand Cream",
+      "luckyColor": {
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
+      },
+      "motif": "the last message of the night",
+      "message": "Let someone else have the last word tonight. Phone down."
+    },
+    {
+      "rank": 12,
+      "sign": "rabbit",
+      "score": 42,
+      "reasons": [
+        "Rabbit opposes Rooster — a day to take slowly"
+      ],
+      "luckyItem": "Rattan Basket",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "an invitation still unanswered",
+      "message": "No answer is today's answer. Reply when it's not a chore."
+    }
+  ]
+}

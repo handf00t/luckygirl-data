@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Eraser Block",
       "luckyColor": {
-        "name": "Green",
-        "hex": "#2E8B4F"
+        "name": "Teal",
+        "hex": "#2A6B6F"
       },
       "motif": "a name that keeps coming up",
       "message": "Third mention this week. Ask for the introduction today."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Ribbon Bookmark",
       "luckyColor": {
-        "name": "Beige",
-        "hex": "#D9C7AE"
+        "name": "Purple",
+        "hex": "#7B3FA0"
       },
       "motif": "the quiet hour before everyone wakes",
       "message": "Awake before the chat starts. That hour is yours, use it."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Lint Roller",
       "luckyColor": {
-        "name": "Orange",
-        "hex": "#E8730C"
+        "name": "Mustard",
+        "hex": "#C9A227"
       },
       "motif": "shoes at the back of the wardrobe",
       "message": "Dig out the good pair. Today deserves them, no occasion needed."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Clip On Lens",
       "luckyColor": {
-        "name": "Sky Blue",
-        "hex": "#7EC0EE"
+        "name": "Blue",
+        "hex": "#2F6FD0"
       },
       "motif": "a friend going through it",
       "message": "She's not okay. Show up in person, bring nothing clever."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Sieve",
       "luckyColor": {
-        "name": "Pink",
-        "hex": "#E88BAE"
+        "name": "Green",
+        "hex": "#2E8B4F"
       },
       "motif": "a window seat",
       "message": "Sit by the glass today. Watch instead of scrolling."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Charging Pad",
       "luckyColor": {
-        "name": "Red",
-        "hex": "#CC3333"
+        "name": "Yellow",
+        "hex": "#F0C419"
       },
       "motif": "the shoe rack overflowing",
       "message": "Pairs are breeding by the door. Ten minutes, sort them."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Highlighter Set",
       "luckyColor": {
-        "name": "Hot Pink",
-        "hex": "#E5417F"
+        "name": "Black",
+        "hex": "#1F1F1F"
       },
       "motif": "a tool you bought for one job",
       "message": "That gadget worked once. Give it one more real task."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Hair Turban Towel",
       "luckyColor": {
-        "name": "Gold",
-        "hex": "#D4A017"
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
       },
       "motif": "the corner where the light is",
       "message": "Move to the bright side of the room. Better afternoon, instantly."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Binoculars",
       "luckyColor": {
-        "name": "Lavender",
-        "hex": "#B9A2DB"
+        "name": "Hot Pink",
+        "hex": "#E5417F"
       },
       "motif": "the plan you would regret cancelling",
       "message": "You'd be annoyed at yourself by midnight. Go anyway, briefly."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Mary Janes",
       "luckyColor": {
-        "name": "Black",
-        "hex": "#1F1F1F"
+        "name": "Gold",
+        "hex": "#D4A017"
       },
       "motif": "the door held for someone slower",
       "message": "Hold it a beat longer. Costs you nothing today."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Mascara Wand",
       "luckyColor": {
-        "name": "Mint",
-        "hex": "#9FD9BE"
+        "name": "Violet",
+        "hex": "#6A4C93"
       },
       "motif": "a delay of eleven minutes",
       "message": "Running late by a hair. Walk normal speed, nobody notices."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Pier Railing",
       "luckyColor": {
-        "name": "Blue",
-        "hex": "#2F6FD0"
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
       },
       "motif": "a thing kept because it was given",
       "message": "You keep it out of guilt. That decision keeps till whenever."

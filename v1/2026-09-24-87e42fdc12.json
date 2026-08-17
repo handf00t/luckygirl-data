@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-24",
+  "version": 1,
+  "generatedAt": "2026-08-17T05:32:27.742Z",
+  "day": {
+    "animal": "pig",
+    "branch": "亥",
+    "headline": "A Pig day — Rabbit and Goat are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "monkey",
+      "score": 97,
+      "reasons": [
+        "Monkey sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Jade Roller",
+      "luckyColor": {
+        "name": "Violet",
+        "hex": "#6A4C93"
+      },
+      "motif": "something moved rather than dealt with",
+      "message": "You've dragged it forward three times. Handle it before noon."
+    },
+    {
+      "rank": 2,
+      "sign": "rabbit",
+      "score": 97,
+      "reasons": [
+        "Rabbit and Pig share a triad — strong alignment today"
+      ],
+      "luckyItem": "Puffer Vest",
+      "luckyColor": {
+        "name": "Mint",
+        "hex": "#9FD9BE"
+      },
+      "motif": "a decision you would take back",
+      "message": "You'd choose differently now. Say so today, before it sets."
+    },
+    {
+      "rank": 3,
+      "sign": "horse",
+      "score": 95,
+      "reasons": [
+        "Horse sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Cuff Bracelet",
+      "luckyColor": {
+        "name": "Dark Green",
+        "hex": "#1F5C36"
+      },
+      "motif": "a code sent to an old phone",
+      "message": "Codes are landing on a phone you don't own. Update it."
+    },
+    {
+      "rank": 4,
+      "sign": "goat",
+      "score": 88,
+      "reasons": [
+        "Goat and Pig share a triad — strong alignment today"
+      ],
+      "luckyItem": "Record Stand",
+      "luckyColor": {
+        "name": "Purple",
+        "hex": "#7B3FA0"
+      },
+      "motif": "an alarm snoozed three times",
+      "message": "Fourth snooze isn't happening. Feet on the floor, go."
+    },
+    {
+      "rank": 5,
+      "sign": "ox",
+      "score": 82,
+      "reasons": [
+        "Ox sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Shoe Insoles",
+      "luckyColor": {
+        "name": "Mustard",
+        "hex": "#C9A227"
+      },
+      "motif": "the receipt longer than the purchase",
+      "message": "Ridiculous paper for a small order. Check the bottom, then recycle."
+    },
+    {
+      "rank": 6,
+      "sign": "rooster",
+      "score": 78,
+      "reasons": [
+        "Rooster sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Model Kit",
+      "luckyColor": {
+        "name": "Rust",
+        "hex": "#A8502F"
+      },
+      "motif": "a snack that counts as dinner",
+      "message": "Standing at the counter eating crackers. Add one real thing."
+    },
+    {
+      "rank": 7,
+      "sign": "rat",
+      "score": 67,
+      "reasons": [
+        "Rat sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Coat Check Stub",
+      "luckyColor": {
+        "name": "Lime",
+        "hex": "#8BC34A"
+      },
+      "motif": "a project with two owners",
+      "message": "Two people think they're running it. Ask who's doing what."
+    },
+    {
+      "rank": 8,
+      "sign": "dog",
+      "score": 67,
+      "reasons": [
+        "Dog sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Pocket Knife",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "a song ruined by association",
+      "message": "Pull that track off the playlist for now. Reclaim it later."
+    },
+    {
+      "rank": 9,
+      "sign": "dragon",
+      "score": 65,
+      "reasons": [
+        "Dragon sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Egg Cup",
+      "luckyColor": {
+        "name": "Salmon",
+        "hex": "#EE8A76"
+      },
+      "motif": "a mistake that improved it",
+      "message": "The slip-up improved it. Don't fix it back, don't explain."
+    },
+    {
+      "rank": 10,
+      "sign": "tiger",
+      "score": 62,
+      "reasons": [
+        "Tiger pairs with Pig — a harmonious day"
+      ],
+      "luckyItem": "Loofah",
+      "luckyColor": {
+        "name": "Charcoal",
+        "hex": "#3A3A3A"
+      },
+      "motif": "a park with one good bench",
+      "message": "One decent bench in that whole park. Skip the walk."
+    },
+    {
+      "rank": 11,
+      "sign": "pig",
+      "score": 58,
+      "reasons": [
+        "Pig's own day — your energy runs high"
+      ],
+      "luckyItem": "Library Card",
+      "luckyColor": {
+        "name": "Beige",
+        "hex": "#D9C7AE"
+      },
+      "motif": "sunlight on the kitchen floor",
+      "message": "The floor's warm where the light hits. Sit there a while."
+    },
+    {
+      "rank": 12,
+      "sign": "snake",
+      "score": 41,
+      "reasons": [
+        "Snake opposes Pig — a day to take slowly"
+      ],
+      "luckyItem": "Corkscrew",
+      "luckyColor": {
+        "name": "Pink",
+        "hex": "#E88BAE"
+      },
+      "motif": "a broken zip",
+      "message": "Zip's given up for good. Elastic waist, couch, no witnesses."
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-22",
+  "version": 1,
+  "generatedAt": "2026-08-17T05:31:33.382Z",
+  "day": {
+    "animal": "rooster",
+    "branch": "酉",
+    "headline": "A Rooster day — Ox and Snake are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "goat",
+      "score": 99,
+      "reasons": [
+        "Goat sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "String Tag",
+      "luckyColor": {
+        "name": "Light Pink",
+        "hex": "#F2B8CC"
+      },
+      "motif": "the outfit already laid out",
+      "message": "Past you laid it out. Trust her, wear it, go."
+    },
+    {
+      "rank": 2,
+      "sign": "rat",
+      "score": 86,
+      "reasons": [
+        "Rat sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Umbrella Sleeve",
+      "luckyColor": {
+        "name": "Gold",
+        "hex": "#D4A017"
+      },
+      "motif": "the sound a door makes",
+      "message": "Shut it behind you like you meant it. Then go."
+    },
+    {
+      "rank": 3,
+      "sign": "dragon",
+      "score": 78,
+      "reasons": [
+        "Dragon pairs with Rooster — a harmonious day"
+      ],
+      "luckyItem": "Cable Clip",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "the light going early",
+      "message": "Dark by seven now. Get outside while it's still gold."
+    },
+    {
+      "rank": 4,
+      "sign": "dog",
+      "score": 76,
+      "reasons": [
+        "Dog sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Flannel Shirt",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "the total that does not add up",
+      "message": "That total's off by a lot. Flag it today, calmly."
+    },
+    {
+      "rank": 5,
+      "sign": "pig",
+      "score": 72,
+      "reasons": [
+        "Pig sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Bronzer Compact",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "a sky before rain",
+      "message": "Air's gone heavy. Do the walk now, before it turns."
+    },
+    {
+      "rank": 6,
+      "sign": "ox",
+      "score": 70,
+      "reasons": [
+        "Ox and Rooster share a triad — strong alignment today"
+      ],
+      "luckyItem": "Snood",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "the multi-storey top floor",
+      "message": "Park up top, skip the crawl. Worth the extra flight."
+    },
+    {
+      "rank": 7,
+      "sign": "snake",
+      "score": 68,
+      "reasons": [
+        "Snake and Rooster share a triad — strong alignment today"
+      ],
+      "luckyItem": "Dried Eucalyptus",
+      "luckyColor": {
+        "name": "Denim Blue",
+        "hex": "#3F5C7A"
+      },
+      "motif": "the cheaper version that works fine",
+      "message": "The cheap one's worked for months. Buy it again, no shame."
+    },
+    {
+      "rank": 8,
+      "sign": "tiger",
+      "score": 64,
+      "reasons": [
+        "Tiger sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Deck of Cards",
+      "luckyColor": {
+        "name": "Dark Red",
+        "hex": "#8B1A1A"
+      },
+      "motif": "storage almost full",
+      "message": "Delete forty near-identical photos. Ten minutes, problem gone."
+    },
+    {
+      "rank": 9,
+      "sign": "rabbit",
+      "score": 59,
+      "reasons": [
+        "Rabbit opposes Rooster — a day to take slowly"
+      ],
+      "luckyItem": "New Shoelaces",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "the Saturday with nothing booked",
+      "message": "Saturday's wide open. Keep it that way, no plans required."
+    },
+    {
+      "rank": 10,
+      "sign": "rooster",
+      "score": 47,
+      "reasons": [
+        "Rooster's own day — your energy runs high"
+      ],
+      "luckyItem": "Paper Crane",
+      "luckyColor": {
+        "name": "Silver",
+        "hex": "#C0C0C0"
+      },
+      "motif": "posture at the end of the day",
+      "message": "You're folded into your chair again. Lie flat, stay in."
+    },
+    {
+      "rank": 11,
+      "sign": "monkey",
+      "score": 35,
+      "reasons": [
+        "Monkey sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Coat Check Tag",
+      "luckyColor": {
+        "name": "Green",
+        "hex": "#2E8B4F"
+      },
+      "motif": "the neighbour you nod at",
+      "message": "The hallway nod is a whole relationship. Leave it there."
+    },
+    {
+      "rank": 12,
+      "sign": "horse",
+      "score": 34,
+      "reasons": [
+        "Horse sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Notebook Sleeve",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "the person you owe an answer",
+      "message": "They can wait one more day. Answer when you actually mean it."
+    }
+  ]
+}

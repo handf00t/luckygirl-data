@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Pastel Highlighter",
       "luckyColor": {
-        "name": "Olive",
-        "hex": "#6B7233"
+        "name": "Mint",
+        "hex": "#9FD9BE"
       },
       "motif": "the total that does not add up",
       "message": "The math's off by twenty. Ask about it now, politely."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Dominoes",
       "luckyColor": {
-        "name": "Peach",
-        "hex": "#F5B78E"
+        "name": "Mustard",
+        "hex": "#C9A227"
       },
       "motif": "something glued twice already",
       "message": "Two rounds of glue means buy the real replacement today."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Mousepad",
       "luckyColor": {
-        "name": "Red",
-        "hex": "#CC3333"
+        "name": "Peach",
+        "hex": "#F5B78E"
       },
       "motif": "the thing circled for weeks",
       "message": "You've stared at that date for weeks. Go, obviously."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Wooden Hanger",
       "luckyColor": {
-        "name": "Lavender",
-        "hex": "#B9A2DB"
+        "name": "Sage",
+        "hex": "#A3B59A"
       },
       "motif": "a text sent for no reason",
       "message": "Text her nothing in particular. No reason is the reason."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Espresso Cup",
       "luckyColor": {
-        "name": "Gold",
-        "hex": "#D4A017"
+        "name": "Navy",
+        "hex": "#23375E"
       },
       "motif": "a rivalry only you know about",
       "message": "Your secret competition? Quietly outwork her this afternoon, no announcement."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Glass Tumbler",
       "luckyColor": {
-        "name": "Orange",
-        "hex": "#E8730C"
+        "name": "Chocolate",
+        "hex": "#4A3728"
       },
       "motif": "one deep breath at the door",
       "message": "Inhale once at the threshold, then walk in like that."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Body Oil",
       "luckyColor": {
-        "name": "Burgundy",
-        "hex": "#6E1B2E"
+        "name": "Gold",
+        "hex": "#D4A017"
       },
       "motif": "the thing you scroll past",
       "message": "You keep flicking past it. Stop, read the thing."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Corner Booth",
       "luckyColor": {
-        "name": "Navy",
-        "hex": "#23375E"
+        "name": "Orange",
+        "hex": "#E8730C"
       },
       "motif": "the reply rewritten four times",
       "message": "Version four is fine. Send it, close the app."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Beaded Bracelet",
       "luckyColor": {
-        "name": "Black",
-        "hex": "#1F1F1F"
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
       },
       "motif": "a delay of eleven minutes",
       "message": "Eleven minutes behind is nothing. Don't jog for it."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Heatless Curler",
       "luckyColor": {
-        "name": "Green",
-        "hex": "#2E8B4F"
+        "name": "Salmon",
+        "hex": "#EE8A76"
       },
       "motif": "a song stuck since morning",
       "message": "That chorus has been looping since 8am. Let it live."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Wool Beret",
       "luckyColor": {
-        "name": "White",
-        "hex": "#FFFFFF"
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
       },
       "motif": "the notification badge ignored all week",
       "message": "The little number's been there since Monday. Still not urgent."

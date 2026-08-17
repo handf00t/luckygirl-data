@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-18",
+  "version": 1,
+  "generatedAt": "2026-08-17T05:30:04.126Z",
+  "day": {
+    "animal": "snake",
+    "branch": "巳",
+    "headline": "A Snake day — Ox and Rooster are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "monkey",
+      "score": 97,
+      "reasons": [
+        "Monkey pairs with Snake — a harmonious day"
+      ],
+      "luckyItem": "Glass Tumbler",
+      "luckyColor": {
+        "name": "Salmon",
+        "hex": "#EE8A76"
+      },
+      "motif": "the thing circled for weeks",
+      "message": "Today's the one you've been counting toward. Full commitment, no hedging."
+    },
+    {
+      "rank": 2,
+      "sign": "tiger",
+      "score": 82,
+      "reasons": [
+        "Tiger sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Yoga Mat",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "the eye that keeps twitching",
+      "message": "Your eyelid's been fluttering all week. Not stopping you today."
+    },
+    {
+      "rank": 3,
+      "sign": "goat",
+      "score": 79,
+      "reasons": [
+        "Goat sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Cable Knit Scarf",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "a lamp with no bulb",
+      "message": "That lamp's been dead since July. Buy a bulb today."
+    },
+    {
+      "rank": 4,
+      "sign": "dragon",
+      "score": 76,
+      "reasons": [
+        "Dragon sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Photo Strip",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "a skill practised twice",
+      "message": "You've done it twice now. Do it in front of someone."
+    },
+    {
+      "rank": 5,
+      "sign": "rooster",
+      "score": 74,
+      "reasons": [
+        "Rooster and Snake share a triad — strong alignment today"
+      ],
+      "luckyItem": "Loaf Tin",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "a hotel you are not staying in",
+      "message": "Use the fancy lobby anyway. Sit, work an hour, leave."
+    },
+    {
+      "rank": 6,
+      "sign": "rat",
+      "score": 71,
+      "reasons": [
+        "Rat sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Body Pillow",
+      "luckyColor": {
+        "name": "Charcoal",
+        "hex": "#3A3A3A"
+      },
+      "motif": "silence that feels sudden",
+      "message": "Group chat dropped off mid-sentence. Nobody's mad, go do something."
+    },
+    {
+      "rank": 7,
+      "sign": "ox",
+      "score": 67,
+      "reasons": [
+        "Ox and Snake share a triad — strong alignment today"
+      ],
+      "luckyItem": "Bobby Pins",
+      "luckyColor": {
+        "name": "Denim Blue",
+        "hex": "#3F5C7A"
+      },
+      "motif": "the sunglasses left in the car",
+      "message": "Shades are sitting in the car, obviously. Retrieve them before noon."
+    },
+    {
+      "rank": 8,
+      "sign": "rabbit",
+      "score": 64,
+      "reasons": [
+        "Rabbit sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Bath Salts",
+      "luckyColor": {
+        "name": "Lime",
+        "hex": "#8BC34A"
+      },
+      "motif": "a file named final version three",
+      "message": "Rename it something honest, then quit opening it."
+    },
+    {
+      "rank": 9,
+      "sign": "snake",
+      "score": 61,
+      "reasons": [
+        "Snake's own day — your energy runs high"
+      ],
+      "luckyItem": "Pillowcase",
+      "luckyColor": {
+        "name": "Lemon",
+        "hex": "#F5E05A"
+      },
+      "motif": "a change you already know about",
+      "message": "You saw that announcement coming. No reaction required from you today."
+    },
+    {
+      "rank": 10,
+      "sign": "pig",
+      "score": 58,
+      "reasons": [
+        "Pig opposes Snake — a day to take slowly"
+      ],
+      "luckyItem": "Yo-Yo",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "the thing you scroll past",
+      "message": "You've skipped it forty times. Keep skipping, it's not yours."
+    },
+    {
+      "rank": 11,
+      "sign": "dog",
+      "score": 56,
+      "reasons": [
+        "Dog sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Four Leaf Clover",
+      "luckyColor": {
+        "name": "Green",
+        "hex": "#2E8B4F"
+      },
+      "motif": "one glove",
+      "message": "Its twin isn't turning up today. Pocket it, stay in."
+    },
+    {
+      "rank": 12,
+      "sign": "horse",
+      "score": 40,
+      "reasons": [
+        "Horse sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Grater",
+      "luckyColor": {
+        "name": "Rust",
+        "hex": "#A8502F"
+      },
+      "motif": "sun through a bus window",
+      "message": "Let the window sun cook you. No stop worth rushing."
+    }
+  ]
+}

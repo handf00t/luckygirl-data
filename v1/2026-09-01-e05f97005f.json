@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Hair Net",
       "luckyColor": {
-        "name": "Pink",
-        "hex": "#E88BAE"
+        "name": "Lemon",
+        "hex": "#F5E05A"
       },
       "motif": "the mug on the windowsill",
       "message": "That mug's been on the windowsill since Thursday. Rinse it, refill it."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Silk Pillowcase",
       "luckyColor": {
-        "name": "Burgundy",
-        "hex": "#6E1B2E"
+        "name": "Denim Blue",
+        "hex": "#3F5C7A"
       },
       "motif": "a video watched twice",
       "message": "You watched it twice. That means try it, starting tonight."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Luggage Tag",
       "luckyColor": {
-        "name": "Gray",
-        "hex": "#8A8A8A"
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
       },
       "motif": "the deadline nobody enforces",
       "message": "Nobody's chasing you for it. Send it in today regardless."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Air Plant",
       "luckyColor": {
-        "name": "Navy",
-        "hex": "#23375E"
+        "name": "Violet",
+        "hex": "#6A4C93"
       },
       "motif": "a bench in the sun",
       "message": "The sun's hitting that bench. Go claim it before someone else."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Cabinet Knob",
       "luckyColor": {
-        "name": "Lavender",
-        "hex": "#B9A2DB"
+        "name": "Blue",
+        "hex": "#2F6FD0"
       },
       "motif": "a sky worth looking up at",
       "message": "Sky's doing something today. Look up before you unlock anything."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Shelf Riser",
       "luckyColor": {
-        "name": "Green",
-        "hex": "#2E8B4F"
+        "name": "Pink",
+        "hex": "#E88BAE"
       },
       "motif": "the receipt still in your pocket",
       "message": "Jacket pocket, crumpled receipt. Sort it out before laundry day."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Set Square",
       "luckyColor": {
-        "name": "Blue",
-        "hex": "#2F6FD0"
+        "name": "Dark Red",
+        "hex": "#8B1A1A"
       },
       "motif": "the corner shop queue",
       "message": "Two people ahead at the corner store. Stay, it's four minutes."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Clothes Steamer",
       "luckyColor": {
-        "name": "Orange",
-        "hex": "#E8730C"
+        "name": "Tan",
+        "hex": "#C4A484"
       },
       "motif": "a slide deck at forty percent",
       "message": "Deck's not even half there. Fix the order, ignore the fonts."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Vinyl Sleeve",
       "luckyColor": {
-        "name": "Red",
-        "hex": "#CC3333"
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
       },
       "motif": "a name you keep forgetting",
       "message": "You'll blank on it again today. Not worth the spiral."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Pearl Pin",
       "luckyColor": {
-        "name": "Gold",
-        "hex": "#D4A017"
+        "name": "Black",
+        "hex": "#1F1F1F"
       },
       "motif": "rain that was not forecast",
       "message": "Rain nobody mentioned. Stay in and watch it from the window."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Curling Wand",
       "luckyColor": {
-        "name": "Olive",
-        "hex": "#6B7233"
+        "name": "Plum",
+        "hex": "#7A3B63"
       },
       "motif": "the second screen while watching",
       "message": "Scroll through the whole episode tonight. It's that kind of night."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Measuring Jug",
       "luckyColor": {
-        "name": "Purple",
-        "hex": "#7B3FA0"
+        "name": "Coral",
+        "hex": "#E96B5A"
       },
       "motif": "a password about to expire",
       "message": "That expiry warning can nag you again tomorrow. Dismiss it."

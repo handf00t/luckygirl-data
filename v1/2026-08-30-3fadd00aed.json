@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Bird Guide",
       "luckyColor": {
-        "name": "Black",
-        "hex": "#1F1F1F"
+        "name": "Yellow",
+        "hex": "#F0C419"
       },
       "motif": "cold hands",
       "message": "Hands freezing in August air conditioning. Cup the matcha, go anyway."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Wired Earbuds",
       "luckyColor": {
-        "name": "Yellow",
-        "hex": "#F0C419"
+        "name": "Lemon",
+        "hex": "#F5E05A"
       },
       "motif": "the library book overdue",
       "message": "That book's been overdue since spring. Return it, pay the dollar."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Brass Bookmark",
       "luckyColor": {
-        "name": "Blue",
-        "hex": "#2F6FD0"
+        "name": "Lavender",
+        "hex": "#B9A2DB"
       },
       "motif": "a draft nobody has read",
       "message": "Send the draft to one person before you soften it."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Bow Tie",
       "luckyColor": {
-        "name": "Green",
-        "hex": "#2E8B4F"
+        "name": "White",
+        "hex": "#FFFFFF"
       },
       "motif": "a party you would leave early",
       "message": "Go, do an hour, leave before the second playlist."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Chain Bracelet",
       "luckyColor": {
-        "name": "Lavender",
-        "hex": "#B9A2DB"
+        "name": "Dark Red",
+        "hex": "#8B1A1A"
       },
       "motif": "a lift with someone in it",
       "message": "Someone's already inside. Get in, press your floor, easy."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Tea Strainer",
       "luckyColor": {
-        "name": "Red",
-        "hex": "#CC3333"
+        "name": "Mustard",
+        "hex": "#C9A227"
       },
       "motif": "an appointment overrunning",
       "message": "It's running twenty over. Text the next person, stay put."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Legal Pad",
       "luckyColor": {
-        "name": "Hot Pink",
-        "hex": "#E5417F"
+        "name": "Silver",
+        "hex": "#C0C0C0"
       },
       "motif": "someone talking over you",
       "message": "He cut you off. Finish your sentence from the top."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Spice Jar",
       "luckyColor": {
-        "name": "Purple",
-        "hex": "#7B3FA0"
+        "name": "Peach",
+        "hex": "#F5B78E"
       },
       "motif": "an old account still logged in",
       "message": "You're still signed into that old thing. Log out, whatever."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Foot Warmer",
       "luckyColor": {
-        "name": "Gold",
-        "hex": "#D4A017"
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
       },
       "motif": "the cafe that got loud",
       "message": "Your quiet spot turned into a scene. Take it home."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Placemat",
       "luckyColor": {
-        "name": "Peach",
-        "hex": "#F5B78E"
+        "name": "Gold",
+        "hex": "#D4A017"
       },
       "motif": "the walk that is faster than the bus",
       "message": "Twelve minutes on foot, sure. Not today, sit down."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Knit Vest",
       "luckyColor": {
-        "name": "Beige",
-        "hex": "#D9C7AE"
+        "name": "Black",
+        "hex": "#1F1F1F"
       },
       "motif": "a bed left unmade",
       "message": "Sheets stay rumpled. Get back in them if anything."

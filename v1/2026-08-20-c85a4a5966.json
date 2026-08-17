@@ -17,8 +17,8 @@
       ],
       "luckyItem": "Hand Mirror",
       "luckyColor": {
-        "name": "Pink",
-        "hex": "#E88BAE"
+        "name": "Gold",
+        "hex": "#D4A017"
       },
       "motif": "an alarm snoozed three times",
       "message": "You're already awake. Get up before the fourth one."
@@ -32,8 +32,8 @@
       ],
       "luckyItem": "Knee Socks",
       "luckyColor": {
-        "name": "Orange",
-        "hex": "#E8730C"
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
       },
       "motif": "an episode you fell asleep during",
       "message": "Restart the episode from where you blacked out. Watch it properly."
@@ -47,8 +47,8 @@
       ],
       "luckyItem": "Disposable Camera",
       "luckyColor": {
-        "name": "Blue",
-        "hex": "#2F6FD0"
+        "name": "Rust",
+        "hex": "#A8502F"
       },
       "motif": "the hour after getting home",
       "message": "Don't sit down when you get home. Ride the momentum."
@@ -62,8 +62,8 @@
       ],
       "luckyItem": "Compass Set",
       "luckyColor": {
-        "name": "Silver",
-        "hex": "#C0C0C0"
+        "name": "Chocolate",
+        "hex": "#4A3728"
       },
       "motif": "a card declined once",
       "message": "Run the card again. One decline means nothing."
@@ -77,8 +77,8 @@
       ],
       "luckyItem": "Airmail Sticker",
       "luckyColor": {
-        "name": "Beige",
-        "hex": "#D9C7AE"
+        "name": "Plum",
+        "hex": "#7A3B63"
       },
       "motif": "two options that are both fine",
       "message": "Both work. Pick the closer one and stop weighing."
@@ -92,8 +92,8 @@
       ],
       "luckyItem": "Throw Blanket",
       "luckyColor": {
-        "name": "Sky Blue",
-        "hex": "#7EC0EE"
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
       },
       "motif": "the notification during a call",
       "message": "It buzzed mid-call. Finish the call, then look."
@@ -107,8 +107,8 @@
       ],
       "luckyItem": "Dimmer Switch",
       "luckyColor": {
-        "name": "Brown",
-        "hex": "#6B4A32"
+        "name": "Black",
+        "hex": "#1F1F1F"
       },
       "motif": "a renewal date approaching",
       "message": "That subscription renews soon. Decide now, not the day after."
@@ -122,8 +122,8 @@
       ],
       "luckyItem": "Highlighter Balm",
       "luckyColor": {
-        "name": "Gold",
-        "hex": "#D4A017"
+        "name": "Navy",
+        "hex": "#23375E"
       },
       "motif": "a notification you keep swiping away",
       "message": "Handle the little red dot you keep dismissing. Ninety seconds."
@@ -137,8 +137,8 @@
       ],
       "luckyItem": "Sheet Mask",
       "luckyColor": {
-        "name": "Red",
-        "hex": "#CC3333"
+        "name": "Mustard",
+        "hex": "#C9A227"
       },
       "motif": "the playlist for one task",
       "message": "No soundtrack needed. Just start the task in silence."
@@ -152,8 +152,8 @@
       ],
       "luckyItem": "Laundry Bag",
       "luckyColor": {
-        "name": "Navy",
-        "hex": "#23375E"
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
       },
       "motif": "a diversion sign",
       "message": "Road's closed ahead. Take the detour, no complaining."
@@ -167,8 +167,8 @@
       ],
       "luckyItem": "Bamboo Straw",
       "luckyColor": {
-        "name": "Gray",
-        "hex": "#8A8A8A"
+        "name": "Purple",
+        "hex": "#7B3FA0"
       },
       "motif": "a reply that should have come",
       "message": "They still haven't answered. Put your phone face down."
@@ -182,8 +182,8 @@
       ],
       "luckyItem": "Boarding Card Holder",
       "luckyColor": {
-        "name": "Mint",
-        "hex": "#9FD9BE"
+        "name": "Charcoal",
+        "hex": "#3A3A3A"
       },
       "motif": "a file named final version three",
       "message": "Nobody's opening that file today. Close the laptop, stay in."

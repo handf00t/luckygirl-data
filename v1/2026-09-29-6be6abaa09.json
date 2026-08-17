@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-29",
+  "version": 1,
+  "generatedAt": "2026-08-17T05:35:29.960Z",
+  "day": {
+    "animal": "dragon",
+    "branch": "辰",
+    "headline": "A Dragon day — Rat and Monkey are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "snake",
+      "score": 90,
+      "reasons": [
+        "Snake sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Hand Sanitizer",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "the stairs instead of the lift",
+      "message": "Skip the elevator today. Three flights and you're already ahead."
+    },
+    {
+      "rank": 2,
+      "sign": "rooster",
+      "score": 76,
+      "reasons": [
+        "Rooster pairs with Dragon — a harmonious day"
+      ],
+      "luckyItem": "Cotton Headband",
+      "luckyColor": {
+        "name": "Violet",
+        "hex": "#6A4C93"
+      },
+      "motif": "a Tuesday pretending to be Monday",
+      "message": "Tuesday's doing a Monday impression. Ride it, start the big thing."
+    },
+    {
+      "rank": 3,
+      "sign": "rat",
+      "score": 69,
+      "reasons": [
+        "Rat and Dragon share a triad — strong alignment today"
+      ],
+      "luckyItem": "Wooden Hanger",
+      "luckyColor": {
+        "name": "Dark Red",
+        "hex": "#8B1A1A"
+      },
+      "motif": "the coffee order you always get",
+      "message": "Same order, no deliberating. Bank the brainpower for something bigger."
+    },
+    {
+      "rank": 4,
+      "sign": "rabbit",
+      "score": 68,
+      "reasons": [
+        "Rabbit sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Fleece Earmuffs",
+      "luckyColor": {
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
+      },
+      "motif": "a password you keep resetting",
+      "message": "Change it one final time, then save it somewhere real."
+    },
+    {
+      "rank": 5,
+      "sign": "horse",
+      "score": 68,
+      "reasons": [
+        "Horse sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Hair Claw",
+      "luckyColor": {
+        "name": "Denim Blue",
+        "hex": "#3F5C7A"
+      },
+      "motif": "shoes that need fixing",
+      "message": "Take them to the repair guy at lunch. Ten minutes."
+    },
+    {
+      "rank": 6,
+      "sign": "dog",
+      "score": 64,
+      "reasons": [
+        "Dog opposes Dragon — a day to take slowly"
+      ],
+      "luckyItem": "Under Eye Patch",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "something borrowed and never given back",
+      "message": "Bring it back today. Just hand it over, no backstory."
+    },
+    {
+      "rank": 7,
+      "sign": "pig",
+      "score": 63,
+      "reasons": [
+        "Pig sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Ring Dish",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "a coffee rescheduled twice",
+      "message": "Two reschedules is plenty. Name a day, lock it in."
+    },
+    {
+      "rank": 8,
+      "sign": "monkey",
+      "score": 57,
+      "reasons": [
+        "Monkey and Dragon share a triad — strong alignment today"
+      ],
+      "luckyItem": "Foot File",
+      "luckyColor": {
+        "name": "Beige",
+        "hex": "#D9C7AE"
+      },
+      "motif": "a jacket wrong for the day",
+      "message": "Wrong jacket for this weather. Stash it, don't rebuild the outfit."
+    },
+    {
+      "rank": 9,
+      "sign": "ox",
+      "score": 51,
+      "reasons": [
+        "Ox sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Neck Fan",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "the calm after making a decision",
+      "message": "You already decided. Let it stay decided, enjoy the quiet."
+    },
+    {
+      "rank": 10,
+      "sign": "dragon",
+      "score": 48,
+      "reasons": [
+        "Dragon's own day — your energy runs high"
+      ],
+      "luckyItem": "Bird Guide",
+      "luckyColor": {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      "motif": "the one who checks in first",
+      "message": "You always text first. Let the chat come to you."
+    },
+    {
+      "rank": 11,
+      "sign": "tiger",
+      "score": 47,
+      "reasons": [
+        "Tiger sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Passport Cover",
+      "luckyColor": {
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
+      },
+      "motif": "the bedtime that keeps sliding",
+      "message": "Bed keeps happening later. Turn in early tonight, no negotiating."
+    },
+    {
+      "rank": 12,
+      "sign": "goat",
+      "score": 44,
+      "reasons": [
+        "Goat sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Index Cards",
+      "luckyColor": {
+        "name": "Lemon",
+        "hex": "#F5E05A"
+      },
+      "motif": "the tutorial paused at four minutes",
+      "message": "Paused since Sunday. Close the tab, watch something gloriously dumb."
+    }
+  ]
+}
