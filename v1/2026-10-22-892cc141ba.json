@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-22",
+  "version": 1,
+  "generatedAt": "2026-08-24T05:36:15.261Z",
+  "day": {
+    "animal": "rabbit",
+    "branch": "卯",
+    "headline": "A Rabbit day — Goat and Pig are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "pig",
+      "score": 98,
+      "reasons": [
+        "Pig and Rabbit share a triad — strong alignment today"
+      ],
+      "luckyItem": "Nail Buffer",
+      "luckyColor": {
+        "name": "Rust",
+        "hex": "#A8502F"
+      },
+      "motif": "the room after everyone leaves",
+      "message": "Last one out and the quiet's all yours. Start something."
+    },
+    {
+      "rank": 2,
+      "sign": "rabbit",
+      "score": 94,
+      "reasons": [
+        "Rabbit's own day — your energy runs high"
+      ],
+      "luckyItem": "Crochet Hook",
+      "luckyColor": {
+        "name": "Yellow",
+        "hex": "#F0C419"
+      },
+      "motif": "a floor that needs one sweep",
+      "message": "Grab the broom, one lap, done. The room changes instantly."
+    },
+    {
+      "rank": 3,
+      "sign": "monkey",
+      "score": 82,
+      "reasons": [
+        "Monkey sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Garment Bag",
+      "luckyColor": {
+        "name": "Purple",
+        "hex": "#7B3FA0"
+      },
+      "motif": "the app opened without deciding to",
+      "message": "Your thumb went there by itself. Move it off the homescreen today."
+    },
+    {
+      "rank": 4,
+      "sign": "rat",
+      "score": 81,
+      "reasons": [
+        "Rat sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Cassette Tape",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "a film paused for twenty minutes",
+      "message": "Twenty minutes frozen on the same frame. Sit down, finish it."
+    },
+    {
+      "rank": 5,
+      "sign": "rooster",
+      "score": 76,
+      "reasons": [
+        "Rooster opposes Rabbit — a day to take slowly"
+      ],
+      "luckyItem": "String Loop",
+      "luckyColor": {
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
+      },
+      "motif": "a yes you have not said out loud",
+      "message": "It's a yes and you know it. Say it aloud today."
+    },
+    {
+      "rank": 6,
+      "sign": "dog",
+      "score": 75,
+      "reasons": [
+        "Dog pairs with Rabbit — a harmonious day"
+      ],
+      "luckyItem": "Shower Gel",
+      "luckyColor": {
+        "name": "Pink",
+        "hex": "#E88BAE"
+      },
+      "motif": "the corner shop queue",
+      "message": "Three deep at the counter. Worth the wait, stay put."
+    },
+    {
+      "rank": 7,
+      "sign": "dragon",
+      "score": 63,
+      "reasons": [
+        "Dragon sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Bike Helmet",
+      "luckyColor": {
+        "name": "Coral",
+        "hex": "#E96B5A"
+      },
+      "motif": "the meal you always order",
+      "message": "Skip the menu spiral. The usual, again, no apology."
+    },
+    {
+      "rank": 8,
+      "sign": "ox",
+      "score": 62,
+      "reasons": [
+        "Ox sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Foot Warmer",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "waking before the light",
+      "message": "Up before the light. Make something hot, no rushing."
+    },
+    {
+      "rank": 9,
+      "sign": "goat",
+      "score": 61,
+      "reasons": [
+        "Goat and Rabbit share a triad — strong alignment today"
+      ],
+      "luckyItem": "Car Charger",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "warmth that arrives at four",
+      "message": "The sun finds your window at four. Be there, do nothing."
+    },
+    {
+      "rank": 10,
+      "sign": "horse",
+      "score": 60,
+      "reasons": [
+        "Horse sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Phone Grip",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "a document nobody has opened",
+      "message": "Nobody's opened it since you sent it. Let that stay true."
+    },
+    {
+      "rank": 11,
+      "sign": "tiger",
+      "score": 43,
+      "reasons": [
+        "Tiger sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Letter Opener",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "motif": "the good coat for no occasion",
+      "message": "No occasion worthy of it tonight. It keeps hanging, happily."
+    },
+    {
+      "rank": 12,
+      "sign": "snake",
+      "score": 35,
+      "reasons": [
+        "Snake sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Linen Curtain",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "the good pen",
+      "message": "The nice one stays capped today. Nothing needs your best handwriting."
+    }
+  ]
+}

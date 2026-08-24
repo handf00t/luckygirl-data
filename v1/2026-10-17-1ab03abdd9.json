@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-17",
+  "version": 1,
+  "generatedAt": "2026-08-24T05:33:05.311Z",
+  "day": {
+    "animal": "dog",
+    "branch": "戌",
+    "headline": "A Dog day — Tiger and Horse are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "rabbit",
+      "score": 97,
+      "reasons": [
+        "Rabbit pairs with Dog — a harmonious day"
+      ],
+      "luckyItem": "Spare Batteries",
+      "luckyColor": {
+        "name": "Coral",
+        "hex": "#E96B5A"
+      },
+      "motif": "the escalator on the left",
+      "message": "Left side's for walking. Walk it, you're not sightseeing."
+    },
+    {
+      "rank": 2,
+      "sign": "snake",
+      "score": 93,
+      "reasons": [
+        "Snake sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Compact Umbrella",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "the help accepted without fuss",
+      "message": "Take the help without the little speech. Just thanks, done."
+    },
+    {
+      "rank": 3,
+      "sign": "tiger",
+      "score": 89,
+      "reasons": [
+        "Tiger and Dog share a triad — strong alignment today"
+      ],
+      "luckyItem": "Mini Perfume",
+      "luckyColor": {
+        "name": "Gold",
+        "hex": "#D4A017"
+      },
+      "motif": "somewhere new on the same street",
+      "message": "You've walked past it a hundred times. Go in today."
+    },
+    {
+      "rank": 4,
+      "sign": "rat",
+      "score": 85,
+      "reasons": [
+        "Rat sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Dental Floss",
+      "luckyColor": {
+        "name": "Violet",
+        "hex": "#6A4C93"
+      },
+      "motif": "the same seat every time",
+      "message": "Sit somewhere else today. Same drink, completely different afternoon."
+    },
+    {
+      "rank": 5,
+      "sign": "dragon",
+      "score": 81,
+      "reasons": [
+        "Dragon opposes Dog — a day to take slowly"
+      ],
+      "luckyItem": "Incense Holder",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "the thing you almost said",
+      "message": "You swallowed it this morning. Say the short version now."
+    },
+    {
+      "rank": 6,
+      "sign": "horse",
+      "score": 78,
+      "reasons": [
+        "Horse and Dog share a triad — strong alignment today"
+      ],
+      "luckyItem": "Ribbed Bottle",
+      "luckyColor": {
+        "name": "Lemon",
+        "hex": "#F5E05A"
+      },
+      "motif": "the text sent at 1am",
+      "message": "You sent that at 1am. Own it, no apology follow-up."
+    },
+    {
+      "rank": 7,
+      "sign": "goat",
+      "score": 78,
+      "reasons": [
+        "Goat sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Worn Paperback",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "something recommended by a stranger",
+      "message": "Someone in line named a place. Look it up today."
+    },
+    {
+      "rank": 8,
+      "sign": "rooster",
+      "score": 77,
+      "reasons": [
+        "Rooster sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Layered Chain",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "the bank thing you avoid",
+      "message": "Ten minutes in the banking app beats another week flinching."
+    },
+    {
+      "rank": 9,
+      "sign": "dog",
+      "score": 70,
+      "reasons": [
+        "Dog's own day — your energy runs high"
+      ],
+      "luckyItem": "Vinyl Record",
+      "luckyColor": {
+        "name": "Mint",
+        "hex": "#9FD9BE"
+      },
+      "motif": "a photo taken to remember something else",
+      "message": "That photo was a note to yourself. Nothing to do."
+    },
+    {
+      "rank": 10,
+      "sign": "monkey",
+      "score": 69,
+      "reasons": [
+        "Monkey sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Linen Shirt",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "a photo album not opened since",
+      "message": "That album stays shut today. Nothing in there needs you."
+    },
+    {
+      "rank": 11,
+      "sign": "pig",
+      "score": 53,
+      "reasons": [
+        "Pig sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Mini Speaker",
+      "luckyColor": {
+        "name": "Lime",
+        "hex": "#8BC34A"
+      },
+      "motif": "the library on a weekday",
+      "message": "The library's half empty. Go sit there with nothing planned."
+    },
+    {
+      "rank": 12,
+      "sign": "ox",
+      "score": 46,
+      "reasons": [
+        "Ox sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Watch Strap",
+      "luckyColor": {
+        "name": "Rust",
+        "hex": "#A8502F"
+      },
+      "motif": "cold hands",
+      "message": "Hands won't warm up. Hot mug, blanket, nowhere to be."
+    }
+  ]
+}

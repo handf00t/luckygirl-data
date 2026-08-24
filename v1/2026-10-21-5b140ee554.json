@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-21",
+  "version": 1,
+  "generatedAt": "2026-08-24T05:35:43.275Z",
+  "day": {
+    "animal": "tiger",
+    "branch": "寅",
+    "headline": "A Tiger day — Horse and Dog are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "rooster",
+      "score": 91,
+      "reasons": [
+        "Rooster sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Door Mat",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "the thing promised last Monday",
+      "message": "You said Monday. Make it real before lunch, no preamble."
+    },
+    {
+      "rank": 2,
+      "sign": "snake",
+      "score": 89,
+      "reasons": [
+        "Snake sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Headphone Case",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "a ringtone you never changed",
+      "message": "Still the default chime. Pick one you'd actually like hearing."
+    },
+    {
+      "rank": 3,
+      "sign": "pig",
+      "score": 76,
+      "reasons": [
+        "Pig pairs with Tiger — a harmonious day"
+      ],
+      "luckyItem": "Cashmere Sock",
+      "luckyColor": {
+        "name": "Lemon",
+        "hex": "#F5E05A"
+      },
+      "motif": "the joke that did not land",
+      "message": "It flopped. Tell the next one anyway, room's still yours."
+    },
+    {
+      "rank": 4,
+      "sign": "dragon",
+      "score": 71,
+      "reasons": [
+        "Dragon sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Desk Calendar",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "motif": "the notification badge ignored all week",
+      "message": "That little red number you keep scrolling past. Open it."
+    },
+    {
+      "rank": 5,
+      "sign": "rat",
+      "score": 67,
+      "reasons": [
+        "Rat sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Body Mist",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "motif": "a hat you never quite pull off",
+      "message": "It's the hesitation, not the hat. Put it on, go."
+    },
+    {
+      "rank": 6,
+      "sign": "horse",
+      "score": 66,
+      "reasons": [
+        "Horse and Tiger share a triad — strong alignment today"
+      ],
+      "luckyItem": "Camera Strap",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "a morning without a screen",
+      "message": "Get fully dressed before you unlock anything. See what happens."
+    },
+    {
+      "rank": 7,
+      "sign": "dog",
+      "score": 65,
+      "reasons": [
+        "Dog and Tiger share a triad — strong alignment today"
+      ],
+      "luckyItem": "Terracotta Pot",
+      "luckyColor": {
+        "name": "Red",
+        "hex": "#CC3333"
+      },
+      "motif": "the first cold day of wearing it",
+      "message": "First morning it's genuinely needed. Shake it out, wear it."
+    },
+    {
+      "rank": 8,
+      "sign": "rabbit",
+      "score": 64,
+      "reasons": [
+        "Rabbit sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Menu Card",
+      "luckyColor": {
+        "name": "Gold",
+        "hex": "#D4A017"
+      },
+      "motif": "the pause between two tasks",
+      "message": "Don't rush the gap between them. Two minutes of nothing."
+    },
+    {
+      "rank": 9,
+      "sign": "tiger",
+      "score": 64,
+      "reasons": [
+        "Tiger's own day — your energy runs high"
+      ],
+      "luckyItem": "Drum Stick",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "the exact volume you like",
+      "message": "Nobody else is home. Set it exactly where you want."
+    },
+    {
+      "rank": 10,
+      "sign": "ox",
+      "score": 49,
+      "reasons": [
+        "Ox sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Table Number",
+      "luckyColor": {
+        "name": "Dark Green",
+        "hex": "#1F5C36"
+      },
+      "motif": "the message that arrived first",
+      "message": "Top of the inbox since seven. Let it sit there."
+    },
+    {
+      "rank": 11,
+      "sign": "goat",
+      "score": 48,
+      "reasons": [
+        "Goat sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Oven Mitt",
+      "luckyColor": {
+        "name": "Beige",
+        "hex": "#D9C7AE"
+      },
+      "motif": "a corner of the day nobody uses",
+      "message": "That dead hour after five. Schedule nothing, just drift through."
+    },
+    {
+      "rank": 12,
+      "sign": "monkey",
+      "score": 37,
+      "reasons": [
+        "Monkey opposes Tiger — a day to take slowly"
+      ],
+      "luckyItem": "Pill Case",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "the album that fits the weather",
+      "message": "Grey out there. Put on the record that matches, stay put."
+    }
+  ]
+}

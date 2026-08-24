@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-19",
+  "version": 1,
+  "generatedAt": "2026-08-24T05:34:26.256Z",
+  "day": {
+    "animal": "rat",
+    "branch": "子",
+    "headline": "A Rat day — Dragon and Monkey are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "dragon",
+      "score": 89,
+      "reasons": [
+        "Dragon and Rat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Umbrella Stand",
+      "luckyColor": {
+        "name": "Lime",
+        "hex": "#8BC34A"
+      },
+      "motif": "a table for one",
+      "message": "Book the table for yourself tonight. Order like it matters."
+    },
+    {
+      "rank": 2,
+      "sign": "goat",
+      "score": 89,
+      "reasons": [
+        "Goat sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Charm Keyring",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "an afternoon with no shape",
+      "message": "Wide open afternoon. Plan nothing, walk out and see."
+    },
+    {
+      "rank": 3,
+      "sign": "monkey",
+      "score": 88,
+      "reasons": [
+        "Monkey and Rat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Slip Dress",
+      "luckyColor": {
+        "name": "Dark Red",
+        "hex": "#8B1A1A"
+      },
+      "motif": "a queue that is not moving",
+      "message": "Nothing's moving. Step out, go somewhere without a line."
+    },
+    {
+      "rank": 4,
+      "sign": "horse",
+      "score": 82,
+      "reasons": [
+        "Horse opposes Rat — a day to take slowly"
+      ],
+      "luckyItem": "Lip Balm",
+      "luckyColor": {
+        "name": "Rust",
+        "hex": "#A8502F"
+      },
+      "motif": "a Sunday that lasted",
+      "message": "The weekend's still holding. Aim it at the hardest thing today."
+    },
+    {
+      "rank": 5,
+      "sign": "ox",
+      "score": 81,
+      "reasons": [
+        "Ox pairs with Rat — a harmonious day"
+      ],
+      "luckyItem": "Locker Key",
+      "luckyColor": {
+        "name": "Purple",
+        "hex": "#7B3FA0"
+      },
+      "motif": "a chapter you keep re-reading",
+      "message": "Third pass at that chapter. Push forward, nothing's hiding there."
+    },
+    {
+      "rank": 6,
+      "sign": "pig",
+      "score": 72,
+      "reasons": [
+        "Pig sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Bulldog Clip",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "the wind on one street",
+      "message": "One block always howls. Zip up, take it anyway."
+    },
+    {
+      "rank": 7,
+      "sign": "rooster",
+      "score": 64,
+      "reasons": [
+        "Rooster sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Charm Pouch",
+      "luckyColor": {
+        "name": "Gray",
+        "hex": "#8A8A8A"
+      },
+      "motif": "nails past their best",
+      "message": "Chipped past charming. Take it all off tonight, ten minutes."
+    },
+    {
+      "rank": 8,
+      "sign": "dog",
+      "score": 64,
+      "reasons": [
+        "Dog sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Resistance Band",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "the perfume saved for later",
+      "message": "Later never showed up. Wear it to the grocery store."
+    },
+    {
+      "rank": 9,
+      "sign": "rat",
+      "score": 59,
+      "reasons": [
+        "Rat's own day — your energy runs high"
+      ],
+      "luckyItem": "Blotting Paper",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "the task at the bottom of the list",
+      "message": "That bottom-of-the-list thing keeps sliding. Let it slide again."
+    },
+    {
+      "rank": 10,
+      "sign": "snake",
+      "score": 56,
+      "reasons": [
+        "Snake sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Rooftop Table",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "leftovers with one portion missing",
+      "message": "Someone got into it. One serving is plenty for tonight."
+    },
+    {
+      "rank": 11,
+      "sign": "rabbit",
+      "score": 50,
+      "reasons": [
+        "Rabbit sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Ring Light",
+      "luckyColor": {
+        "name": "Charcoal",
+        "hex": "#3A3A3A"
+      },
+      "motif": "a night of odd dreams",
+      "message": "Weird night. Don't decode it, just make your coffee slowly."
+    },
+    {
+      "rank": 12,
+      "sign": "tiger",
+      "score": 36,
+      "reasons": [
+        "Tiger sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Tip Jar",
+      "luckyColor": {
+        "name": "Green",
+        "hex": "#2E8B4F"
+      },
+      "motif": "someone finishing your sentence",
+      "message": "They jumped your ending again. Let it go, talk less today."
+    }
+  ]
+}

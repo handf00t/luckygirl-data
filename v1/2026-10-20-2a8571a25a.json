@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-20",
+  "version": 1,
+  "generatedAt": "2026-08-24T05:35:21.622Z",
+  "day": {
+    "animal": "ox",
+    "branch": "丑",
+    "headline": "A Ox day — Snake and Rooster are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "snake",
+      "score": 92,
+      "reasons": [
+        "Snake and Ox share a triad — strong alignment today"
+      ],
+      "luckyItem": "Canyon Map",
+      "luckyColor": {
+        "name": "Coral",
+        "hex": "#E96B5A"
+      },
+      "motif": "the driver who waited for you",
+      "message": "Someone idled at the curb for you. Pass that on today."
+    },
+    {
+      "rank": 2,
+      "sign": "rabbit",
+      "score": 84,
+      "reasons": [
+        "Rabbit sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Spare Key",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "a name appearing twice in a day",
+      "message": "Same name twice before noon. Go look them up properly."
+    },
+    {
+      "rank": 3,
+      "sign": "goat",
+      "score": 82,
+      "reasons": [
+        "Goat opposes Ox — a day to take slowly"
+      ],
+      "luckyItem": "Photo Magnet",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "someone worth introducing",
+      "message": "Two people you know should know each other. Send the intro."
+    },
+    {
+      "rank": 4,
+      "sign": "pig",
+      "score": 76,
+      "reasons": [
+        "Pig sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Chore Coat",
+      "luckyColor": {
+        "name": "Denim Blue",
+        "hex": "#3F5C7A"
+      },
+      "motif": "the alarm you did not need",
+      "message": "Up before it rang. That's a free hour, use it well."
+    },
+    {
+      "rank": 5,
+      "sign": "rat",
+      "score": 74,
+      "reasons": [
+        "Rat pairs with Ox — a harmonious day"
+      ],
+      "luckyItem": "Knee Blanket",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "the final episode you are saving",
+      "message": "You've been rationing that last episode. Watch it tonight, finally."
+    },
+    {
+      "rank": 6,
+      "sign": "ox",
+      "score": 72,
+      "reasons": [
+        "Ox's own day — your energy runs high"
+      ],
+      "luckyItem": "Shelf Riser",
+      "luckyColor": {
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
+      },
+      "motif": "a group chat plan going nowhere",
+      "message": "Forty messages, no plan. Name a place, watch everyone agree."
+    },
+    {
+      "rank": 7,
+      "sign": "dragon",
+      "score": 70,
+      "reasons": [
+        "Dragon sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Hand Balm",
+      "luckyColor": {
+        "name": "Teal",
+        "hex": "#2A6B6F"
+      },
+      "motif": "the bin day you forget",
+      "message": "You'll forget the trash again. Set the reminder while you remember."
+    },
+    {
+      "rank": 8,
+      "sign": "rooster",
+      "score": 69,
+      "reasons": [
+        "Rooster and Ox share a triad — strong alignment today"
+      ],
+      "luckyItem": "Paper Straw",
+      "luckyColor": {
+        "name": "Yellow",
+        "hex": "#F0C419"
+      },
+      "motif": "an appointment overrunning",
+      "message": "This one's running long. Text the next person now, not after."
+    },
+    {
+      "rank": 9,
+      "sign": "tiger",
+      "score": 65,
+      "reasons": [
+        "Tiger sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Chocolate Tin",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "a gig with one ticket left",
+      "message": "One ticket left and you're not sprinting for it. Totally fine."
+    },
+    {
+      "rank": 10,
+      "sign": "dog",
+      "score": 63,
+      "reasons": [
+        "Dog sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Skipping Stone",
+      "luckyColor": {
+        "name": "Mint",
+        "hex": "#9FD9BE"
+      },
+      "motif": "a course bought in January",
+      "message": "That January course can keep collecting dust. No guilt about it."
+    },
+    {
+      "rank": 11,
+      "sign": "horse",
+      "score": 62,
+      "reasons": [
+        "Horse sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Instant Camera",
+      "luckyColor": {
+        "name": "Light Pink",
+        "hex": "#F2B8CC"
+      },
+      "motif": "a friendship kept by one person",
+      "message": "You've carried that one long enough. Let it be quiet."
+    },
+    {
+      "rank": 12,
+      "sign": "monkey",
+      "score": 46,
+      "reasons": [
+        "Monkey sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Glass Bead Chain",
+      "luckyColor": {
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
+      },
+      "motif": "the launderette",
+      "message": "Laundry keeps another day. Dig out something you forgot you owned."
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-18",
+  "version": 1,
+  "generatedAt": "2026-08-24T05:33:38.359Z",
+  "day": {
+    "animal": "pig",
+    "branch": "亥",
+    "headline": "A Pig day — Rabbit and Goat are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "monkey",
+      "score": 98,
+      "reasons": [
+        "Monkey sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Folding Stool",
+      "luckyColor": {
+        "name": "Green",
+        "hex": "#2E8B4F"
+      },
+      "motif": "a form still unsigned",
+      "message": "Sign the thing. It's been ready far longer than you have."
+    },
+    {
+      "rank": 2,
+      "sign": "tiger",
+      "score": 96,
+      "reasons": [
+        "Tiger pairs with Pig — a harmonious day"
+      ],
+      "luckyItem": "Clay Block",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "a compromise nobody likes",
+      "message": "That middle-ground plan pleases nobody. Say the version you'd actually pick."
+    },
+    {
+      "rank": 3,
+      "sign": "pig",
+      "score": 90,
+      "reasons": [
+        "Pig's own day — your energy runs high"
+      ],
+      "luckyItem": "Washi Tape",
+      "luckyColor": {
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
+      },
+      "motif": "the car that needs washing",
+      "message": "Run it through the wash today. You'll drive completely differently."
+    },
+    {
+      "rank": 4,
+      "sign": "goat",
+      "score": 84,
+      "reasons": [
+        "Goat and Pig share a triad — strong alignment today"
+      ],
+      "luckyItem": "Mesh Tote",
+      "luckyColor": {
+        "name": "Silver",
+        "hex": "#C0C0C0"
+      },
+      "motif": "the thing you would do if asked twice",
+      "message": "You'd do it if they asked twice. Say yes now."
+    },
+    {
+      "rank": 5,
+      "sign": "rabbit",
+      "score": 79,
+      "reasons": [
+        "Rabbit and Pig share a triad — strong alignment today"
+      ],
+      "luckyItem": "Enamel Cup",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "motif": "a taxi you did not need",
+      "message": "You paid to skip a ten-minute walk. Walk it next time."
+    },
+    {
+      "rank": 6,
+      "sign": "rooster",
+      "score": 68,
+      "reasons": [
+        "Rooster sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Sticker Sheet",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "hands that need cream",
+      "message": "Hands look furious. The cream's in your bag, actually use it."
+    },
+    {
+      "rank": 7,
+      "sign": "ox",
+      "score": 68,
+      "reasons": [
+        "Ox sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Bandana",
+      "luckyColor": {
+        "name": "Purple",
+        "hex": "#7B3FA0"
+      },
+      "motif": "a warranty about to lapse",
+      "message": "Check when the coverage runs out, then send the email today."
+    },
+    {
+      "rank": 8,
+      "sign": "dragon",
+      "score": 64,
+      "reasons": [
+        "Dragon sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Folding Chair",
+      "luckyColor": {
+        "name": "Red",
+        "hex": "#CC3333"
+      },
+      "motif": "the volume everyone else finds loud",
+      "message": "Everyone else keeps flinching. One notch down, you still hear everything."
+    },
+    {
+      "rank": 9,
+      "sign": "rat",
+      "score": 63,
+      "reasons": [
+        "Rat sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Shoe Horn",
+      "luckyColor": {
+        "name": "Salmon",
+        "hex": "#EE8A76"
+      },
+      "motif": "the subtitle you needed",
+      "message": "Subtitles on. Let the show be easy tonight, no rewinding."
+    },
+    {
+      "rank": 10,
+      "sign": "horse",
+      "score": 61,
+      "reasons": [
+        "Horse sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Wavy Vase",
+      "luckyColor": {
+        "name": "Mustard",
+        "hex": "#C9A227"
+      },
+      "motif": "something you are still deciding about",
+      "message": "Still undecided, still fine. Give it one more night."
+    },
+    {
+      "rank": 11,
+      "sign": "snake",
+      "score": 58,
+      "reasons": [
+        "Snake opposes Pig — a day to take slowly"
+      ],
+      "luckyItem": "Loose Leaf Tin",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "motif": "the last slice nobody claims",
+      "message": "Nobody's touching it. Take it, eat it, no group poll."
+    },
+    {
+      "rank": 12,
+      "sign": "dog",
+      "score": 45,
+      "reasons": [
+        "Dog sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Logo Cap",
+      "luckyColor": {
+        "name": "Yellow",
+        "hex": "#F0C419"
+      },
+      "motif": "the phone charging out of reach",
+      "message": "Phone's across the room charging. Genuinely leave it over there."
+    }
+  ]
+}
