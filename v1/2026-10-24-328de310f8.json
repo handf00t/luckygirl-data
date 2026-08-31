@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-24",
+  "version": 1,
+  "generatedAt": "2026-08-31T11:17:02.545Z",
+  "day": {
+    "animal": "snake",
+    "branch": "巳",
+    "headline": "A Snake day — Ox and Rooster are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "rooster",
+      "score": 89,
+      "reasons": [
+        "Rooster and Snake share a triad — strong alignment today"
+      ],
+      "luckyItem": "Heatless Curler",
+      "luckyColor": {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      "motif": "something a child could explain better",
+      "message": "Say it in one plain sentence. Nobody needs the jargon version."
+    },
+    {
+      "rank": 2,
+      "sign": "ox",
+      "score": 85,
+      "reasons": [
+        "Ox and Snake share a triad — strong alignment today"
+      ],
+      "luckyItem": "Monitor Riser",
+      "luckyColor": {
+        "name": "Beige",
+        "hex": "#D9C7AE"
+      },
+      "motif": "a bin that needs going out",
+      "message": "Kitchen's about to start smelling. Haul it out before you head off."
+    },
+    {
+      "rank": 3,
+      "sign": "tiger",
+      "score": 77,
+      "reasons": [
+        "Tiger sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Matchbox",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "a Friday that started early",
+      "message": "It started early, so ride it. Say yes to tonight."
+    },
+    {
+      "rank": 4,
+      "sign": "rat",
+      "score": 74,
+      "reasons": [
+        "Rat sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Makeup Sponge",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "a knot between the shoulders",
+      "message": "Shoulders up by your ears again. Go to the class."
+    },
+    {
+      "rank": 5,
+      "sign": "monkey",
+      "score": 65,
+      "reasons": [
+        "Monkey pairs with Snake — a harmonious day"
+      ],
+      "luckyItem": "Pocket Mirror",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "a laundry pile with opinions",
+      "message": "One load, started now. Dry by the time you're back."
+    },
+    {
+      "rank": 6,
+      "sign": "rabbit",
+      "score": 63,
+      "reasons": [
+        "Rabbit sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Sun Sleeves",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "a morning that already feels behind",
+      "message": "Not behind, just later. Pick one thing, start with that."
+    },
+    {
+      "rank": 7,
+      "sign": "pig",
+      "score": 60,
+      "reasons": [
+        "Pig opposes Snake — a day to take slowly"
+      ],
+      "luckyItem": "Earbud Case",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "a question you stopped asking",
+      "message": "You quit asking. Ask once more, plainly, then let it go."
+    },
+    {
+      "rank": 8,
+      "sign": "snake",
+      "score": 49,
+      "reasons": [
+        "Snake's own day — your energy runs high"
+      ],
+      "luckyItem": "Pastry Brush",
+      "luckyColor": {
+        "name": "Dark Red",
+        "hex": "#8B1A1A"
+      },
+      "motif": "a colour you keep buying",
+      "message": "Fourth time buying that same shade. Wear the three you own."
+    },
+    {
+      "rank": 9,
+      "sign": "dog",
+      "score": 45,
+      "reasons": [
+        "Dog sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Shelf Bracket",
+      "luckyColor": {
+        "name": "Violet",
+        "hex": "#6A4C93"
+      },
+      "motif": "a favour asked lightly",
+      "message": "It was asked casually. Say no just as casually, no essay."
+    },
+    {
+      "rank": 10,
+      "sign": "dragon",
+      "score": 45,
+      "reasons": [
+        "Dragon sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Map Pin",
+      "luckyColor": {
+        "name": "Salmon",
+        "hex": "#EE8A76"
+      },
+      "motif": "a platform change announced late",
+      "message": "They moved it last minute. Don't sprint, catch the next one."
+    },
+    {
+      "rank": 11,
+      "sign": "goat",
+      "score": 44,
+      "reasons": [
+        "Goat sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "USB Drive",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "the pile beside the door",
+      "message": "Step over that heap one more evening. It waits fine."
+    },
+    {
+      "rank": 12,
+      "sign": "horse",
+      "score": 43,
+      "reasons": [
+        "Horse sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Heat Pack",
+      "luckyColor": {
+        "name": "Light Pink",
+        "hex": "#F2B8CC"
+      },
+      "motif": "something you would make again",
+      "message": "You'd happily make it again. Not tonight, keep the recipe."
+    }
+  ]
+}

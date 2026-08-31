@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-29",
+  "version": 1,
+  "generatedAt": "2026-08-31T11:20:19.571Z",
+  "day": {
+    "animal": "dog",
+    "branch": "戌",
+    "headline": "A Dog day — Tiger and Horse are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "horse",
+      "score": 98,
+      "reasons": [
+        "Horse and Dog share a triad — strong alignment today"
+      ],
+      "luckyItem": "Hot Water Bottle",
+      "luckyColor": {
+        "name": "Gray",
+        "hex": "#8A8A8A"
+      },
+      "motif": "someone who needs no reply",
+      "message": "They asked nothing of you. Message them first anyway, no reason."
+    },
+    {
+      "rank": 2,
+      "sign": "goat",
+      "score": 90,
+      "reasons": [
+        "Goat sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Rideshare Pin",
+      "luckyColor": {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      "motif": "the price you have been watching",
+      "message": "It finally dipped. Quit refreshing the tab, just buy it."
+    },
+    {
+      "rank": 3,
+      "sign": "rabbit",
+      "score": 84,
+      "reasons": [
+        "Rabbit pairs with Dog — a harmonious day"
+      ],
+      "luckyItem": "Ribbed Beanie",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "a call you let ring out",
+      "message": "Call back now, before you rehearse a single opening line."
+    },
+    {
+      "rank": 4,
+      "sign": "rat",
+      "score": 71,
+      "reasons": [
+        "Rat sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Night Light",
+      "luckyColor": {
+        "name": "Silver",
+        "hex": "#C0C0C0"
+      },
+      "motif": "the pharmacy on the corner",
+      "message": "The corner pharmacy on your way. Restock the boring essentials today."
+    },
+    {
+      "rank": 5,
+      "sign": "pig",
+      "score": 64,
+      "reasons": [
+        "Pig sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Songbook",
+      "luckyColor": {
+        "name": "Lemon",
+        "hex": "#F5E05A"
+      },
+      "motif": "the recycling sorted wrongly",
+      "message": "Half that bin's in the wrong one. Two minutes, resort."
+    },
+    {
+      "rank": 6,
+      "sign": "tiger",
+      "score": 64,
+      "reasons": [
+        "Tiger and Dog share a triad — strong alignment today"
+      ],
+      "luckyItem": "Napkin Sketch",
+      "luckyColor": {
+        "name": "Gold",
+        "hex": "#D4A017"
+      },
+      "motif": "something recommended without being asked",
+      "message": "The show she pushed on you unprompted. Queue it tonight."
+    },
+    {
+      "rank": 7,
+      "sign": "snake",
+      "score": 57,
+      "reasons": [
+        "Snake sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Bookend",
+      "luckyColor": {
+        "name": "Purple",
+        "hex": "#7B3FA0"
+      },
+      "motif": "the season changing overnight",
+      "message": "Woke up in a different month. Swap the top drawer."
+    },
+    {
+      "rank": 8,
+      "sign": "dog",
+      "score": 55,
+      "reasons": [
+        "Dog's own day — your energy runs high"
+      ],
+      "luckyItem": "Tea Tin",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "motif": "the chat muted six months ago",
+      "message": "Unmute the thread you silenced in spring. Just read back."
+    },
+    {
+      "rank": 9,
+      "sign": "dragon",
+      "score": 50,
+      "reasons": [
+        "Dragon opposes Dog — a day to take slowly"
+      ],
+      "luckyItem": "Dry Bag",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "the light that flickers",
+      "message": "That flickering bulb is basically ambience. Leave it, lamps only."
+    },
+    {
+      "rank": 10,
+      "sign": "monkey",
+      "score": 50,
+      "reasons": [
+        "Monkey sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Cloakroom Token",
+      "luckyColor": {
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
+      },
+      "motif": "a form with one confusing field",
+      "message": "One baffling field. Close the tab, it reads easier tomorrow."
+    },
+    {
+      "rank": 11,
+      "sign": "rooster",
+      "score": 44,
+      "reasons": [
+        "Rooster sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Dimmer Switch",
+      "luckyColor": {
+        "name": "Lime",
+        "hex": "#8BC34A"
+      },
+      "motif": "an account with two logins",
+      "message": "Two logins, one you. Nobody's making you merge them today."
+    },
+    {
+      "rank": 12,
+      "sign": "ox",
+      "score": 43,
+      "reasons": [
+        "Ox sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Fairy Lights",
+      "luckyColor": {
+        "name": "Violet",
+        "hex": "#6A4C93"
+      },
+      "motif": "the thing you will not do again",
+      "message": "Once was the whole lesson. Nothing left to reopen tonight."
+    }
+  ]
+}

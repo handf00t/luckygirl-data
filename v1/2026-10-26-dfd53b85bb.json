@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-26",
+  "version": 1,
+  "generatedAt": "2026-08-31T11:18:44.240Z",
+  "day": {
+    "animal": "goat",
+    "branch": "未",
+    "headline": "A Goat day — Rabbit and Pig are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "horse",
+      "score": 90,
+      "reasons": [
+        "Horse pairs with Goat — a harmonious day"
+      ],
+      "luckyItem": "Small Succulent",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "a light switch that sticks",
+      "message": "That switch you fight every night. Ten minutes, sorted today."
+    },
+    {
+      "rank": 2,
+      "sign": "rabbit",
+      "score": 83,
+      "reasons": [
+        "Rabbit and Goat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Hair Ribbon",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "a late nap that ruined things",
+      "message": "Yesterday's five o'clock nap cost you the night. Stay upright."
+    },
+    {
+      "rank": 3,
+      "sign": "dog",
+      "score": 79,
+      "reasons": [
+        "Dog sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Sheet Music",
+      "luckyColor": {
+        "name": "Mustard",
+        "hex": "#C9A227"
+      },
+      "motif": "the round you always get",
+      "message": "First round's yours as usual. Get it in before anyone offers."
+    },
+    {
+      "rank": 4,
+      "sign": "rooster",
+      "score": 73,
+      "reasons": [
+        "Rooster sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Hair Turban",
+      "luckyColor": {
+        "name": "Gray",
+        "hex": "#8A8A8A"
+      },
+      "motif": "the sofa you sink into",
+      "message": "Sit in that thing and the evening's over. Stay standing."
+    },
+    {
+      "rank": 5,
+      "sign": "pig",
+      "score": 68,
+      "reasons": [
+        "Pig and Goat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Phrase Card",
+      "luckyColor": {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      "motif": "the pan that needs soaking",
+      "message": "Hot water in it now. Later it wipes out clean."
+    },
+    {
+      "rank": 6,
+      "sign": "goat",
+      "score": 66,
+      "reasons": [
+        "Goat's own day — your energy runs high"
+      ],
+      "luckyItem": "Fleece Pullover",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "a voice hoarse from talking",
+      "message": "Voice is shot from yesterday. Type it instead, rest it."
+    },
+    {
+      "rank": 7,
+      "sign": "snake",
+      "score": 60,
+      "reasons": [
+        "Snake sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Coupe Glass",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "the library book overdue",
+      "message": "Slide it through the return slot on your way past."
+    },
+    {
+      "rank": 8,
+      "sign": "dragon",
+      "score": 56,
+      "reasons": [
+        "Dragon sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Comic Book",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "someone running late",
+      "message": "They're running behind. Order yours, don't sit there waiting politely."
+    },
+    {
+      "rank": 9,
+      "sign": "ox",
+      "score": 44,
+      "reasons": [
+        "Ox opposes Goat — a day to take slowly"
+      ],
+      "luckyItem": "Canvas Sneakers",
+      "luckyColor": {
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
+      },
+      "motif": "being early and having nothing to do",
+      "message": "Twenty minutes early with nothing to fill. Ideal, do nothing."
+    },
+    {
+      "rank": 10,
+      "sign": "monkey",
+      "score": 41,
+      "reasons": [
+        "Monkey sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Seed Packet",
+      "luckyColor": {
+        "name": "Denim Blue",
+        "hex": "#3F5C7A"
+      },
+      "motif": "something left mid-sentence",
+      "message": "You trailed off mid-thought. Let it hang, nobody's waiting."
+    },
+    {
+      "rank": 11,
+      "sign": "tiger",
+      "score": 39,
+      "reasons": [
+        "Tiger sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Tinted Balm",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "an album meant to be heard",
+      "message": "The record someone swore you'd love. Not tonight, it keeps."
+    },
+    {
+      "rank": 12,
+      "sign": "rat",
+      "score": 36,
+      "reasons": [
+        "Rat sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Straw Visor",
+      "luckyColor": {
+        "name": "Lemon",
+        "hex": "#F5E05A"
+      },
+      "motif": "something you already decided quietly",
+      "message": "You settled this days ago. Nothing to announce, nothing to revisit."
+    }
+  ]
+}

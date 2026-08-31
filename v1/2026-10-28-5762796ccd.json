@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-28",
+  "version": 1,
+  "generatedAt": "2026-08-31T11:19:59.748Z",
+  "day": {
+    "animal": "rooster",
+    "branch": "酉",
+    "headline": "A Rooster day — Ox and Snake are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "ox",
+      "score": 97,
+      "reasons": [
+        "Ox and Rooster share a triad — strong alignment today"
+      ],
+      "luckyItem": "Mail Tray",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "a supermarket at closing time",
+      "message": "Fifteen minutes till they lock up. Go, the aisles are yours."
+    },
+    {
+      "rank": 2,
+      "sign": "dragon",
+      "score": 95,
+      "reasons": [
+        "Dragon pairs with Rooster — a harmonious day"
+      ],
+      "luckyItem": "Ticket Stub",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "a fix that held",
+      "message": "The fix you bodged in July still holds. Trust that instinct."
+    },
+    {
+      "rank": 3,
+      "sign": "snake",
+      "score": 88,
+      "reasons": [
+        "Snake and Rooster share a triad — strong alignment today"
+      ],
+      "luckyItem": "Pressed Flower",
+      "luckyColor": {
+        "name": "Salmon",
+        "hex": "#EE8A76"
+      },
+      "motif": "a voice heard through a wall",
+      "message": "Someone's laughing through the wall. Go find that room tonight."
+    },
+    {
+      "rank": 4,
+      "sign": "dog",
+      "score": 82,
+      "reasons": [
+        "Dog sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Satin Bonnet",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "a table you have to wait for",
+      "message": "Put your name down and wait. That table's worth the standing."
+    },
+    {
+      "rank": 5,
+      "sign": "monkey",
+      "score": 81,
+      "reasons": [
+        "Monkey sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Corduroy Cap",
+      "luckyColor": {
+        "name": "Mustard",
+        "hex": "#C9A227"
+      },
+      "motif": "the mural half painted over",
+      "message": "They've rolled over half of it. Go photograph what's still there."
+    },
+    {
+      "rank": 6,
+      "sign": "rabbit",
+      "score": 75,
+      "reasons": [
+        "Rabbit opposes Rooster — a day to take slowly"
+      ],
+      "luckyItem": "Desk Lamp",
+      "luckyColor": {
+        "name": "Yellow",
+        "hex": "#F0C419"
+      },
+      "motif": "an opinion you have not voiced",
+      "message": "You've been sitting on that take all week. Voice it casually."
+    },
+    {
+      "rank": 7,
+      "sign": "tiger",
+      "score": 72,
+      "reasons": [
+        "Tiger sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Wind Chime",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "motif": "a stone kept from somewhere",
+      "message": "The rock from that beach. Put it where you'll see it."
+    },
+    {
+      "rank": 8,
+      "sign": "horse",
+      "score": 70,
+      "reasons": [
+        "Horse sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Trinket Dish",
+      "luckyColor": {
+        "name": "Mint",
+        "hex": "#9FD9BE"
+      },
+      "motif": "a group where you say least",
+      "message": "You're the quiet one in that chat. Say one real thing."
+    },
+    {
+      "rank": 9,
+      "sign": "pig",
+      "score": 63,
+      "reasons": [
+        "Pig sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Tie Clip",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "a friendship winding down politely",
+      "message": "No autopsy needed. Let it stay warm and low-effort today."
+    },
+    {
+      "rank": 10,
+      "sign": "goat",
+      "score": 63,
+      "reasons": [
+        "Goat sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Linen Tote",
+      "luckyColor": {
+        "name": "Dark Red",
+        "hex": "#8B1A1A"
+      },
+      "motif": "the cheaper platform",
+      "message": "Ads and all, the cheap tier's fine tonight. Stay in."
+    },
+    {
+      "rank": 11,
+      "sign": "rooster",
+      "score": 62,
+      "reasons": [
+        "Rooster's own day — your energy runs high"
+      ],
+      "luckyItem": "Hand Blender",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "a wallet too full",
+      "message": "Wallet still won't close. It's survived this long, leave it."
+    },
+    {
+      "rank": 12,
+      "sign": "rat",
+      "score": 36,
+      "reasons": [
+        "Rat sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Toner Bottle",
+      "luckyColor": {
+        "name": "Rust",
+        "hex": "#A8502F"
+      },
+      "motif": "a dinner that took too long",
+      "message": "Three hours at that table last night. Tonight, eat standing up."
+    }
+  ]
+}

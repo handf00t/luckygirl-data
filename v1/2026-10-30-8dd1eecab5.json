@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-30",
+  "version": 1,
+  "generatedAt": "2026-08-31T11:20:48.527Z",
+  "day": {
+    "animal": "pig",
+    "branch": "亥",
+    "headline": "A Pig day — Rabbit and Goat are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "rat",
+      "score": 94,
+      "reasons": [
+        "Rat sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Dry Brush",
+      "luckyColor": {
+        "name": "Light Pink",
+        "hex": "#F2B8CC"
+      },
+      "motif": "a slide deck at forty percent",
+      "message": "Forty percent is plenty to show someone. Share it this morning."
+    },
+    {
+      "rank": 2,
+      "sign": "rabbit",
+      "score": 91,
+      "reasons": [
+        "Rabbit and Pig share a triad — strong alignment today"
+      ],
+      "luckyItem": "Floor Cushion",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "an opinion you borrowed",
+      "message": "You lifted that take from someone. Use it today, no footnote."
+    },
+    {
+      "rank": 3,
+      "sign": "tiger",
+      "score": 87,
+      "reasons": [
+        "Tiger pairs with Pig — a harmonious day"
+      ],
+      "luckyItem": "Travel Adapter",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "the thought you cannot finish",
+      "message": "Say the half-thought out loud. Let someone else finish it."
+    },
+    {
+      "rank": 4,
+      "sign": "goat",
+      "score": 79,
+      "reasons": [
+        "Goat and Pig share a triad — strong alignment today"
+      ],
+      "luckyItem": "Packing Cube",
+      "luckyColor": {
+        "name": "Coral",
+        "hex": "#E96B5A"
+      },
+      "motif": "shoes left in the hallway",
+      "message": "Pick them up on your way out. Hallway looks intentional."
+    },
+    {
+      "rank": 5,
+      "sign": "dog",
+      "score": 77,
+      "reasons": [
+        "Dog sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Sunscreen Stick",
+      "luckyColor": {
+        "name": "Dark Green",
+        "hex": "#1F5C36"
+      },
+      "motif": "the standard you quietly lowered",
+      "message": "You quietly settled for fine on that one. Nudge it back."
+    },
+    {
+      "rank": 6,
+      "sign": "monkey",
+      "score": 76,
+      "reasons": [
+        "Monkey sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Hair Tie",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "a hem that needs taking up",
+      "message": "Take it to the tailor near the studio. Cheap, quick fix."
+    },
+    {
+      "rank": 7,
+      "sign": "rooster",
+      "score": 76,
+      "reasons": [
+        "Rooster sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Manila Folder",
+      "luckyColor": {
+        "name": "Charcoal",
+        "hex": "#3A3A3A"
+      },
+      "motif": "a jaw held tight",
+      "message": "Your jaw's been clenched since the alarm. Let it hang loose."
+    },
+    {
+      "rank": 8,
+      "sign": "pig",
+      "score": 66,
+      "reasons": [
+        "Pig's own day — your energy runs high"
+      ],
+      "luckyItem": "Textured Cushion",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "the meal split unevenly",
+      "message": "Bill got split like nobody was watching. Mention it, lightly, today."
+    },
+    {
+      "rank": 9,
+      "sign": "snake",
+      "score": 47,
+      "reasons": [
+        "Snake opposes Pig — a day to take slowly"
+      ],
+      "luckyItem": "Character Keyring",
+      "luckyColor": {
+        "name": "Denim Blue",
+        "hex": "#3F5C7A"
+      },
+      "motif": "something working despite itself",
+      "message": "It shouldn't run and it does. Don't investigate, leave it alone."
+    },
+    {
+      "rank": 10,
+      "sign": "horse",
+      "score": 45,
+      "reasons": [
+        "Horse sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Correction Tape",
+      "luckyColor": {
+        "name": "Green",
+        "hex": "#2E8B4F"
+      },
+      "motif": "a ticket barrier that will not open",
+      "message": "The gate's not budging. Someone in a vest handles this, not you."
+    },
+    {
+      "rank": 11,
+      "sign": "ox",
+      "score": 44,
+      "reasons": [
+        "Ox sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Espadrilles",
+      "luckyColor": {
+        "name": "Teal",
+        "hex": "#2A6B6F"
+      },
+      "motif": "sunlight before noon",
+      "message": "Good light all morning and no plans in it. Perfect, stay."
+    },
+    {
+      "rank": 12,
+      "sign": "dragon",
+      "score": 43,
+      "reasons": [
+        "Dragon sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Key Finder",
+      "luckyColor": {
+        "name": "Pink",
+        "hex": "#E88BAE"
+      },
+      "motif": "a service station",
+      "message": "Pull in, terrible coffee, sit in the car a while."
+    }
+  ]
+}
