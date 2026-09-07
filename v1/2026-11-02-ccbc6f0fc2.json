@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-02",
+  "version": 1,
+  "generatedAt": "2026-09-07T09:53:44.264Z",
+  "day": {
+    "animal": "tiger",
+    "branch": "寅",
+    "headline": "A Tiger day — Horse and Dog are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "dog",
+      "score": 98,
+      "reasons": [
+        "Dog and Tiger share a triad — strong alignment today"
+      ],
+      "luckyItem": "Fridge Magnet",
+      "luckyColor": {
+        "name": "Gray",
+        "hex": "#8A8A8A"
+      },
+      "motif": "music through one earbud",
+      "message": "One earbud in, the other ear for the city. Go."
+    },
+    {
+      "rank": 2,
+      "sign": "dragon",
+      "score": 87,
+      "reasons": [
+        "Dragon sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Battery Case",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "the feedback still unread",
+      "message": "Read the notes this morning, before you've built a whole story."
+    },
+    {
+      "rank": 3,
+      "sign": "horse",
+      "score": 87,
+      "reasons": [
+        "Horse and Tiger share a triad — strong alignment today"
+      ],
+      "luckyItem": "Power Bank",
+      "luckyColor": {
+        "name": "Denim Blue",
+        "hex": "#3F5C7A"
+      },
+      "motif": "the compliment you thought but did not say",
+      "message": "Tell her the nice thing you almost kept to yourself."
+    },
+    {
+      "rank": 4,
+      "sign": "pig",
+      "score": 84,
+      "reasons": [
+        "Pig pairs with Tiger — a harmonious day"
+      ],
+      "luckyItem": "Wall Poster",
+      "luckyColor": {
+        "name": "Light Pink",
+        "hex": "#F2B8CC"
+      },
+      "motif": "an unplanned detour",
+      "message": "Miss the turn on purpose. See what's down that street."
+    },
+    {
+      "rank": 5,
+      "sign": "ox",
+      "score": 61,
+      "reasons": [
+        "Ox sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Juggling Balls",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "a bill on autopay you never check",
+      "message": "Check what that autopay's quietly charging you. Two minutes, done."
+    },
+    {
+      "rank": 6,
+      "sign": "snake",
+      "score": 60,
+      "reasons": [
+        "Snake sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Cotton Jar",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "the story you tell too often",
+      "message": "Retire the greatest hit tonight. Tell them a newer one."
+    },
+    {
+      "rank": 7,
+      "sign": "tiger",
+      "score": 59,
+      "reasons": [
+        "Tiger's own day — your energy runs high"
+      ],
+      "luckyItem": "Measuring Jug",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "someone doing better than expected",
+      "message": "Someone's thriving and it stings slightly. Congratulate them anyway, properly."
+    },
+    {
+      "rank": 8,
+      "sign": "goat",
+      "score": 58,
+      "reasons": [
+        "Goat sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Kaleidoscope",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "an email sitting in drafts",
+      "message": "That draft's done. Cut the last line and send it."
+    },
+    {
+      "rank": 9,
+      "sign": "rabbit",
+      "score": 54,
+      "reasons": [
+        "Rabbit sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Thin Anklet",
+      "luckyColor": {
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
+      },
+      "motif": "the printer nobody understands",
+      "message": "Nobody's ever understood that machine. Not your turn to try."
+    },
+    {
+      "rank": 10,
+      "sign": "rat",
+      "score": 42,
+      "reasons": [
+        "Rat sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Parking Meter",
+      "luckyColor": {
+        "name": "Mint",
+        "hex": "#9FD9BE"
+      },
+      "motif": "a bus missed by seconds",
+      "message": "Watched it pull away. Walk to the next stop, slowly."
+    },
+    {
+      "rank": 11,
+      "sign": "monkey",
+      "score": 39,
+      "reasons": [
+        "Monkey opposes Tiger — a day to take slowly"
+      ],
+      "luckyItem": "Crossword Book",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "the language app on a nine-day streak",
+      "message": "Nine days of fake fluency. Let it lapse, nobody's counting."
+    },
+    {
+      "rank": 12,
+      "sign": "rooster",
+      "score": 37,
+      "reasons": [
+        "Rooster sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Coaster Set",
+      "luckyColor": {
+        "name": "Rust",
+        "hex": "#A8502F"
+      },
+      "motif": "a rivalry only you know about",
+      "message": "She doesn't know she's in a race. Take the day off."
+    }
+  ]
+}

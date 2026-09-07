@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-03",
+  "version": 1,
+  "generatedAt": "2026-09-07T09:54:43.338Z",
+  "day": {
+    "animal": "rabbit",
+    "branch": "卯",
+    "headline": "A Rabbit day — Goat and Pig are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "rabbit",
+      "score": 91,
+      "reasons": [
+        "Rabbit's own day — your energy runs high"
+      ],
+      "luckyItem": "Colouring Book",
+      "luckyColor": {
+        "name": "Yellow",
+        "hex": "#F0C419"
+      },
+      "motif": "somewhere new on the same street",
+      "message": "Something new opened on your block. Walk in, order blind."
+    },
+    {
+      "rank": 2,
+      "sign": "ox",
+      "score": 83,
+      "reasons": [
+        "Ox sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Stamp Pad",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "being bored in a good way",
+      "message": "This is the good kind of bored. Stay in it."
+    },
+    {
+      "rank": 3,
+      "sign": "snake",
+      "score": 79,
+      "reasons": [
+        "Snake sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Signet Ring",
+      "luckyColor": {
+        "name": "Mint",
+        "hex": "#9FD9BE"
+      },
+      "motif": "the first proper frost",
+      "message": "Cold snapped overnight. Get out in it before everyone wakes up."
+    },
+    {
+      "rank": 4,
+      "sign": "dragon",
+      "score": 78,
+      "reasons": [
+        "Dragon sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Clay Mask",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "someone waiting for your answer",
+      "message": "They've been waiting since Sunday. Answer before your matcha's gone."
+    },
+    {
+      "rank": 5,
+      "sign": "pig",
+      "score": 77,
+      "reasons": [
+        "Pig and Rabbit share a triad — strong alignment today"
+      ],
+      "luckyItem": "Tea Infuser",
+      "luckyColor": {
+        "name": "Pink",
+        "hex": "#E88BAE"
+      },
+      "motif": "a bath run too late",
+      "message": "Water's going cold while you finish the episode. Get in."
+    },
+    {
+      "rank": 6,
+      "sign": "rat",
+      "score": 77,
+      "reasons": [
+        "Rat sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Hair Claw",
+      "luckyColor": {
+        "name": "Green",
+        "hex": "#2E8B4F"
+      },
+      "motif": "a sky worth looking up at",
+      "message": "Clouds are showing off today. Look up before you're inside."
+    },
+    {
+      "rank": 7,
+      "sign": "goat",
+      "score": 76,
+      "reasons": [
+        "Goat and Rabbit share a triad — strong alignment today"
+      ],
+      "luckyItem": "Zine",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "a ringtone you never changed",
+      "message": "Everyone flinches when your phone rings. Pick a new sound."
+    },
+    {
+      "rank": 8,
+      "sign": "dog",
+      "score": 75,
+      "reasons": [
+        "Dog pairs with Rabbit — a harmonious day"
+      ],
+      "luckyItem": "Chain Bracelet",
+      "luckyColor": {
+        "name": "Dark Green",
+        "hex": "#1F5C36"
+      },
+      "motif": "a headline that annoyed you",
+      "message": "That headline got you. Don't type the comment, close the tab."
+    },
+    {
+      "rank": 9,
+      "sign": "tiger",
+      "score": 73,
+      "reasons": [
+        "Tiger sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Spray Bottle",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "a name that keeps coming up",
+      "message": "That name keeps surfacing. Not today's mystery, let it float."
+    },
+    {
+      "rank": 10,
+      "sign": "rooster",
+      "score": 68,
+      "reasons": [
+        "Rooster opposes Rabbit — a day to take slowly"
+      ],
+      "luckyItem": "Notebook Band",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "the sound a door makes",
+      "message": "The squeak's part of the place now. Ignore it another week."
+    },
+    {
+      "rank": 11,
+      "sign": "monkey",
+      "score": 63,
+      "reasons": [
+        "Monkey sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Cabinet Knob",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "a filter due for changing",
+      "message": "That filter light can keep blinking. Not tonight's project."
+    },
+    {
+      "rank": 12,
+      "sign": "horse",
+      "score": 38,
+      "reasons": [
+        "Horse sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Record Stand",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "an account with two logins",
+      "message": "Log into whichever one loads first. Sorting it out can wait."
+    }
+  ]
+}

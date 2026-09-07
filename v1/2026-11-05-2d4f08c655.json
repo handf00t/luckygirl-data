@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-05",
+  "version": 1,
+  "generatedAt": "2026-09-07T09:55:59.125Z",
+  "day": {
+    "animal": "snake",
+    "branch": "巳",
+    "headline": "A Snake day — Ox and Rooster are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "monkey",
+      "score": 93,
+      "reasons": [
+        "Monkey pairs with Snake — a harmonious day"
+      ],
+      "luckyItem": "Linen Apron",
+      "luckyColor": {
+        "name": "Lime",
+        "hex": "#8BC34A"
+      },
+      "motif": "the light that flickers",
+      "message": "The bulb's been blinking at you for weeks. Replace it this morning."
+    },
+    {
+      "rank": 2,
+      "sign": "goat",
+      "score": 70,
+      "reasons": [
+        "Goat sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Snack Tin",
+      "luckyColor": {
+        "name": "Salmon",
+        "hex": "#EE8A76"
+      },
+      "motif": "a comparison that helps nobody",
+      "message": "You against her, again. Drop the tally and go do yours."
+    },
+    {
+      "rank": 3,
+      "sign": "dog",
+      "score": 69,
+      "reasons": [
+        "Dog sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Beaded Bracelet",
+      "luckyColor": {
+        "name": "Dark Red",
+        "hex": "#8B1A1A"
+      },
+      "motif": "coins in a jar",
+      "message": "Haul the coin jar to the machine today. Buy something stupid."
+    },
+    {
+      "rank": 4,
+      "sign": "snake",
+      "score": 69,
+      "reasons": [
+        "Snake's own day — your energy runs high"
+      ],
+      "luckyItem": "Rideshare Pin",
+      "luckyColor": {
+        "name": "Beige",
+        "hex": "#D9C7AE"
+      },
+      "motif": "a trailer better than the film",
+      "message": "Two minutes had you sold. Watch the whole thing tonight anyway."
+    },
+    {
+      "rank": 5,
+      "sign": "rat",
+      "score": 65,
+      "reasons": [
+        "Rat sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Hair Tie",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "a person you keep almost calling",
+      "message": "You've rehearsed that call four times. Send two lines instead, today."
+    },
+    {
+      "rank": 6,
+      "sign": "ox",
+      "score": 63,
+      "reasons": [
+        "Ox and Snake share a triad — strong alignment today"
+      ],
+      "luckyItem": "Ruler",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "a slide deck at forty percent",
+      "message": "Half-built deck. Fix the titles, leave the rest till tomorrow."
+    },
+    {
+      "rank": 7,
+      "sign": "pig",
+      "score": 60,
+      "reasons": [
+        "Pig opposes Snake — a day to take slowly"
+      ],
+      "luckyItem": "Placemat",
+      "luckyColor": {
+        "name": "Coral",
+        "hex": "#E96B5A"
+      },
+      "motif": "a sibling you undersell",
+      "message": "Next time someone asks about your brother, brag a little."
+    },
+    {
+      "rank": 8,
+      "sign": "rooster",
+      "score": 59,
+      "reasons": [
+        "Rooster and Snake share a triad — strong alignment today"
+      ],
+      "luckyItem": "Picnic Flask",
+      "luckyColor": {
+        "name": "Rust",
+        "hex": "#A8502F"
+      },
+      "motif": "the last day of a habit",
+      "message": "Last day of the streak. Do it once more, then stop."
+    },
+    {
+      "rank": 9,
+      "sign": "rabbit",
+      "score": 51,
+      "reasons": [
+        "Rabbit sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Metronome",
+      "luckyColor": {
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
+      },
+      "motif": "a route taken deliberately",
+      "message": "Take the long way home on purpose. No stops, no errands."
+    },
+    {
+      "rank": 10,
+      "sign": "tiger",
+      "score": 43,
+      "reasons": [
+        "Tiger sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Ironing Board",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "motif": "the outfit already laid out",
+      "message": "You picked it last night. Wear exactly that, skip the debate."
+    },
+    {
+      "rank": 11,
+      "sign": "horse",
+      "score": 42,
+      "reasons": [
+        "Horse sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Hourglass",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "motif": "a coin landing on its side",
+      "message": "The toss didn't settle it. Good, nothing needs deciding today."
+    },
+    {
+      "rank": 12,
+      "sign": "dragon",
+      "score": 41,
+      "reasons": [
+        "Dragon sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Shower Steamer",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "the second option you keep going back to",
+      "message": "You keep scrolling back to the runner-up. Sleep on it again."
+    }
+  ]
+}

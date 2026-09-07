@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-31",
+  "version": 1,
+  "generatedAt": "2026-09-07T09:52:46.955Z",
+  "day": {
+    "animal": "rat",
+    "branch": "子",
+    "headline": "A Rat day — Dragon and Monkey are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "monkey",
+      "score": 93,
+      "reasons": [
+        "Monkey and Rat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Peeler",
+      "luckyColor": {
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
+      },
+      "motif": "a story about you that is nearly true",
+      "message": "That story about you is mostly true. Tell it again tonight."
+    },
+    {
+      "rank": 2,
+      "sign": "pig",
+      "score": 86,
+      "reasons": [
+        "Pig sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Chopstick Set",
+      "luckyColor": {
+        "name": "Dark Red",
+        "hex": "#8B1A1A"
+      },
+      "motif": "a Sunday evening",
+      "message": "Sunday evening has room in it. Put something you actually want there."
+    },
+    {
+      "rank": 3,
+      "sign": "rooster",
+      "score": 83,
+      "reasons": [
+        "Rooster sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Kitchen Timer",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "the market on the way",
+      "message": "The market's literally on your way. Stop in, buy something you'll cook."
+    },
+    {
+      "rank": 4,
+      "sign": "ox",
+      "score": 83,
+      "reasons": [
+        "Ox pairs with Rat — a harmonious day"
+      ],
+      "luckyItem": "Reusable Cup",
+      "luckyColor": {
+        "name": "Dark Green",
+        "hex": "#1F5C36"
+      },
+      "motif": "a bruise from nothing",
+      "message": "No idea where that came from. Short sleeves anyway, wear them."
+    },
+    {
+      "rank": 5,
+      "sign": "dragon",
+      "score": 75,
+      "reasons": [
+        "Dragon and Rat share a triad — strong alignment today"
+      ],
+      "luckyItem": "MagSafe Wallet",
+      "luckyColor": {
+        "name": "Gold",
+        "hex": "#D4A017"
+      },
+      "motif": "the beginner class you would enjoy",
+      "message": "Book the beginner class. Being the worst there is the point."
+    },
+    {
+      "rank": 6,
+      "sign": "dog",
+      "score": 74,
+      "reasons": [
+        "Dog sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Postcard Stamp",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "a plus-one still undecided",
+      "message": "Pick a name or show up alone. Just answer them today."
+    },
+    {
+      "rank": 7,
+      "sign": "tiger",
+      "score": 72,
+      "reasons": [
+        "Tiger sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Shower Steamer",
+      "luckyColor": {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      "motif": "a route walked on autopilot",
+      "message": "You could walk it asleep. Look up at the second corner."
+    },
+    {
+      "rank": 8,
+      "sign": "rat",
+      "score": 64,
+      "reasons": [
+        "Rat's own day — your energy runs high"
+      ],
+      "luckyItem": "Blue Pen",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "counting hours backwards",
+      "message": "Doing bedtime math again. Pick a number, then stop recalculating it."
+    },
+    {
+      "rank": 9,
+      "sign": "goat",
+      "score": 61,
+      "reasons": [
+        "Goat sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Cable Wrap",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "birds at an odd hour",
+      "message": "Whatever's shrieking outside at four isn't yours to solve. Sleep in."
+    },
+    {
+      "rank": 10,
+      "sign": "snake",
+      "score": 59,
+      "reasons": [
+        "Snake sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Badge Reel",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "the street with no name you use",
+      "message": "Still don't know what that street's called. Today's not the day."
+    },
+    {
+      "rank": 11,
+      "sign": "rabbit",
+      "score": 50,
+      "reasons": [
+        "Rabbit sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Playlist Card",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "a screenshot with no context",
+      "message": "A screenshot, zero explanation. Don't ask, let it sit till tomorrow."
+    },
+    {
+      "rank": 12,
+      "sign": "horse",
+      "score": 39,
+      "reasons": [
+        "Horse opposes Rat — a day to take slowly"
+      ],
+      "luckyItem": "Humidifier",
+      "luckyColor": {
+        "name": "Beige",
+        "hex": "#D9C7AE"
+      },
+      "motif": "a barber with no appointments",
+      "message": "That chair will be just as empty tomorrow. Skip it today."
+    }
+  ]
+}

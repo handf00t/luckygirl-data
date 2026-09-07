@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-06",
+  "version": 1,
+  "generatedAt": "2026-09-07T09:56:27.144Z",
+  "day": {
+    "animal": "horse",
+    "branch": "午",
+    "headline": "A Horse day — Tiger and Dog are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "tiger",
+      "score": 95,
+      "reasons": [
+        "Tiger and Horse share a triad — strong alignment today"
+      ],
+      "luckyItem": "Pocket Notebook",
+      "luckyColor": {
+        "name": "Teal",
+        "hex": "#2A6B6F"
+      },
+      "motif": "a video watched twice",
+      "message": "Twice through already. Stop rewatching, go do the thing today."
+    },
+    {
+      "rank": 2,
+      "sign": "rooster",
+      "score": 72,
+      "reasons": [
+        "Rooster sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Coffee Scoop",
+      "luckyColor": {
+        "name": "Silver",
+        "hex": "#C0C0C0"
+      },
+      "motif": "an unplanned detour",
+      "message": "Take the wrong exit today. Whatever's down there is the plan."
+    },
+    {
+      "rank": 3,
+      "sign": "pig",
+      "score": 72,
+      "reasons": [
+        "Pig sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Boarding Pass",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "waking twenty minutes early",
+      "message": "Awake twenty minutes early. Get up and actually use them."
+    },
+    {
+      "rank": 4,
+      "sign": "goat",
+      "score": 69,
+      "reasons": [
+        "Goat pairs with Horse — a harmonious day"
+      ],
+      "luckyItem": "Shelf Riser",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "the walk skipped again",
+      "message": "Third day of talking yourself out of it. Shoes on, go."
+    },
+    {
+      "rank": 5,
+      "sign": "ox",
+      "score": 69,
+      "reasons": [
+        "Ox sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Iron-On Patch",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "the free thing with a catch",
+      "message": "Free, technically. Read what they want from you, then take it."
+    },
+    {
+      "rank": 6,
+      "sign": "rabbit",
+      "score": 61,
+      "reasons": [
+        "Rabbit sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Skipping Stone",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "the trip talked about for a year",
+      "message": "A year of talking about it. Put real dates in the chat."
+    },
+    {
+      "rank": 7,
+      "sign": "horse",
+      "score": 61,
+      "reasons": [
+        "Horse's own day — your energy runs high"
+      ],
+      "luckyItem": "Canyon Map",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "a compliment you replayed",
+      "message": "You've replayed that one line all week. Believe it, move on."
+    },
+    {
+      "rank": 8,
+      "sign": "snake",
+      "score": 58,
+      "reasons": [
+        "Snake sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Cable Pouch",
+      "luckyColor": {
+        "name": "Dark Green",
+        "hex": "#1F5C36"
+      },
+      "motif": "the chat muted six months ago",
+      "message": "Half a year on mute. Skim the last ten, reply once."
+    },
+    {
+      "rank": 9,
+      "sign": "dragon",
+      "score": 57,
+      "reasons": [
+        "Dragon sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Puzzle Cube",
+      "luckyColor": {
+        "name": "Yellow",
+        "hex": "#F0C419"
+      },
+      "motif": "a table booked for the wrong day",
+      "message": "You booked the wrong night. Take the accidental free evening."
+    },
+    {
+      "rank": 10,
+      "sign": "monkey",
+      "score": 54,
+      "reasons": [
+        "Monkey sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Binder Clip",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "something in the freezer since spring",
+      "message": "That icy thing from March keeps another week. Order something."
+    },
+    {
+      "rank": 11,
+      "sign": "dog",
+      "score": 52,
+      "reasons": [
+        "Dog and Horse share a triad — strong alignment today"
+      ],
+      "luckyItem": "Locker Key",
+      "luckyColor": {
+        "name": "Mustard",
+        "hex": "#C9A227"
+      },
+      "motif": "something opened for the first time",
+      "message": "You finally opened it. That was the whole event, stop there."
+    },
+    {
+      "rank": 12,
+      "sign": "rat",
+      "score": 48,
+      "reasons": [
+        "Rat opposes Horse — a day to take slowly"
+      ],
+      "luckyItem": "Reading Glasses",
+      "luckyColor": {
+        "name": "Purple",
+        "hex": "#7B3FA0"
+      },
+      "motif": "a reservation for four",
+      "message": "Table for four tonight. Push it a week, stay in."
+    }
+  ]
+}

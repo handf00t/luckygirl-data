@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-01",
+  "version": 1,
+  "generatedAt": "2026-09-07T09:53:17.337Z",
+  "day": {
+    "animal": "ox",
+    "branch": "丑",
+    "headline": "A Ox day — Snake and Rooster are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "snake",
+      "score": 95,
+      "reasons": [
+        "Snake and Ox share a triad — strong alignment today"
+      ],
+      "luckyItem": "Knee Socks",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "motif": "sleep you owe yourself",
+      "message": "Collect it tonight. In bed by ten, nothing left to discuss."
+    },
+    {
+      "rank": 2,
+      "sign": "horse",
+      "score": 83,
+      "reasons": [
+        "Horse sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Fridge Sticker",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "an early night that never happens",
+      "message": "The early night you keep rescheduling. Cancel the nine o'clock thing."
+    },
+    {
+      "rank": 3,
+      "sign": "rat",
+      "score": 81,
+      "reasons": [
+        "Rat pairs with Ox — a harmonious day"
+      ],
+      "luckyItem": "Tea Infuser",
+      "luckyColor": {
+        "name": "Violet",
+        "hex": "#6A4C93"
+      },
+      "motif": "sunglasses with one arm loose",
+      "message": "The optical shop fixes that in two minutes. Go today."
+    },
+    {
+      "rank": 4,
+      "sign": "dog",
+      "score": 81,
+      "reasons": [
+        "Dog sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Collar Pin",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "motif": "someone you envy slightly",
+      "message": "Just ask her how she did it. Curiosity beats seething."
+    },
+    {
+      "rank": 5,
+      "sign": "rooster",
+      "score": 79,
+      "reasons": [
+        "Rooster and Ox share a triad — strong alignment today"
+      ],
+      "luckyItem": "Travel Bottle",
+      "luckyColor": {
+        "name": "Purple",
+        "hex": "#7B3FA0"
+      },
+      "motif": "the stairwell nobody uses",
+      "message": "Nobody uses it. Take your call down there, fully uninterrupted."
+    },
+    {
+      "rank": 6,
+      "sign": "goat",
+      "score": 76,
+      "reasons": [
+        "Goat opposes Ox — a day to take slowly"
+      ],
+      "luckyItem": "Silk Pillowcase",
+      "luckyColor": {
+        "name": "Red",
+        "hex": "#CC3333"
+      },
+      "motif": "the dread before a phone call",
+      "message": "The dread lasts longer than the call. Dial, then breathe."
+    },
+    {
+      "rank": 7,
+      "sign": "monkey",
+      "score": 75,
+      "reasons": [
+        "Monkey sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Poster Paint",
+      "luckyColor": {
+        "name": "Silver",
+        "hex": "#C0C0C0"
+      },
+      "motif": "the box never fully unpacked",
+      "message": "Open it, keep three things, recycle the rest. Twenty minutes."
+    },
+    {
+      "rank": 8,
+      "sign": "pig",
+      "score": 72,
+      "reasons": [
+        "Pig sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Trivet",
+      "luckyColor": {
+        "name": "Pink",
+        "hex": "#E88BAE"
+      },
+      "motif": "a list with two items crossed off",
+      "message": "Two down. Pick the smallest one left, then close the app."
+    },
+    {
+      "rank": 9,
+      "sign": "tiger",
+      "score": 66,
+      "reasons": [
+        "Tiger sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Puzzle Cube",
+      "luckyColor": {
+        "name": "Lime",
+        "hex": "#8BC34A"
+      },
+      "motif": "doing one thing slowly on purpose",
+      "message": "Do one thing at half speed today. Start with the matcha."
+    },
+    {
+      "rank": 10,
+      "sign": "ox",
+      "score": 64,
+      "reasons": [
+        "Ox's own day — your energy runs high"
+      ],
+      "luckyItem": "Sheet Mask",
+      "luckyColor": {
+        "name": "Teal",
+        "hex": "#2A6B6F"
+      },
+      "motif": "someone in your reserved seat",
+      "message": "Somebody's parked in your spot. Let them, take the row behind."
+    },
+    {
+      "rank": 11,
+      "sign": "dragon",
+      "score": 64,
+      "reasons": [
+        "Dragon sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Colander",
+      "luckyColor": {
+        "name": "Charcoal",
+        "hex": "#3A3A3A"
+      },
+      "motif": "a plant that needs repotting",
+      "message": "Root-bound, sure, but that's a spring job. Water it, walk away."
+    },
+    {
+      "rank": 12,
+      "sign": "rabbit",
+      "score": 48,
+      "reasons": [
+        "Rabbit sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Cabinet Knob",
+      "luckyColor": {
+        "name": "Mustard",
+        "hex": "#C9A227"
+      },
+      "motif": "a wardrobe out of season",
+      "message": "Half that closet's for July. Wear the same sweater again, happily."
+    }
+  ]
+}
