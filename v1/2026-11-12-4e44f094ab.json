@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-12",
+  "version": 1,
+  "generatedAt": "2026-09-14T10:18:35.198Z",
+  "day": {
+    "animal": "rat",
+    "branch": "子",
+    "headline": "A Rat day — Dragon and Monkey are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "ox",
+      "score": 93,
+      "reasons": [
+        "Ox pairs with Rat — a harmonious day"
+      ],
+      "luckyItem": "Chunky Cardigan",
+      "luckyColor": {
+        "name": "Green",
+        "hex": "#2E8B4F"
+      },
+      "motif": "a package out for delivery",
+      "message": "It's on the truck. Open it the minute it hits your doorstep."
+    },
+    {
+      "rank": 2,
+      "sign": "goat",
+      "score": 80,
+      "reasons": [
+        "Goat sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Stud Earrings",
+      "luckyColor": {
+        "name": "Gold",
+        "hex": "#D4A017"
+      },
+      "motif": "a plan that sounded better yesterday",
+      "message": "Past you was thrilled. Tell them plainly, then pitch something better."
+    },
+    {
+      "rank": 3,
+      "sign": "rat",
+      "score": 78,
+      "reasons": [
+        "Rat's own day — your energy runs high"
+      ],
+      "luckyItem": "Hair Oil",
+      "luckyColor": {
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
+      },
+      "motif": "dishes in the sink",
+      "message": "Empty the sink before you leave. The whole place looks different."
+    },
+    {
+      "rank": 4,
+      "sign": "rooster",
+      "score": 77,
+      "reasons": [
+        "Rooster sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Scalp Massager",
+      "luckyColor": {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      "motif": "the thing you keep checking",
+      "message": "Stop opening that tab hourly. Go ask someone who actually knows."
+    },
+    {
+      "rank": 5,
+      "sign": "monkey",
+      "score": 71,
+      "reasons": [
+        "Monkey and Rat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Whiteboard Marker",
+      "luckyColor": {
+        "name": "Red",
+        "hex": "#CC3333"
+      },
+      "motif": "the person you owe an answer",
+      "message": "Two sentences clears it. Send them, stop carrying it around."
+    },
+    {
+      "rank": 6,
+      "sign": "horse",
+      "score": 69,
+      "reasons": [
+        "Horse opposes Rat — a day to take slowly"
+      ],
+      "luckyItem": "Under Eye Patch",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "motif": "a small win nobody saw",
+      "message": "Nobody clocked it. Tell the group chat, it counts out loud."
+    },
+    {
+      "rank": 7,
+      "sign": "pig",
+      "score": 64,
+      "reasons": [
+        "Pig sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Jacks",
+      "luckyColor": {
+        "name": "Purple",
+        "hex": "#7B3FA0"
+      },
+      "motif": "an appointment to reschedule",
+      "message": "Move it now, while the calendar's open. One message, done."
+    },
+    {
+      "rank": 8,
+      "sign": "dragon",
+      "score": 57,
+      "reasons": [
+        "Dragon and Rat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Stacking Cup",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "a story about you that is nearly true",
+      "message": "Fix the one detail that's wrong, let the rest ride."
+    },
+    {
+      "rank": 9,
+      "sign": "rabbit",
+      "score": 54,
+      "reasons": [
+        "Rabbit sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Mousepad",
+      "luckyColor": {
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
+      },
+      "motif": "the lift on a Monday",
+      "message": "Everyone's quiet, everyone's tired. Stand there, don't fill the silence."
+    },
+    {
+      "rank": 10,
+      "sign": "snake",
+      "score": 53,
+      "reasons": [
+        "Snake sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Sketchbook",
+      "luckyColor": {
+        "name": "Coral",
+        "hex": "#E96B5A"
+      },
+      "motif": "one deep breath at the door",
+      "message": "Hand on the handle, one long breath. Then go in slow."
+    },
+    {
+      "rank": 11,
+      "sign": "tiger",
+      "score": 45,
+      "reasons": [
+        "Tiger sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Turtleneck",
+      "luckyColor": {
+        "name": "Pink",
+        "hex": "#E88BAE"
+      },
+      "motif": "a receipt used as a bookmark",
+      "message": "A coffee receipt holding your page. It's doing the job fine."
+    },
+    {
+      "rank": 12,
+      "sign": "dog",
+      "score": 36,
+      "reasons": [
+        "Dog sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Button Tin",
+      "luckyColor": {
+        "name": "Dark Green",
+        "hex": "#1F5C36"
+      },
+      "motif": "a lift with someone in it",
+      "message": "Doors open, someone's already in there. Wait for the next one."
+    }
+  ]
+}

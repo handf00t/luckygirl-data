@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-08",
+  "version": 1,
+  "generatedAt": "2026-09-14T10:16:38.572Z",
+  "day": {
+    "animal": "monkey",
+    "branch": "申",
+    "headline": "A Monkey day — Rat and Dragon are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "snake",
+      "score": 94,
+      "reasons": [
+        "Snake pairs with Monkey — a harmonious day"
+      ],
+      "luckyItem": "Seam Ripper",
+      "luckyColor": {
+        "name": "Beige",
+        "hex": "#D9C7AE"
+      },
+      "motif": "Thursday pretending to be Friday",
+      "message": "Today's acting like a Friday. Let it. Send the invite."
+    },
+    {
+      "rank": 2,
+      "sign": "rat",
+      "score": 88,
+      "reasons": [
+        "Rat and Monkey share a triad — strong alignment today"
+      ],
+      "luckyItem": "Fairy Lights",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "a route you never vary",
+      "message": "Same three blocks every day. Pick a new one this morning."
+    },
+    {
+      "rank": 3,
+      "sign": "dog",
+      "score": 85,
+      "reasons": [
+        "Dog sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Boarding Card Holder",
+      "luckyColor": {
+        "name": "Violet",
+        "hex": "#6A4C93"
+      },
+      "motif": "something left mid-sentence",
+      "message": "You stopped halfway through saying it. Go back, finish the thought."
+    },
+    {
+      "rank": 4,
+      "sign": "monkey",
+      "score": 83,
+      "reasons": [
+        "Monkey's own day — your energy runs high"
+      ],
+      "luckyItem": "Shoe Insoles",
+      "luckyColor": {
+        "name": "Green",
+        "hex": "#2E8B4F"
+      },
+      "motif": "the reply rewritten four times",
+      "message": "Version four isn't better than version one. Send the first one."
+    },
+    {
+      "rank": 5,
+      "sign": "rabbit",
+      "score": 76,
+      "reasons": [
+        "Rabbit sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Cable Clip",
+      "luckyColor": {
+        "name": "Denim Blue",
+        "hex": "#3F5C7A"
+      },
+      "motif": "a window that has not opened this month",
+      "message": "Unstick that window today. Ten minutes of actual air in there."
+    },
+    {
+      "rank": 6,
+      "sign": "ox",
+      "score": 72,
+      "reasons": [
+        "Ox sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Road Trip Playlist",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "a dinner that took too long",
+      "message": "That dinner ate the whole evening. Tonight, eat something quick."
+    },
+    {
+      "rank": 7,
+      "sign": "tiger",
+      "score": 67,
+      "reasons": [
+        "Tiger opposes Monkey — a day to take slowly"
+      ],
+      "luckyItem": "Rooftop Table",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "a password about to expire",
+      "message": "Change the password now, while you're already at the keyboard."
+    },
+    {
+      "rank": 8,
+      "sign": "goat",
+      "score": 64,
+      "reasons": [
+        "Goat sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Legal Pad",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "motif": "an unused gift card",
+      "message": "That card's been in your wallet since spring. Spend it today."
+    },
+    {
+      "rank": 9,
+      "sign": "dragon",
+      "score": 60,
+      "reasons": [
+        "Dragon and Monkey share a triad — strong alignment today"
+      ],
+      "luckyItem": "Stitch Marker",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "a new sign on an old door",
+      "message": "New name over that old door. No need to investigate today."
+    },
+    {
+      "rank": 10,
+      "sign": "horse",
+      "score": 54,
+      "reasons": [
+        "Horse sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Loyalty Card",
+      "luckyColor": {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      "motif": "a book started on a train",
+      "message": "The book from the train ride. Bookmark stays put another day."
+    },
+    {
+      "rank": 11,
+      "sign": "rooster",
+      "score": 53,
+      "reasons": [
+        "Rooster sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Bike Shorts",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "a saved recipe never cooked",
+      "message": "Saved that recipe months ago. Tonight's still not the night."
+    },
+    {
+      "rank": 12,
+      "sign": "pig",
+      "score": 35,
+      "reasons": [
+        "Pig sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Foot Warmer",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "the sofa you sink into",
+      "message": "Sink into it early tonight. That's the whole plan, no guilt."
+    }
+  ]
+}

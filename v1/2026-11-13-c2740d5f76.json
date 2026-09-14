@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-13",
+  "version": 1,
+  "generatedAt": "2026-09-14T10:19:01.282Z",
+  "day": {
+    "animal": "ox",
+    "branch": "丑",
+    "headline": "A Ox day — Snake and Rooster are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "ox",
+      "score": 88,
+      "reasons": [
+        "Ox's own day — your energy runs high"
+      ],
+      "luckyItem": "Desk Fan",
+      "luckyColor": {
+        "name": "Denim Blue",
+        "hex": "#3F5C7A"
+      },
+      "motif": "an email sitting in drafts",
+      "message": "Send the draft before you reread it a fifth time."
+    },
+    {
+      "rank": 2,
+      "sign": "snake",
+      "score": 86,
+      "reasons": [
+        "Snake and Ox share a triad — strong alignment today"
+      ],
+      "luckyItem": "Ink Bottle",
+      "luckyColor": {
+        "name": "Lemon",
+        "hex": "#F5E05A"
+      },
+      "motif": "an ID photo you regret",
+      "message": "Book the retake today. That photo's been slandering you for years."
+    },
+    {
+      "rank": 3,
+      "sign": "dog",
+      "score": 72,
+      "reasons": [
+        "Dog sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Hair Slide",
+      "luckyColor": {
+        "name": "Teal",
+        "hex": "#2A6B6F"
+      },
+      "motif": "the place that closes early",
+      "message": "It's shut by four. Make it your first stop today."
+    },
+    {
+      "rank": 4,
+      "sign": "monkey",
+      "score": 67,
+      "reasons": [
+        "Monkey sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Honey Dipper",
+      "luckyColor": {
+        "name": "Yellow",
+        "hex": "#F0C419"
+      },
+      "motif": "something working despite itself",
+      "message": "Held together by nothing and thriving. Push it further today."
+    },
+    {
+      "rank": 5,
+      "sign": "rooster",
+      "score": 64,
+      "reasons": [
+        "Rooster and Ox share a triad — strong alignment today"
+      ],
+      "luckyItem": "Paper Clips",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "the standard you quietly lowered",
+      "message": "You started accepting worse. Put the bar back where it was."
+    },
+    {
+      "rank": 6,
+      "sign": "rat",
+      "score": 61,
+      "reasons": [
+        "Rat pairs with Ox — a harmonious day"
+      ],
+      "luckyItem": "Pearl Pin",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "a herb that never lasts",
+      "message": "The basil's going again. Use what's left in tonight's dinner."
+    },
+    {
+      "rank": 7,
+      "sign": "horse",
+      "score": 60,
+      "reasons": [
+        "Horse sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Silver Hoops",
+      "luckyColor": {
+        "name": "Beige",
+        "hex": "#D9C7AE"
+      },
+      "motif": "the quiet hour before anyone arrives",
+      "message": "Nobody's in yet. Do the one task you keep dodging."
+    },
+    {
+      "rank": 8,
+      "sign": "pig",
+      "score": 57,
+      "reasons": [
+        "Pig sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Pastry Brush",
+      "luckyColor": {
+        "name": "Salmon",
+        "hex": "#EE8A76"
+      },
+      "motif": "the first version of anything",
+      "message": "Make the ugly first pass today. It's supposed to be ugly."
+    },
+    {
+      "rank": 9,
+      "sign": "rabbit",
+      "score": 56,
+      "reasons": [
+        "Rabbit sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Step Stool",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "a heat that slows the day",
+      "message": "Eighty-eight degrees in November. Move slowly, stay where the shade is."
+    },
+    {
+      "rank": 10,
+      "sign": "dragon",
+      "score": 52,
+      "reasons": [
+        "Dragon sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Woven Basket",
+      "luckyColor": {
+        "name": "Silver",
+        "hex": "#C0C0C0"
+      },
+      "motif": "a mood that arrived without warning",
+      "message": "It showed up uninvited. No need to explain it to anyone."
+    },
+    {
+      "rank": 11,
+      "sign": "tiger",
+      "score": 46,
+      "reasons": [
+        "Tiger sits apart from Ox — the day is yours to steer"
+      ],
+      "luckyItem": "Nail Buffer",
+      "luckyColor": {
+        "name": "Lime",
+        "hex": "#8BC34A"
+      },
+      "motif": "a chapter read three times",
+      "message": "Third pass and it still won't stick. Shut the book."
+    },
+    {
+      "rank": 12,
+      "sign": "goat",
+      "score": 38,
+      "reasons": [
+        "Goat opposes Ox — a day to take slowly"
+      ],
+      "luckyItem": "Spare Button",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "a window stared through",
+      "message": "Pick the window, stare at nothing, let the afternoon go."
+    }
+  ]
+}

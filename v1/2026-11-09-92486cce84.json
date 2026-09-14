@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-09",
+  "version": 1,
+  "generatedAt": "2026-09-14T10:17:09.237Z",
+  "day": {
+    "animal": "rooster",
+    "branch": "酉",
+    "headline": "A Rooster day — Ox and Snake are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "ox",
+      "score": 99,
+      "reasons": [
+        "Ox and Rooster share a triad — strong alignment today"
+      ],
+      "luckyItem": "Denim Jacket",
+      "luckyColor": {
+        "name": "Violet",
+        "hex": "#6A4C93"
+      },
+      "motif": "the escalator on the left",
+      "message": "Left side's for walking. Take it at pace, no apologies."
+    },
+    {
+      "rank": 2,
+      "sign": "rooster",
+      "score": 86,
+      "reasons": [
+        "Rooster's own day — your energy runs high"
+      ],
+      "luckyItem": "Sunscreen Stick",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "the back row",
+      "message": "Don't hide in the back row today. Walk down front."
+    },
+    {
+      "rank": 3,
+      "sign": "goat",
+      "score": 76,
+      "reasons": [
+        "Goat sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Sea Glass",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "motif": "a door held open",
+      "message": "Someone's holding it for you. Walk through, don't jog apologetically."
+    },
+    {
+      "rank": 4,
+      "sign": "monkey",
+      "score": 73,
+      "reasons": [
+        "Monkey sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Brass Bookmark",
+      "luckyColor": {
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
+      },
+      "motif": "the queue before eight",
+      "message": "Out the door by eight, ahead of the line. Go."
+    },
+    {
+      "rank": 5,
+      "sign": "rabbit",
+      "score": 71,
+      "reasons": [
+        "Rabbit opposes Rooster — a day to take slowly"
+      ],
+      "luckyItem": "Pill Tin",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "a delivery box not broken down",
+      "message": "That box by the door. Flatten it, thirty seconds, gone."
+    },
+    {
+      "rank": 6,
+      "sign": "snake",
+      "score": 64,
+      "reasons": [
+        "Snake and Rooster share a triad — strong alignment today"
+      ],
+      "luckyItem": "Card Holder",
+      "luckyColor": {
+        "name": "Teal",
+        "hex": "#2A6B6F"
+      },
+      "motif": "the double booking on Saturday",
+      "message": "You said yes twice for Saturday. Pick one, tell them today."
+    },
+    {
+      "rank": 7,
+      "sign": "dog",
+      "score": 58,
+      "reasons": [
+        "Dog sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Car Charger",
+      "luckyColor": {
+        "name": "Dark Green",
+        "hex": "#1F5C36"
+      },
+      "motif": "the museum with free entry",
+      "message": "It's free today. One room, not the whole museum."
+    },
+    {
+      "rank": 8,
+      "sign": "horse",
+      "score": 57,
+      "reasons": [
+        "Horse sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Dice Set",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "the library book overdue",
+      "message": "It's late already. Put it by your keys, return tomorrow."
+    },
+    {
+      "rank": 9,
+      "sign": "pig",
+      "score": 53,
+      "reasons": [
+        "Pig sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Easel",
+      "luckyColor": {
+        "name": "Dark Red",
+        "hex": "#8B1A1A"
+      },
+      "motif": "a warranty about to lapse",
+      "message": "Coverage runs out this week. Nothing's broken, let it lapse."
+    },
+    {
+      "rank": 10,
+      "sign": "dragon",
+      "score": 52,
+      "reasons": [
+        "Dragon pairs with Rooster — a harmonious day"
+      ],
+      "luckyItem": "Fleece Earmuffs",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "a bruise from nothing",
+      "message": "A bruise from nowhere. Not a mystery, just a slow day."
+    },
+    {
+      "rank": 11,
+      "sign": "tiger",
+      "score": 46,
+      "reasons": [
+        "Tiger sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Logo Cap",
+      "luckyColor": {
+        "name": "Green",
+        "hex": "#2E8B4F"
+      },
+      "motif": "the ask you keep shrinking",
+      "message": "You've edited that ask down to crumbs. Close the draft tonight."
+    },
+    {
+      "rank": 12,
+      "sign": "rat",
+      "score": 43,
+      "reasons": [
+        "Rat sits apart from Rooster — the day is yours to steer"
+      ],
+      "luckyItem": "Compass Set",
+      "luckyColor": {
+        "name": "Silver",
+        "hex": "#C0C0C0"
+      },
+      "motif": "a broken zip",
+      "message": "The zip's done. Wear something that goes over your head instead."
+    }
+  ]
+}

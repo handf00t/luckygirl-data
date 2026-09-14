@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-10",
+  "version": 1,
+  "generatedAt": "2026-09-14T10:17:39.101Z",
+  "day": {
+    "animal": "dog",
+    "branch": "戌",
+    "headline": "A Dog day — Tiger and Horse are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "horse",
+      "score": 90,
+      "reasons": [
+        "Horse and Dog share a triad — strong alignment today"
+      ],
+      "luckyItem": "Magnifier",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "feeling briefly competent",
+      "message": "You're good at this for about an hour. Use it now."
+    },
+    {
+      "rank": 2,
+      "sign": "rabbit",
+      "score": 83,
+      "reasons": [
+        "Rabbit pairs with Dog — a harmonious day"
+      ],
+      "luckyItem": "Hand Towel",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "the receipt longer than the purchase",
+      "message": "Comically long receipt for a tiny thing. Save it, go swap."
+    },
+    {
+      "rank": 3,
+      "sign": "goat",
+      "score": 80,
+      "reasons": [
+        "Goat sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Parking Meter",
+      "luckyColor": {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      "motif": "someone remembering a small detail",
+      "message": "She remembered the thing you mentioned once. Tell her it landed."
+    },
+    {
+      "rank": 4,
+      "sign": "dog",
+      "score": 74,
+      "reasons": [
+        "Dog's own day — your energy runs high"
+      ],
+      "luckyItem": "Bobby Pins",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "a phrase you overuse",
+      "message": "That phrase you lean on too much. Still works, use it."
+    },
+    {
+      "rank": 5,
+      "sign": "ox",
+      "score": 72,
+      "reasons": [
+        "Ox sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Sleep Mask",
+      "luckyColor": {
+        "name": "Light Pink",
+        "hex": "#F2B8CC"
+      },
+      "motif": "a meal someone else chooses",
+      "message": "Someone else picked the place. Show up hungry, no opinions needed."
+    },
+    {
+      "rank": 6,
+      "sign": "snake",
+      "score": 67,
+      "reasons": [
+        "Snake sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Measuring Tape",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "a car park level you forget",
+      "message": "Photograph the level number before you walk off. Two seconds."
+    },
+    {
+      "rank": 7,
+      "sign": "pig",
+      "score": 66,
+      "reasons": [
+        "Pig sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Passport Cover",
+      "luckyColor": {
+        "name": "Red",
+        "hex": "#CC3333"
+      },
+      "motif": "a park with one good bench",
+      "message": "That one decent bench, ten minutes on it. Then carry on."
+    },
+    {
+      "rank": 8,
+      "sign": "tiger",
+      "score": 63,
+      "reasons": [
+        "Tiger and Dog share a triad — strong alignment today"
+      ],
+      "luckyItem": "Canvas Tote",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "posture at the end of the day",
+      "message": "You're folded in half by six. Stand up, shake it out."
+    },
+    {
+      "rank": 9,
+      "sign": "rat",
+      "score": 57,
+      "reasons": [
+        "Rat sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Face Mist",
+      "luckyColor": {
+        "name": "Lime",
+        "hex": "#8BC34A"
+      },
+      "motif": "a password you keep resetting",
+      "message": "Fourth reset this month. Let the browser hold it, move on."
+    },
+    {
+      "rank": 10,
+      "sign": "rooster",
+      "score": 49,
+      "reasons": [
+        "Rooster sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Bag Charm",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "a chapter you keep re-reading",
+      "message": "Same chapter, fourth time. Read it again, nobody's timing you."
+    },
+    {
+      "rank": 11,
+      "sign": "monkey",
+      "score": 41,
+      "reasons": [
+        "Monkey sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Knee Blanket",
+      "luckyColor": {
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
+      },
+      "motif": "sun through a bus window",
+      "message": "Window seat, sun on your face, nowhere to be yet."
+    },
+    {
+      "rank": 12,
+      "sign": "dragon",
+      "score": 39,
+      "reasons": [
+        "Dragon opposes Dog — a day to take slowly"
+      ],
+      "luckyItem": "Washi Tape",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "a package waiting to go back",
+      "message": "It's been by the door for days. Another day's fine."
+    }
+  ]
+}
