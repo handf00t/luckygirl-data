@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-17",
+  "version": 1,
+  "generatedAt": "2026-09-21T10:21:50.030Z",
+  "day": {
+    "animal": "snake",
+    "branch": "巳",
+    "headline": "A Snake day — Ox and Rooster are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "ox",
+      "score": 94,
+      "reasons": [
+        "Ox and Snake share a triad — strong alignment today"
+      ],
+      "luckyItem": "Phrasebook",
+      "luckyColor": {
+        "name": "Charcoal",
+        "hex": "#3A3A3A"
+      },
+      "motif": "the pen about to run out",
+      "message": "That pen's nearly dead. Write the thing before it quits."
+    },
+    {
+      "rank": 2,
+      "sign": "snake",
+      "score": 87,
+      "reasons": [
+        "Snake's own day — your energy runs high"
+      ],
+      "luckyItem": "Kitchen Timer",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "a chair set too low",
+      "message": "Raise the chair before you sit. Thirty seconds, different day."
+    },
+    {
+      "rank": 3,
+      "sign": "monkey",
+      "score": 84,
+      "reasons": [
+        "Monkey pairs with Snake — a harmonious day"
+      ],
+      "luckyItem": "Clothes Steamer",
+      "luckyColor": {
+        "name": "Pink",
+        "hex": "#E88BAE"
+      },
+      "motif": "a dog you always see",
+      "message": "Ask his name today. You've nodded at that dog for months."
+    },
+    {
+      "rank": 4,
+      "sign": "rabbit",
+      "score": 83,
+      "reasons": [
+        "Rabbit sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Letter Opener",
+      "luckyColor": {
+        "name": "Green",
+        "hex": "#2E8B4F"
+      },
+      "motif": "a photo album not opened since",
+      "message": "Pull that album out in daylight. Show someone a good one."
+    },
+    {
+      "rank": 5,
+      "sign": "rat",
+      "score": 82,
+      "reasons": [
+        "Rat sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Tea Tin",
+      "luckyColor": {
+        "name": "Beige",
+        "hex": "#D9C7AE"
+      },
+      "motif": "a service station",
+      "message": "Fill up now, not at empty. Grab a snack, keep moving."
+    },
+    {
+      "rank": 6,
+      "sign": "rooster",
+      "score": 81,
+      "reasons": [
+        "Rooster and Snake share a triad — strong alignment today"
+      ],
+      "luckyItem": "Enamel Mug",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "the shelf never hung",
+      "message": "Mark the wall where it goes. That's today's whole shelf project."
+    },
+    {
+      "rank": 7,
+      "sign": "tiger",
+      "score": 75,
+      "reasons": [
+        "Tiger sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Reusable Bag",
+      "luckyColor": {
+        "name": "Purple",
+        "hex": "#7B3FA0"
+      },
+      "motif": "the meeting that ran over",
+      "message": "It ate your afternoon. Drop one task, don't rebuild the day."
+    },
+    {
+      "rank": 8,
+      "sign": "dog",
+      "score": 68,
+      "reasons": [
+        "Dog sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Jade Roller",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "a decision you would take back",
+      "message": "Nothing to undo there. Let it sharpen the next call, quietly."
+    },
+    {
+      "rank": 9,
+      "sign": "horse",
+      "score": 59,
+      "reasons": [
+        "Horse sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Clip On Lens",
+      "luckyColor": {
+        "name": "Light Pink",
+        "hex": "#F2B8CC"
+      },
+      "motif": "the earrings that never match",
+      "message": "Wear the mismatched pair or none. Not a fussing morning."
+    },
+    {
+      "rank": 10,
+      "sign": "dragon",
+      "score": 53,
+      "reasons": [
+        "Dragon sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Chore Coat",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "tapping a doorframe on the way out",
+      "message": "Tap the wood, leave the rest of today unplanned."
+    },
+    {
+      "rank": 11,
+      "sign": "goat",
+      "score": 48,
+      "reasons": [
+        "Goat sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Chalk Stick",
+      "luckyColor": {
+        "name": "Mint",
+        "hex": "#9FD9BE"
+      },
+      "motif": "the recipe you always improvise",
+      "message": "Cook it by feel again tonight. Measuring cups stay away."
+    },
+    {
+      "rank": 12,
+      "sign": "pig",
+      "score": 47,
+      "reasons": [
+        "Pig opposes Snake — a day to take slowly"
+      ],
+      "luckyItem": "Film Camera",
+      "luckyColor": {
+        "name": "Coral",
+        "hex": "#E96B5A"
+      },
+      "motif": "the button held by one thread",
+      "message": "One thread's still doing its job. Don't test it today."
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-20",
+  "version": 1,
+  "generatedAt": "2026-09-21T10:23:07.887Z",
+  "day": {
+    "animal": "monkey",
+    "branch": "申",
+    "headline": "A Monkey day — Rat and Dragon are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "rat",
+      "score": 96,
+      "reasons": [
+        "Rat and Monkey share a triad — strong alignment today"
+      ],
+      "luckyItem": "Foam Roller",
+      "luckyColor": {
+        "name": "Salmon",
+        "hex": "#EE8A76"
+      },
+      "motif": "a song ruined by association",
+      "message": "Play it on the walk today. Take the song back."
+    },
+    {
+      "rank": 2,
+      "sign": "dragon",
+      "score": 94,
+      "reasons": [
+        "Dragon and Monkey share a triad — strong alignment today"
+      ],
+      "luckyItem": "Eraser Block",
+      "luckyColor": {
+        "name": "Yellow",
+        "hex": "#F0C419"
+      },
+      "motif": "someone in your reserved seat",
+      "message": "Show them your seat number. Politely, but you're not moving."
+    },
+    {
+      "rank": 3,
+      "sign": "rooster",
+      "score": 76,
+      "reasons": [
+        "Rooster sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Body Pillow",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "a scarf that belongs to someone else",
+      "message": "Wear it out today. Tell them it lives here now."
+    },
+    {
+      "rank": 4,
+      "sign": "ox",
+      "score": 76,
+      "reasons": [
+        "Ox sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Sticker Sheet",
+      "luckyColor": {
+        "name": "Silver",
+        "hex": "#C0C0C0"
+      },
+      "motif": "a cash machine charging you",
+      "message": "Three-fifty to touch your own money. Walk the extra block."
+    },
+    {
+      "rank": 5,
+      "sign": "monkey",
+      "score": 70,
+      "reasons": [
+        "Monkey's own day — your energy runs high"
+      ],
+      "luckyItem": "Mini Perfume",
+      "luckyColor": {
+        "name": "Red",
+        "hex": "#CC3333"
+      },
+      "motif": "a no you keep softening",
+      "message": "Drop the cushioning. Just no, no paragraph underneath it."
+    },
+    {
+      "rank": 6,
+      "sign": "dog",
+      "score": 69,
+      "reasons": [
+        "Dog sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Beach Towel",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "the deadline nobody enforces",
+      "message": "Nobody's chasing that one. Finish it anyway, get it off you."
+    },
+    {
+      "rank": 7,
+      "sign": "tiger",
+      "score": 69,
+      "reasons": [
+        "Tiger opposes Monkey — a day to take slowly"
+      ],
+      "luckyItem": "Harmonica",
+      "luckyColor": {
+        "name": "Purple",
+        "hex": "#7B3FA0"
+      },
+      "motif": "someone else planting something",
+      "message": "Your neighbor's out there with soil. Ask what's going in."
+    },
+    {
+      "rank": 8,
+      "sign": "snake",
+      "score": 68,
+      "reasons": [
+        "Snake pairs with Monkey — a harmonious day"
+      ],
+      "luckyItem": "Cloakroom Token",
+      "luckyColor": {
+        "name": "Pink",
+        "hex": "#E88BAE"
+      },
+      "motif": "a reply that only needs one word",
+      "message": "One word closes it. Send the word, skip the paragraph."
+    },
+    {
+      "rank": 9,
+      "sign": "goat",
+      "score": 63,
+      "reasons": [
+        "Goat sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Mason Jar",
+      "luckyColor": {
+        "name": "Gray",
+        "hex": "#8A8A8A"
+      },
+      "motif": "someone talking over you",
+      "message": "Let them run the room today. Your point keeps till Wednesday."
+    },
+    {
+      "rank": 10,
+      "sign": "horse",
+      "score": 63,
+      "reasons": [
+        "Horse sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Spice Jar",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "a jaw held tight",
+      "message": "Teeth apart all afternoon. Nothing today deserves that much grip."
+    },
+    {
+      "rank": 11,
+      "sign": "pig",
+      "score": 54,
+      "reasons": [
+        "Pig sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Dry Bag",
+      "luckyColor": {
+        "name": "Lime",
+        "hex": "#8BC34A"
+      },
+      "motif": "post piling up",
+      "message": "Mail's stacking up and none of it's urgent. Tomorrow."
+    },
+    {
+      "rank": 12,
+      "sign": "rabbit",
+      "score": 45,
+      "reasons": [
+        "Rabbit sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Coin Tray",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "the thing circled for weeks",
+      "message": "That date you circled can uncircle itself. Tonight's for nothing."
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-15",
+  "version": 1,
+  "generatedAt": "2026-09-21T10:20:50.356Z",
+  "day": {
+    "animal": "rabbit",
+    "branch": "卯",
+    "headline": "A Rabbit day — Goat and Pig are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "dog",
+      "score": 92,
+      "reasons": [
+        "Dog pairs with Rabbit — a harmonious day"
+      ],
+      "luckyItem": "Capsule Toy",
+      "luckyColor": {
+        "name": "Denim Blue",
+        "hex": "#3F5C7A"
+      },
+      "motif": "the account you should mute",
+      "message": "Mute them, don't unfollow. Nobody gets notified, nobody gets hurt."
+    },
+    {
+      "rank": 2,
+      "sign": "dragon",
+      "score": 83,
+      "reasons": [
+        "Dragon sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Texture Spray",
+      "luckyColor": {
+        "name": "Lemon",
+        "hex": "#F5E05A"
+      },
+      "motif": "a friend going through it",
+      "message": "She's been having a week. Call her, don't text."
+    },
+    {
+      "rank": 3,
+      "sign": "tiger",
+      "score": 79,
+      "reasons": [
+        "Tiger sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Soap Dish",
+      "luckyColor": {
+        "name": "Gold",
+        "hex": "#D4A017"
+      },
+      "motif": "the meal you always order",
+      "message": "Get the usual, skip the menu. You've never once regretted it."
+    },
+    {
+      "rank": 4,
+      "sign": "goat",
+      "score": 78,
+      "reasons": [
+        "Goat and Rabbit share a triad — strong alignment today"
+      ],
+      "luckyItem": "Ticket Lanyard",
+      "luckyColor": {
+        "name": "Gray",
+        "hex": "#8A8A8A"
+      },
+      "motif": "a shop closing down",
+      "message": "Final week for that place. Go buy the thing you eyed."
+    },
+    {
+      "rank": 5,
+      "sign": "snake",
+      "score": 71,
+      "reasons": [
+        "Snake sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Paper Shade",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "a table you have to wait for",
+      "message": "Leave your number, walk the block, come back properly hungry."
+    },
+    {
+      "rank": 6,
+      "sign": "rooster",
+      "score": 69,
+      "reasons": [
+        "Rooster opposes Rabbit — a day to take slowly"
+      ],
+      "luckyItem": "Phone Wallet",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "the washing up left until tomorrow",
+      "message": "Tomorrow arrived. Ten minutes at that sink, then you're free."
+    },
+    {
+      "rank": 7,
+      "sign": "horse",
+      "score": 63,
+      "reasons": [
+        "Horse sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Pencil Sharpener",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "the end of the month",
+      "message": "Two weeks left in this one. Pick something to actually finish."
+    },
+    {
+      "rank": 8,
+      "sign": "pig",
+      "score": 62,
+      "reasons": [
+        "Pig and Rabbit share a triad — strong alignment today"
+      ],
+      "luckyItem": "Sleep Socks",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "a project abandoned at eighty percent",
+      "message": "Open the file, do the easy twenty minutes, close it."
+    },
+    {
+      "rank": 9,
+      "sign": "monkey",
+      "score": 53,
+      "reasons": [
+        "Monkey sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Toner Bottle",
+      "luckyColor": {
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
+      },
+      "motif": "a stranger who helped",
+      "message": "Someone helped you and vanished. Nothing to repay, just remember it."
+    },
+    {
+      "rank": 10,
+      "sign": "rat",
+      "score": 51,
+      "reasons": [
+        "Rat sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Drawer Divider",
+      "luckyColor": {
+        "name": "Silver",
+        "hex": "#C0C0C0"
+      },
+      "motif": "tonight, sixty percent committed",
+      "message": "Let tonight go. Say so before six, then stay put."
+    },
+    {
+      "rank": 11,
+      "sign": "rabbit",
+      "score": 46,
+      "reasons": [
+        "Rabbit's own day — your energy runs high"
+      ],
+      "luckyItem": "Pocket Dictionary",
+      "luckyColor": {
+        "name": "Teal",
+        "hex": "#2A6B6F"
+      },
+      "motif": "the walk after eating",
+      "message": "Skip the loop around the block. Couch, straight after dinner."
+    },
+    {
+      "rank": 12,
+      "sign": "ox",
+      "score": 35,
+      "reasons": [
+        "Ox sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Wired Earbuds",
+      "luckyColor": {
+        "name": "Lime",
+        "hex": "#8BC34A"
+      },
+      "motif": "shoes that pinch on one side",
+      "message": "The left one bites. Wear the soft pair, go slowly."
+    }
+  ]
+}

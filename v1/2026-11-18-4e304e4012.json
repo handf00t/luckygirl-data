@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-18",
+  "version": 1,
+  "generatedAt": "2026-09-21T10:22:13.194Z",
+  "day": {
+    "animal": "horse",
+    "branch": "午",
+    "headline": "A Horse day — Tiger and Dog are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "horse",
+      "score": 89,
+      "reasons": [
+        "Horse's own day — your energy runs high"
+      ],
+      "luckyItem": "Ladle",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "something with an actual pocket",
+      "message": "Pockets today. Leave the bag, walk out with both hands free."
+    },
+    {
+      "rank": 2,
+      "sign": "rabbit",
+      "score": 85,
+      "reasons": [
+        "Rabbit sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Bento Box",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "a question you stopped asking",
+      "message": "You stopped asking months ago. Ask it again today, plainly."
+    },
+    {
+      "rank": 3,
+      "sign": "goat",
+      "score": 83,
+      "reasons": [
+        "Goat pairs with Horse — a harmonious day"
+      ],
+      "luckyItem": "Mechanical Pencil",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "someone calling at nine",
+      "message": "Phone rings at nine. Answer it, stay on a while."
+    },
+    {
+      "rank": 4,
+      "sign": "tiger",
+      "score": 83,
+      "reasons": [
+        "Tiger and Horse share a triad — strong alignment today"
+      ],
+      "luckyItem": "Ticket Wallet",
+      "luckyColor": {
+        "name": "Teal",
+        "hex": "#2A6B6F"
+      },
+      "motif": "the seat facing backwards",
+      "message": "Backwards seat's free. Sit in it, watch the city leave."
+    },
+    {
+      "rank": 5,
+      "sign": "snake",
+      "score": 82,
+      "reasons": [
+        "Snake sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Eye Drops",
+      "luckyColor": {
+        "name": "Violet",
+        "hex": "#6A4C93"
+      },
+      "motif": "a name you keep forgetting",
+      "message": "Blanked again. Ask once more, then save it in your phone."
+    },
+    {
+      "rank": 6,
+      "sign": "ox",
+      "score": 70,
+      "reasons": [
+        "Ox sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Petroleum Jelly",
+      "luckyColor": {
+        "name": "Light Pink",
+        "hex": "#F2B8CC"
+      },
+      "motif": "a corner of the day nobody uses",
+      "message": "That dead hour after lunch. Put one small thing there."
+    },
+    {
+      "rank": 7,
+      "sign": "dragon",
+      "score": 67,
+      "reasons": [
+        "Dragon sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Cotton Pads",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "the relief of a cancelled plan",
+      "message": "You're relieved it fell through. Don't reschedule it yet."
+    },
+    {
+      "rank": 8,
+      "sign": "dog",
+      "score": 61,
+      "reasons": [
+        "Dog and Horse share a triad — strong alignment today"
+      ],
+      "luckyItem": "Sewing Kit",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "a group chat plan going nowhere",
+      "message": "Forty messages, no plan. Name a day, let them argue."
+    },
+    {
+      "rank": 9,
+      "sign": "monkey",
+      "score": 54,
+      "reasons": [
+        "Monkey sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Paper Aeroplane",
+      "luckyColor": {
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
+      },
+      "motif": "feet after a long day",
+      "message": "Shoes off at the door tonight. Nothing else required."
+    },
+    {
+      "rank": 10,
+      "sign": "rat",
+      "score": 53,
+      "reasons": [
+        "Rat opposes Horse — a day to take slowly"
+      ],
+      "luckyItem": "Sun Cream Stick",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "motif": "a plus-one still undecided",
+      "message": "Still no name for that spot. Decide later this week."
+    },
+    {
+      "rank": 11,
+      "sign": "pig",
+      "score": 49,
+      "reasons": [
+        "Pig sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Character Keyring",
+      "luckyColor": {
+        "name": "Green",
+        "hex": "#2E8B4F"
+      },
+      "motif": "shoes at the back of the wardrobe",
+      "message": "Those good shoes stay buried today. Flats, no negotiation."
+    },
+    {
+      "rank": 12,
+      "sign": "rooster",
+      "score": 42,
+      "reasons": [
+        "Rooster sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Book Stack",
+      "luckyColor": {
+        "name": "Dark Green",
+        "hex": "#1F5C36"
+      },
+      "motif": "a window seat",
+      "message": "Take the corner by the glass. Sit there, no agenda."
+    }
+  ]
+}

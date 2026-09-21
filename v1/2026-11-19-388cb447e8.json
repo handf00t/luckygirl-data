@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-19",
+  "version": 1,
+  "generatedAt": "2026-09-21T10:22:46.504Z",
+  "day": {
+    "animal": "goat",
+    "branch": "未",
+    "headline": "A Goat day — Rabbit and Pig are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "rabbit",
+      "score": 94,
+      "reasons": [
+        "Rabbit and Goat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Tea Towel",
+      "luckyColor": {
+        "name": "Charcoal",
+        "hex": "#3A3A3A"
+      },
+      "motif": "a plan waiting on one reply",
+      "message": "One person hasn't answered. Call them, then lock the whole thing in."
+    },
+    {
+      "rank": 2,
+      "sign": "horse",
+      "score": 77,
+      "reasons": [
+        "Horse pairs with Goat — a harmonious day"
+      ],
+      "luckyItem": "Travel Mug",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "an old account still logged in",
+      "message": "Still logged into that old account. Use it today, while it lasts."
+    },
+    {
+      "rank": 3,
+      "sign": "pig",
+      "score": 74,
+      "reasons": [
+        "Pig and Goat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Magazine Clipping",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "the choice you keep deferring",
+      "message": "Pick the one you already wanted. Today, out loud."
+    },
+    {
+      "rank": 4,
+      "sign": "dragon",
+      "score": 73,
+      "reasons": [
+        "Dragon sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Bus Pass",
+      "luckyColor": {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      "motif": "a taxi you did not need",
+      "message": "Took a car for nine blocks. You're early, spend it well."
+    },
+    {
+      "rank": 5,
+      "sign": "monkey",
+      "score": 70,
+      "reasons": [
+        "Monkey sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Cashmere Sock",
+      "luckyColor": {
+        "name": "Rust",
+        "hex": "#A8502F"
+      },
+      "motif": "the last message of the night",
+      "message": "Type the goodnight text early tonight. Nothing improves after midnight."
+    },
+    {
+      "rank": 6,
+      "sign": "rooster",
+      "score": 68,
+      "reasons": [
+        "Rooster sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Dart Set",
+      "luckyColor": {
+        "name": "Denim Blue",
+        "hex": "#3F5C7A"
+      },
+      "motif": "the stairs instead of the lift",
+      "message": "Skip the elevator once today. Two floors, no announcement needed."
+    },
+    {
+      "rank": 7,
+      "sign": "goat",
+      "score": 68,
+      "reasons": [
+        "Goat's own day — your energy runs high"
+      ],
+      "luckyItem": "Milk Jug",
+      "luckyColor": {
+        "name": "Beige",
+        "hex": "#D9C7AE"
+      },
+      "motif": "something saved to read later",
+      "message": "Open one thing from the saved pile at lunch. Just one."
+    },
+    {
+      "rank": 8,
+      "sign": "dog",
+      "score": 64,
+      "reasons": [
+        "Dog sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Duvet Cover",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "motif": "a lamp with no bulb",
+      "message": "That lamp's been decorative a month. Grab a bulb while out."
+    },
+    {
+      "rank": 9,
+      "sign": "tiger",
+      "score": 63,
+      "reasons": [
+        "Tiger sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Fountain Pen",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "the cupboard under the sink",
+      "message": "Whatever's under the sink stays there today. Shut the door."
+    },
+    {
+      "rank": 10,
+      "sign": "ox",
+      "score": 55,
+      "reasons": [
+        "Ox opposes Goat — a day to take slowly"
+      ],
+      "luckyItem": "Swim Cap",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "water still untouched",
+      "message": "That glass has sat full since morning. Drink it, warm."
+    },
+    {
+      "rank": 11,
+      "sign": "rat",
+      "score": 54,
+      "reasons": [
+        "Rat sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Tailors Chalk",
+      "luckyColor": {
+        "name": "Coral",
+        "hex": "#E96B5A"
+      },
+      "motif": "a goodbye done badly",
+      "message": "That clumsy goodbye isn't today's assignment. Let it blur."
+    },
+    {
+      "rank": 12,
+      "sign": "snake",
+      "score": 46,
+      "reasons": [
+        "Snake sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Ring Light",
+      "luckyColor": {
+        "name": "Dark Red",
+        "hex": "#8B1A1A"
+      },
+      "motif": "something you keep re-reading",
+      "message": "You've reread it enough times. Phone face down, go horizontal."
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-16",
+  "version": 1,
+  "generatedAt": "2026-09-21T10:20:58.209Z",
+  "day": {
+    "animal": "dragon",
+    "branch": "辰",
+    "headline": "A Dragon day — Rat and Monkey are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "rat",
+      "score": 90,
+      "reasons": [
+        "Rat and Dragon share a triad — strong alignment today"
+      ],
+      "luckyItem": "Bubble Wand",
+      "luckyColor": {
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
+      },
+      "motif": "a housewarming across town",
+      "message": "Forty minutes of traffic for a good party. Worth it, go."
+    },
+    {
+      "rank": 2,
+      "sign": "monkey",
+      "score": 77,
+      "reasons": [
+        "Monkey and Dragon share a triad — strong alignment today"
+      ],
+      "luckyItem": "MagSafe Wallet",
+      "luckyColor": {
+        "name": "Mustard",
+        "hex": "#C9A227"
+      },
+      "motif": "a friendship winding down politely",
+      "message": "It ran its course. Say something warm, let it close cleanly."
+    },
+    {
+      "rank": 3,
+      "sign": "pig",
+      "score": 77,
+      "reasons": [
+        "Pig sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Beach Chair",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "motif": "birds at an odd hour",
+      "message": "Whatever's singing at 5am, get up and hear it out."
+    },
+    {
+      "rank": 4,
+      "sign": "rooster",
+      "score": 71,
+      "reasons": [
+        "Rooster pairs with Dragon — a harmonious day"
+      ],
+      "luckyItem": "Sunshade",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "a shortcut that is not one",
+      "message": "That back route costs you ten minutes. Take the boring freeway."
+    },
+    {
+      "rank": 5,
+      "sign": "rabbit",
+      "score": 69,
+      "reasons": [
+        "Rabbit sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Oven Mitt",
+      "luckyColor": {
+        "name": "Salmon",
+        "hex": "#EE8A76"
+      },
+      "motif": "being introduced incorrectly",
+      "message": "They got your title wrong. Correct it lightly, keep talking."
+    },
+    {
+      "rank": 6,
+      "sign": "ox",
+      "score": 67,
+      "reasons": [
+        "Ox sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Wooden Hanger",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "the last of the good weather",
+      "message": "Last warm stretch before it turns. Eat outside at lunch."
+    },
+    {
+      "rank": 7,
+      "sign": "horse",
+      "score": 65,
+      "reasons": [
+        "Horse sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Toothbrush Cup",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "an offer with a deadline",
+      "message": "It expires tonight. Decide by noon, then stop thinking about it."
+    },
+    {
+      "rank": 8,
+      "sign": "goat",
+      "score": 64,
+      "reasons": [
+        "Goat sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Hair Ribbon",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "motif": "a backup that never ran",
+      "message": "Nothing's synced since summer. Hit the button, go get coffee."
+    },
+    {
+      "rank": 9,
+      "sign": "dragon",
+      "score": 58,
+      "reasons": [
+        "Dragon's own day — your energy runs high"
+      ],
+      "luckyItem": "Embroidery Hoop",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "the tab open since Monday",
+      "message": "Four days open and unread. Close it, you're not reading it."
+    },
+    {
+      "rank": 10,
+      "sign": "dog",
+      "score": 49,
+      "reasons": [
+        "Dog opposes Dragon — a day to take slowly"
+      ],
+      "luckyItem": "Cuticle Oil",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "the shoes worn past saving",
+      "message": "Soles are done. Wear the other pair, deal with it later."
+    },
+    {
+      "rank": 11,
+      "sign": "snake",
+      "score": 43,
+      "reasons": [
+        "Snake sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Screen Protector",
+      "luckyColor": {
+        "name": "Rust",
+        "hex": "#A8502F"
+      },
+      "motif": "a garden nobody tends",
+      "message": "That overgrown yard isn't your project. Look at it, keep walking."
+    },
+    {
+      "rank": 12,
+      "sign": "tiger",
+      "score": 42,
+      "reasons": [
+        "Tiger sits apart from Dragon — the day is yours to steer"
+      ],
+      "luckyItem": "Hair Turban Towel",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "the beginner class you would enjoy",
+      "message": "The intro class keeps running. Sign up some other week."
+    }
+  ]
+}

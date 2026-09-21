@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-14",
+  "version": 1,
+  "generatedAt": "2026-09-21T10:20:22.782Z",
+  "day": {
+    "animal": "tiger",
+    "branch": "寅",
+    "headline": "A Tiger day — Horse and Dog are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "horse",
+      "score": 90,
+      "reasons": [
+        "Horse and Tiger share a triad — strong alignment today"
+      ],
+      "luckyItem": "Cover Charge",
+      "luckyColor": {
+        "name": "Rust",
+        "hex": "#A8502F"
+      },
+      "motif": "a supermarket at closing time",
+      "message": "Twenty minutes before they lock the doors. Go, move fast."
+    },
+    {
+      "rank": 2,
+      "sign": "tiger",
+      "score": 81,
+      "reasons": [
+        "Tiger's own day — your energy runs high"
+      ],
+      "luckyItem": "Shoe Polish",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "a train two minutes away",
+      "message": "Two minutes on the board. Run it, don't overthink the gap."
+    },
+    {
+      "rank": 3,
+      "sign": "rat",
+      "score": 66,
+      "reasons": [
+        "Rat sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Sheet Mask",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "motif": "a cart never checked out",
+      "message": "Nine things in that cart. Buy two, close the tab."
+    },
+    {
+      "rank": 4,
+      "sign": "goat",
+      "score": 66,
+      "reasons": [
+        "Goat sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Sheet Music",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "the story you tell too often",
+      "message": "Your signature bit. Do it loud tonight, full commitment."
+    },
+    {
+      "rank": 5,
+      "sign": "monkey",
+      "score": 63,
+      "reasons": [
+        "Monkey opposes Tiger — a day to take slowly"
+      ],
+      "luckyItem": "Draught Blanket",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "a number never saved",
+      "message": "That number you keep recognizing. Save it under a real name."
+    },
+    {
+      "rank": 6,
+      "sign": "rabbit",
+      "score": 62,
+      "reasons": [
+        "Rabbit sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Coat Check Stub",
+      "luckyColor": {
+        "name": "Light Pink",
+        "hex": "#F2B8CC"
+      },
+      "motif": "dinner eaten at the wrong hour",
+      "message": "Dinner at four. Commit to it, don't call it a snack."
+    },
+    {
+      "rank": 7,
+      "sign": "snake",
+      "score": 59,
+      "reasons": [
+        "Snake sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Correction Tape",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "the safe option and the other one",
+      "message": "Take the boring one today. The bold one keeps."
+    },
+    {
+      "rank": 8,
+      "sign": "pig",
+      "score": 56,
+      "reasons": [
+        "Pig pairs with Tiger — a harmonious day"
+      ],
+      "luckyItem": "Cooling Rack",
+      "luckyColor": {
+        "name": "Mint",
+        "hex": "#9FD9BE"
+      },
+      "motif": "a night of odd dreams",
+      "message": "Strange night in there. Note one image, then get on with it."
+    },
+    {
+      "rank": 9,
+      "sign": "dog",
+      "score": 55,
+      "reasons": [
+        "Dog and Tiger share a triad — strong alignment today"
+      ],
+      "luckyItem": "Wavy Vase",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "the thought you cannot finish",
+      "message": "It won't go into words today. Let it stay half-formed."
+    },
+    {
+      "rank": 10,
+      "sign": "ox",
+      "score": 45,
+      "reasons": [
+        "Ox sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Hammock",
+      "luckyColor": {
+        "name": "Charcoal",
+        "hex": "#3A3A3A"
+      },
+      "motif": "a lunch brought and forgotten",
+      "message": "Lunch is still on your counter. Grab whatever's nearest, no ceremony."
+    },
+    {
+      "rank": 11,
+      "sign": "dragon",
+      "score": 44,
+      "reasons": [
+        "Dragon sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Plaster Box",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "the sentence you started again",
+      "message": "Fifth run at that opening line. Close the laptop, try tomorrow."
+    },
+    {
+      "rank": 12,
+      "sign": "rooster",
+      "score": 42,
+      "reasons": [
+        "Rooster sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Gel Pen",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "a reply that should have come",
+      "message": "Nothing back yet. Quit checking, leave the phone in another room."
+    }
+  ]
+}
