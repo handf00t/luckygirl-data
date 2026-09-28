@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-27",
+  "version": 1,
+  "generatedAt": "2026-09-28T11:26:21.134Z",
+  "day": {
+    "animal": "rabbit",
+    "branch": "卯",
+    "headline": "A Rabbit day — Goat and Pig are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "pig",
+      "score": 89,
+      "reasons": [
+        "Pig and Rabbit share a triad — strong alignment today"
+      ],
+      "luckyItem": "Mini Flashlight",
+      "luckyColor": {
+        "name": "Charcoal",
+        "hex": "#3A3A3A"
+      },
+      "motif": "the show everyone finished",
+      "message": "Everyone's done and you're at zero. Start tonight, spoilers are circling."
+    },
+    {
+      "rank": 2,
+      "sign": "dragon",
+      "score": 87,
+      "reasons": [
+        "Dragon sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Arcade Prize",
+      "luckyColor": {
+        "name": "Silver",
+        "hex": "#C0C0C0"
+      },
+      "motif": "the receipt still in your pocket",
+      "message": "You kept the proof. Go return it before the window closes."
+    },
+    {
+      "rank": 3,
+      "sign": "rabbit",
+      "score": 75,
+      "reasons": [
+        "Rabbit's own day — your energy runs high"
+      ],
+      "luckyItem": "Silk Scrunchie",
+      "luckyColor": {
+        "name": "Pink",
+        "hex": "#E88BAE"
+      },
+      "motif": "a film paused for twenty minutes",
+      "message": "Frozen mid-scene for twenty minutes. Go press play, see it through."
+    },
+    {
+      "rank": 4,
+      "sign": "ox",
+      "score": 71,
+      "reasons": [
+        "Ox sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Wool Socks",
+      "luckyColor": {
+        "name": "Beige",
+        "hex": "#D9C7AE"
+      },
+      "motif": "a subscription forgotten",
+      "message": "You forgot you pay for that. Cancel before the next charge."
+    },
+    {
+      "rank": 5,
+      "sign": "monkey",
+      "score": 71,
+      "reasons": [
+        "Monkey sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Wall Poster",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "a bin that needs going out",
+      "message": "It's trash night and you know it. Do it before dinner."
+    },
+    {
+      "rank": 6,
+      "sign": "horse",
+      "score": 64,
+      "reasons": [
+        "Horse sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Picture Ledge",
+      "luckyColor": {
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
+      },
+      "motif": "the shared calendar",
+      "message": "Put tonight's plan on the shared calendar before someone double-books you."
+    },
+    {
+      "rank": 7,
+      "sign": "goat",
+      "score": 58,
+      "reasons": [
+        "Goat and Rabbit share a triad — strong alignment today"
+      ],
+      "luckyItem": "Knitting Needles",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "a zip that gave up",
+      "message": "That zipper's done catching. Safety pin it, carry on with today."
+    },
+    {
+      "rank": 8,
+      "sign": "dog",
+      "score": 56,
+      "reasons": [
+        "Dog pairs with Rabbit — a harmonious day"
+      ],
+      "luckyItem": "Photo Printer",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "something half explained",
+      "message": "You nodded like you followed it. Go ask for the rest."
+    },
+    {
+      "rank": 9,
+      "sign": "rat",
+      "score": 54,
+      "reasons": [
+        "Rat sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Marble Tray",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "the friend with terrible timing",
+      "message": "Her timing's never yours. Let today's message sit until morning."
+    },
+    {
+      "rank": 10,
+      "sign": "snake",
+      "score": 54,
+      "reasons": [
+        "Snake sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Silk Scarf",
+      "luckyColor": {
+        "name": "Gold",
+        "hex": "#D4A017"
+      },
+      "motif": "a silence that got long",
+      "message": "That thread went quiet weeks ago. Leave it quiet one more day."
+    },
+    {
+      "rank": 11,
+      "sign": "tiger",
+      "score": 42,
+      "reasons": [
+        "Tiger sits apart from Rabbit — the day is yours to steer"
+      ],
+      "luckyItem": "Matchbook",
+      "luckyColor": {
+        "name": "Denim Blue",
+        "hex": "#3F5C7A"
+      },
+      "motif": "the note in your own handwriting",
+      "message": "You can't read what past you meant. Not today's puzzle."
+    },
+    {
+      "rank": 12,
+      "sign": "rooster",
+      "score": 36,
+      "reasons": [
+        "Rooster opposes Rabbit — a day to take slowly"
+      ],
+      "luckyItem": "Knee Socks",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "a table for one",
+      "message": "Skip the solo dinner out. Eat at home, robe on."
+    }
+  ]
+}

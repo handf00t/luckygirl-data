@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-24",
+  "version": 1,
+  "generatedAt": "2026-09-28T11:23:45.474Z",
+  "day": {
+    "animal": "rat",
+    "branch": "子",
+    "headline": "A Rat day — Dragon and Monkey are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "tiger",
+      "score": 97,
+      "reasons": [
+        "Tiger sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Stylus Pen",
+      "luckyColor": {
+        "name": "Dark Red",
+        "hex": "#8B1A1A"
+      },
+      "motif": "an impulse buy on the way",
+      "message": "You already know what you want. Go back and get it."
+    },
+    {
+      "rank": 2,
+      "sign": "dragon",
+      "score": 97,
+      "reasons": [
+        "Dragon and Rat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Ballet Flats",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "the market on the way",
+      "message": "The market's right on your route. Stop in, buy whatever looks good."
+    },
+    {
+      "rank": 3,
+      "sign": "snake",
+      "score": 91,
+      "reasons": [
+        "Snake sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Fleece Pullover",
+      "luckyColor": {
+        "name": "Violet",
+        "hex": "#6A4C93"
+      },
+      "motif": "a podcast episode queued for weeks",
+      "message": "That episode's been queued since October. Press play on the drive."
+    },
+    {
+      "rank": 4,
+      "sign": "rat",
+      "score": 91,
+      "reasons": [
+        "Rat's own day — your energy runs high"
+      ],
+      "luckyItem": "Glass Tumbler",
+      "luckyColor": {
+        "name": "Rust",
+        "hex": "#A8502F"
+      },
+      "motif": "a song that gets you every time",
+      "message": "Put that song on before anything else today. Full volume."
+    },
+    {
+      "rank": 5,
+      "sign": "pig",
+      "score": 87,
+      "reasons": [
+        "Pig sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Sandal Strap",
+      "luckyColor": {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      "motif": "the final episode you are saving",
+      "message": "Quit saving the finale. Tonight, with something good to eat."
+    },
+    {
+      "rank": 6,
+      "sign": "rooster",
+      "score": 74,
+      "reasons": [
+        "Rooster sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Reading Pillow",
+      "luckyColor": {
+        "name": "Mint",
+        "hex": "#9FD9BE"
+      },
+      "motif": "the thing you scroll past",
+      "message": "You skim past it daily. Open it once, then decide."
+    },
+    {
+      "rank": 7,
+      "sign": "monkey",
+      "score": 72,
+      "reasons": [
+        "Monkey and Rat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Hand Cream",
+      "luckyColor": {
+        "name": "Silver",
+        "hex": "#C0C0C0"
+      },
+      "motif": "a mistake that improved it",
+      "message": "The slip-up made it better. Leave it exactly like that."
+    },
+    {
+      "rank": 8,
+      "sign": "ox",
+      "score": 70,
+      "reasons": [
+        "Ox pairs with Rat — a harmonious day"
+      ],
+      "luckyItem": "Puzzle Ring",
+      "luckyColor": {
+        "name": "Denim Blue",
+        "hex": "#3F5C7A"
+      },
+      "motif": "the subtitle you needed",
+      "message": "Subtitles on. Stop rewinding the same three seconds."
+    },
+    {
+      "rank": 9,
+      "sign": "dog",
+      "score": 68,
+      "reasons": [
+        "Dog sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Bath Salts",
+      "luckyColor": {
+        "name": "Coral",
+        "hex": "#E96B5A"
+      },
+      "motif": "a street you have never turned down",
+      "message": "That side street keeps. Take the way you already know."
+    },
+    {
+      "rank": 10,
+      "sign": "goat",
+      "score": 67,
+      "reasons": [
+        "Goat sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Egg Timer",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "a colour you keep buying",
+      "message": "You own it in six versions already. Skip the seventh."
+    },
+    {
+      "rank": 11,
+      "sign": "horse",
+      "score": 49,
+      "reasons": [
+        "Horse opposes Rat — a day to take slowly"
+      ],
+      "luckyItem": "Capo",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "the place with one thing worth ordering",
+      "message": "One good dish isn't worth the drive tonight. Stay put."
+    },
+    {
+      "rank": 12,
+      "sign": "rabbit",
+      "score": 46,
+      "reasons": [
+        "Rabbit sits apart from Rat — the day is yours to steer"
+      ],
+      "luckyItem": "Vinyl Record",
+      "luckyColor": {
+        "name": "Gray",
+        "hex": "#8A8A8A"
+      },
+      "motif": "a jar nearly empty",
+      "message": "One scrape left in there. It can wait till tomorrow."
+    }
+  ]
+}

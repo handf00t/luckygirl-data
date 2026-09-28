@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-22",
+  "version": 1,
+  "generatedAt": "2026-09-28T11:22:58.644Z",
+  "day": {
+    "animal": "dog",
+    "branch": "戌",
+    "headline": "A Dog day — Tiger and Horse are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "rabbit",
+      "score": 88,
+      "reasons": [
+        "Rabbit pairs with Dog — a harmonious day"
+      ],
+      "luckyItem": "Steel Thermos",
+      "luckyColor": {
+        "name": "Dark Green",
+        "hex": "#1F5C36"
+      },
+      "motif": "a tool you bought for one job",
+      "message": "You bought it for one job. Give it a second one."
+    },
+    {
+      "rank": 2,
+      "sign": "tiger",
+      "score": 85,
+      "reasons": [
+        "Tiger and Dog share a triad — strong alignment today"
+      ],
+      "luckyItem": "Incense Holder",
+      "luckyColor": {
+        "name": "Yellow",
+        "hex": "#F0C419"
+      },
+      "motif": "someone whose story you watched twice",
+      "message": "You watched their story twice. Just reply to it."
+    },
+    {
+      "rank": 3,
+      "sign": "snake",
+      "score": 77,
+      "reasons": [
+        "Snake sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Charm Necklace",
+      "luckyColor": {
+        "name": "Lemon",
+        "hex": "#F5E05A"
+      },
+      "motif": "a light switch that sticks",
+      "message": "That switch you have to jiggle. Deal with it this morning."
+    },
+    {
+      "rank": 4,
+      "sign": "goat",
+      "score": 74,
+      "reasons": [
+        "Goat sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Seed Packet",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "wind that ruins everything",
+      "message": "Everything's blowing sideways. Leave the hair alone, go anyway."
+    },
+    {
+      "rank": 5,
+      "sign": "ox",
+      "score": 74,
+      "reasons": [
+        "Ox sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Keyring Mirror",
+      "luckyColor": {
+        "name": "Silver",
+        "hex": "#C0C0C0"
+      },
+      "motif": "a Sunday evening",
+      "message": "Sunday evening's closing in. Set out tomorrow's clothes, then stop."
+    },
+    {
+      "rank": 6,
+      "sign": "rooster",
+      "score": 69,
+      "reasons": [
+        "Rooster sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Weighing Scale",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "an account made and abandoned",
+      "message": "You signed up and never went back. Close it, free the email."
+    },
+    {
+      "rank": 7,
+      "sign": "pig",
+      "score": 67,
+      "reasons": [
+        "Pig sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Umbrella Sleeve",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "the seat you always take",
+      "message": "Same corner, same seat. Take it, it's still working."
+    },
+    {
+      "rank": 8,
+      "sign": "horse",
+      "score": 65,
+      "reasons": [
+        "Horse and Dog share a triad — strong alignment today"
+      ],
+      "luckyItem": "Crochet Hook",
+      "luckyColor": {
+        "name": "Green",
+        "hex": "#2E8B4F"
+      },
+      "motif": "a note to self from March",
+      "message": "That note from March in your phone. Read it, then delete."
+    },
+    {
+      "rank": 9,
+      "sign": "monkey",
+      "score": 56,
+      "reasons": [
+        "Monkey sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Corner Booth",
+      "luckyColor": {
+        "name": "Pink",
+        "hex": "#E88BAE"
+      },
+      "motif": "the cheaper platform",
+      "message": "The cheaper one can wait for a day you care."
+    },
+    {
+      "rank": 10,
+      "sign": "dog",
+      "score": 54,
+      "reasons": [
+        "Dog's own day — your energy runs high"
+      ],
+      "luckyItem": "Floor Lamp",
+      "luckyColor": {
+        "name": "Red",
+        "hex": "#CC3333"
+      },
+      "motif": "a building being taken down",
+      "message": "The building's coming down. Watch a minute, then carry on."
+    },
+    {
+      "rank": 11,
+      "sign": "rat",
+      "score": 45,
+      "reasons": [
+        "Rat sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "New Shoelaces",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "a chair used as a shelf",
+      "message": "That chair's a shelf now. Let it keep the job."
+    },
+    {
+      "rank": 12,
+      "sign": "dragon",
+      "score": 45,
+      "reasons": [
+        "Dragon opposes Dog — a day to take slowly"
+      ],
+      "luckyItem": "Friendship Bracelet",
+      "luckyColor": {
+        "name": "Mint",
+        "hex": "#9FD9BE"
+      },
+      "motif": "someone worth introducing",
+      "message": "That introduction you keep meaning to make. Not tonight."
+    }
+  ]
+}

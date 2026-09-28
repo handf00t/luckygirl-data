@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-23",
+  "version": 1,
+  "generatedAt": "2026-09-28T11:23:26.122Z",
+  "day": {
+    "animal": "pig",
+    "branch": "亥",
+    "headline": "A Pig day — Rabbit and Goat are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "rabbit",
+      "score": 98,
+      "reasons": [
+        "Rabbit and Pig share a triad — strong alignment today"
+      ],
+      "luckyItem": "Peeler",
+      "luckyColor": {
+        "name": "Rust",
+        "hex": "#A8502F"
+      },
+      "motif": "the reference number you cannot find",
+      "message": "It's buried in some old email, not the folder. Dig now."
+    },
+    {
+      "rank": 2,
+      "sign": "rooster",
+      "score": 95,
+      "reasons": [
+        "Rooster sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Pocket Square",
+      "luckyColor": {
+        "name": "Violet",
+        "hex": "#6A4C93"
+      },
+      "motif": "a bag of clothes for donation",
+      "message": "Those clothes are riding around in your trunk again. Drop them today."
+    },
+    {
+      "rank": 3,
+      "sign": "dog",
+      "score": 88,
+      "reasons": [
+        "Dog sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Kalimba",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "someone who remembers everything",
+      "message": "She never forgets a detail. Ask her about the thing you half-remember."
+    },
+    {
+      "rank": 4,
+      "sign": "rat",
+      "score": 81,
+      "reasons": [
+        "Rat sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Comic Book",
+      "luckyColor": {
+        "name": "Light Pink",
+        "hex": "#F2B8CC"
+      },
+      "motif": "the screen time report",
+      "message": "That weekly number showed up. Take one hour back, starting now."
+    },
+    {
+      "rank": 5,
+      "sign": "ox",
+      "score": 79,
+      "reasons": [
+        "Ox sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Blue Pen",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "rain that was not forecast",
+      "message": "Nobody forecast this. Hood up, keep walking, you're already out."
+    },
+    {
+      "rank": 6,
+      "sign": "pig",
+      "score": 79,
+      "reasons": [
+        "Pig's own day — your energy runs high"
+      ],
+      "luckyItem": "Linen Curtain",
+      "luckyColor": {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      "motif": "the pillow on the wrong side",
+      "message": "You flipped it last night and it's wrong. Swap it back."
+    },
+    {
+      "rank": 7,
+      "sign": "monkey",
+      "score": 79,
+      "reasons": [
+        "Monkey sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Library Card",
+      "luckyColor": {
+        "name": "Turquoise",
+        "hex": "#3FBFBF"
+      },
+      "motif": "the last of the good bread",
+      "message": "Last of the good loaf. Toast it now, don't save it."
+    },
+    {
+      "rank": 8,
+      "sign": "dragon",
+      "score": 73,
+      "reasons": [
+        "Dragon sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Luggage Strap",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "something agreed to too quickly",
+      "message": "You said yes in a second. Ask one clarifying question today."
+    },
+    {
+      "rank": 9,
+      "sign": "goat",
+      "score": 69,
+      "reasons": [
+        "Goat and Pig share a triad — strong alignment today"
+      ],
+      "luckyItem": "Bar Coaster",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "a friend you keep meaning to see",
+      "message": "You're not seeing her today. Send a voice memo, leave it."
+    },
+    {
+      "rank": 10,
+      "sign": "snake",
+      "score": 61,
+      "reasons": [
+        "Snake opposes Pig — a day to take slowly"
+      ],
+      "luckyItem": "Lamp Shade",
+      "luckyColor": {
+        "name": "Mustard",
+        "hex": "#C9A227"
+      },
+      "motif": "the bank holiday nobody planned for",
+      "message": "Half the city's closed and nobody warned you. Perfect, stay in."
+    },
+    {
+      "rank": 11,
+      "sign": "tiger",
+      "score": 56,
+      "reasons": [
+        "Tiger pairs with Pig — a harmonious day"
+      ],
+      "luckyItem": "Slippers",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "a form with one confusing field",
+      "message": "One box makes no sense. Leave it blank until tomorrow."
+    },
+    {
+      "rank": 12,
+      "sign": "horse",
+      "score": 44,
+      "reasons": [
+        "Horse sits apart from Pig — the day is yours to steer"
+      ],
+      "luckyItem": "Pillowcase",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "something recommended by a stranger",
+      "message": "A stranger swore by it. Note it down, chase it later."
+    }
+  ]
+}

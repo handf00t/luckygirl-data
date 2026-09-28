@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-26",
+  "version": 1,
+  "generatedAt": "2026-09-28T11:25:13.286Z",
+  "day": {
+    "animal": "tiger",
+    "branch": "寅",
+    "headline": "A Tiger day — Horse and Dog are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "dog",
+      "score": 92,
+      "reasons": [
+        "Dog and Tiger share a triad — strong alignment today"
+      ],
+      "luckyItem": "Foot Cream",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "sleep you owe yourself",
+      "message": "Bed at nine tonight. Don't negotiate with yourself about it."
+    },
+    {
+      "rank": 2,
+      "sign": "pig",
+      "score": 92,
+      "reasons": [
+        "Pig pairs with Tiger — a harmonious day"
+      ],
+      "luckyItem": "Chess Piece",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "the mural half painted over",
+      "message": "They painted over half of it. Go see the rest today."
+    },
+    {
+      "rank": 3,
+      "sign": "rat",
+      "score": 75,
+      "reasons": [
+        "Rat sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Stopwatch",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "something you pretend to understand",
+      "message": "Admit you don't get it. Ask the dumb question out loud."
+    },
+    {
+      "rank": 4,
+      "sign": "rooster",
+      "score": 71,
+      "reasons": [
+        "Rooster sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Masking Tape",
+      "luckyColor": {
+        "name": "Pink",
+        "hex": "#E88BAE"
+      },
+      "motif": "sitting down to think and not thinking",
+      "message": "Nothing's arriving in that chair. Think while you're moving instead."
+    },
+    {
+      "rank": 5,
+      "sign": "tiger",
+      "score": 65,
+      "reasons": [
+        "Tiger's own day — your energy runs high"
+      ],
+      "luckyItem": "Speckled Bowl",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "the film at the top of the list",
+      "message": "Start it tonight, even if you're asleep by the middle."
+    },
+    {
+      "rank": 6,
+      "sign": "goat",
+      "score": 64,
+      "reasons": [
+        "Goat sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Eyelash Comb",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "a sky before rain",
+      "message": "That air means rain. Grab the jacket before you head out."
+    },
+    {
+      "rank": 7,
+      "sign": "dragon",
+      "score": 58,
+      "reasons": [
+        "Dragon sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Vintage Watch",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "the shared folder in chaos",
+      "message": "Make one folder that actually makes sense. That's enough for today."
+    },
+    {
+      "rank": 8,
+      "sign": "horse",
+      "score": 57,
+      "reasons": [
+        "Horse and Tiger share a triad — strong alignment today"
+      ],
+      "luckyItem": "Pin Badge",
+      "luckyColor": {
+        "name": "Teal",
+        "hex": "#2A6B6F"
+      },
+      "motif": "a word you keep misusing",
+      "message": "Look up what it actually means. Two minutes, then move on."
+    },
+    {
+      "rank": 9,
+      "sign": "rabbit",
+      "score": 50,
+      "reasons": [
+        "Rabbit sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Sun Hat",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "a bulb gone out",
+      "message": "One dead light in there. The other lamps are doing fine."
+    },
+    {
+      "rank": 10,
+      "sign": "ox",
+      "score": 49,
+      "reasons": [
+        "Ox sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Vintage Postcard",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "motif": "a promise made in passing",
+      "message": "That casual \"we should\" you tossed out. Nobody's counting today."
+    },
+    {
+      "rank": 11,
+      "sign": "snake",
+      "score": 49,
+      "reasons": [
+        "Snake sits apart from Tiger — the day is yours to steer"
+      ],
+      "luckyItem": "Bath Oil",
+      "luckyColor": {
+        "name": "Yellow",
+        "hex": "#F0C419"
+      },
+      "motif": "a Tuesday pretending to be Monday",
+      "message": "The week restarted itself somehow. Move at Sunday speed anyway."
+    },
+    {
+      "rank": 12,
+      "sign": "monkey",
+      "score": 44,
+      "reasons": [
+        "Monkey opposes Tiger — a day to take slowly"
+      ],
+      "luckyItem": "Yo-Yo",
+      "luckyColor": {
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
+      },
+      "motif": "someone easy to be quiet with",
+      "message": "Low-effort company tonight. Nobody has to say anything."
+    }
+  ]
+}
