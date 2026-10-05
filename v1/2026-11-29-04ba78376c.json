@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-29",
+  "version": 1,
+  "generatedAt": "2026-10-05T11:59:19.509Z",
+  "day": {
+    "animal": "snake",
+    "branch": "巳",
+    "headline": "A Snake day — Ox and Rooster are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "snake",
+      "score": 92,
+      "reasons": [
+        "Snake's own day — your energy runs high"
+      ],
+      "luckyItem": "Camera Strap",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "motif": "the friend who always says yes",
+      "message": "She's never once said no. Call her, make tonight happen."
+    },
+    {
+      "rank": 2,
+      "sign": "rooster",
+      "score": 90,
+      "reasons": [
+        "Rooster and Snake share a triad — strong alignment today"
+      ],
+      "luckyItem": "Bird Guide",
+      "luckyColor": {
+        "name": "Lemon",
+        "hex": "#F5E05A"
+      },
+      "motif": "a code sent to an old phone",
+      "message": "The code landed on your old phone. Go dig it out."
+    },
+    {
+      "rank": 3,
+      "sign": "monkey",
+      "score": 87,
+      "reasons": [
+        "Monkey pairs with Snake — a harmonious day"
+      ],
+      "luckyItem": "Mirror Wipe",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "the last carriage",
+      "message": "Keep walking to the last car. Room to stretch out."
+    },
+    {
+      "rank": 4,
+      "sign": "ox",
+      "score": 86,
+      "reasons": [
+        "Ox and Snake share a triad — strong alignment today"
+      ],
+      "luckyItem": "Folding Stool",
+      "luckyColor": {
+        "name": "Coral",
+        "hex": "#E96B5A"
+      },
+      "motif": "a dinner you offered to host",
+      "message": "You offered to host. Name the date today, before it drifts."
+    },
+    {
+      "rank": 5,
+      "sign": "pig",
+      "score": 76,
+      "reasons": [
+        "Pig opposes Snake — a day to take slowly"
+      ],
+      "luckyItem": "Tinted Balm",
+      "luckyColor": {
+        "name": "Violet",
+        "hex": "#6A4C93"
+      },
+      "motif": "a form still unsigned",
+      "message": "One signature between you and done. Handle it before lunch."
+    },
+    {
+      "rank": 6,
+      "sign": "rabbit",
+      "score": 72,
+      "reasons": [
+        "Rabbit sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Corkscrew",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "an early night",
+      "message": "Tell them you're out by ten. Then actually leave."
+    },
+    {
+      "rank": 7,
+      "sign": "dragon",
+      "score": 64,
+      "reasons": [
+        "Dragon sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Laptop Riser",
+      "luckyColor": {
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
+      },
+      "motif": "the second half of the day",
+      "message": "Morning's half gone. Put your one real task after lunch."
+    },
+    {
+      "rank": 8,
+      "sign": "horse",
+      "score": 55,
+      "reasons": [
+        "Horse sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Tea Light",
+      "luckyColor": {
+        "name": "Dark Green",
+        "hex": "#1F5C36"
+      },
+      "motif": "the corner shop nobody goes to",
+      "message": "That empty little shop you always pass. Go in, buy something."
+    },
+    {
+      "rank": 9,
+      "sign": "tiger",
+      "score": 50,
+      "reasons": [
+        "Tiger sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Trench Coat",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "the pharmacy on the corner",
+      "message": "Nothing on that pharmacy list is urgent. Tomorrow's fine."
+    },
+    {
+      "rank": 10,
+      "sign": "goat",
+      "score": 41,
+      "reasons": [
+        "Goat sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Cuticle Pusher",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "something you would make again",
+      "message": "You already know the one that works. Make that, nothing new."
+    },
+    {
+      "rank": 11,
+      "sign": "dog",
+      "score": 40,
+      "reasons": [
+        "Dog sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Paper Lantern",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "the follow-up you keep postponing",
+      "message": "The follow-up slides another day. Nothing collapses, it just waits."
+    },
+    {
+      "rank": 12,
+      "sign": "rat",
+      "score": 37,
+      "reasons": [
+        "Rat sits apart from Snake — the day is yours to steer"
+      ],
+      "luckyItem": "Travel Bottle",
+      "luckyColor": {
+        "name": "Lime",
+        "hex": "#8BC34A"
+      },
+      "motif": "the room after everyone leaves",
+      "message": "Everyone's gone and the room's wrecked. Leave it till morning."
+    }
+  ]
+}

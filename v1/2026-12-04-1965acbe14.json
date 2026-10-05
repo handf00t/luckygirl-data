@@ -1,0 +1,192 @@
+{
+  "date": "2026-12-04",
+  "version": 1,
+  "generatedAt": "2026-10-05T12:03:24.752Z",
+  "day": {
+    "animal": "dog",
+    "branch": "戌",
+    "headline": "A Dog day — Tiger and Horse are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "rat",
+      "score": 98,
+      "reasons": [
+        "Rat sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Linen Handkerchief",
+      "luckyColor": {
+        "name": "Denim Blue",
+        "hex": "#3F5C7A"
+      },
+      "motif": "the way you make tea",
+      "message": "Your tea ritual is absurd and perfect. Make a cup for someone."
+    },
+    {
+      "rank": 2,
+      "sign": "rooster",
+      "score": 94,
+      "reasons": [
+        "Rooster sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Rattan Basket",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "someone quoting you back",
+      "message": "Your line came out of someone else's mouth. Claim it, loudly."
+    },
+    {
+      "rank": 3,
+      "sign": "dog",
+      "score": 87,
+      "reasons": [
+        "Dog's own day — your energy runs high"
+      ],
+      "luckyItem": "Instant Camera",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "a morning that started badly",
+      "message": "Write off the first two hours. The day's still yours."
+    },
+    {
+      "rank": 4,
+      "sign": "dragon",
+      "score": 82,
+      "reasons": [
+        "Dragon opposes Dog — a day to take slowly"
+      ],
+      "luckyItem": "Wick Trimmer",
+      "luckyColor": {
+        "name": "Gray",
+        "hex": "#8A8A8A"
+      },
+      "motif": "a question you never looked up",
+      "message": "That thing you've wondered about for years. Look it up now."
+    },
+    {
+      "rank": 5,
+      "sign": "goat",
+      "score": 79,
+      "reasons": [
+        "Goat sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Scented Candle",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "motif": "someone doing better than expected",
+      "message": "Someone's thriving and you're surprised. Tell them, no qualifier attached."
+    },
+    {
+      "rank": 6,
+      "sign": "horse",
+      "score": 77,
+      "reasons": [
+        "Horse and Dog share a triad — strong alignment today"
+      ],
+      "luckyItem": "Foil Sticker",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "a heartbeat noticed at rest",
+      "message": "Felt your own pulse in the quiet. Sit with it a minute."
+    },
+    {
+      "rank": 7,
+      "sign": "snake",
+      "score": 61,
+      "reasons": [
+        "Snake sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Pen Pot",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "the cafe that got loud",
+      "message": "Your cafe turned into a bar. Take the cup and walk."
+    },
+    {
+      "rank": 8,
+      "sign": "tiger",
+      "score": 60,
+      "reasons": [
+        "Tiger and Dog share a triad — strong alignment today"
+      ],
+      "luckyItem": "Linen Tote",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "an exception that became the rule",
+      "message": "The one-time thing is daily now. Decide if you actually like it."
+    },
+    {
+      "rank": 9,
+      "sign": "rabbit",
+      "score": 59,
+      "reasons": [
+        "Rabbit pairs with Dog — a harmonious day"
+      ],
+      "luckyItem": "Clear Glasses",
+      "luckyColor": {
+        "name": "Coral",
+        "hex": "#E96B5A"
+      },
+      "motif": "a bed that needs stripping",
+      "message": "Sheets can wait one more night. Climb in, lights out early."
+    },
+    {
+      "rank": 10,
+      "sign": "pig",
+      "score": 58,
+      "reasons": [
+        "Pig sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Knit Headband",
+      "luckyColor": {
+        "name": "Yellow",
+        "hex": "#F0C419"
+      },
+      "motif": "the shirt that needs ironing",
+      "message": "No board, no steam today. Wear the thing that's already fine."
+    },
+    {
+      "rank": 11,
+      "sign": "monkey",
+      "score": 55,
+      "reasons": [
+        "Monkey sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Ribbed Beanie",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "the bin day you forget",
+      "message": "The truck's long gone. Those bags keep till next week, unbothered."
+    },
+    {
+      "rank": 12,
+      "sign": "ox",
+      "score": 43,
+      "reasons": [
+        "Ox sits apart from Dog — the day is yours to steer"
+      ],
+      "luckyItem": "Cufflinks",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "the walk that is faster than the bus",
+      "message": "Yes, you'd beat the bus on foot. Still, take the seat."
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "date": "2026-12-01",
+  "version": 1,
+  "generatedAt": "2026-10-05T12:00:39.230Z",
+  "day": {
+    "animal": "goat",
+    "branch": "未",
+    "headline": "A Goat day — Rabbit and Pig are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "horse",
+      "score": 96,
+      "reasons": [
+        "Horse pairs with Goat — a harmonious day"
+      ],
+      "luckyItem": "Cloakroom Ticket",
+      "luckyColor": {
+        "name": "Sky Blue",
+        "hex": "#7EC0EE"
+      },
+      "motif": "the search history you would not defend",
+      "message": "Your search history is unhinged and correct. Go act on it."
+    },
+    {
+      "rank": 2,
+      "sign": "tiger",
+      "score": 80,
+      "reasons": [
+        "Tiger sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Wrist Rest",
+      "luckyColor": {
+        "name": "Light Pink",
+        "hex": "#F2B8CC"
+      },
+      "motif": "five minutes early",
+      "message": "Get there five minutes early. Pick your seat, own the room."
+    },
+    {
+      "rank": 3,
+      "sign": "snake",
+      "score": 78,
+      "reasons": [
+        "Snake sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Coin Purse",
+      "luckyColor": {
+        "name": "Yellow",
+        "hex": "#F0C419"
+      },
+      "motif": "the shoes for standing all day",
+      "message": "Wear the ones you can stand in all day. Go everywhere."
+    },
+    {
+      "rank": 4,
+      "sign": "rabbit",
+      "score": 78,
+      "reasons": [
+        "Rabbit and Goat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Headphone Case",
+      "luckyColor": {
+        "name": "Dark Green",
+        "hex": "#1F5C36"
+      },
+      "motif": "something borrowed and never given back",
+      "message": "Ask for it back today. One line, no apology attached."
+    },
+    {
+      "rank": 5,
+      "sign": "goat",
+      "score": 77,
+      "reasons": [
+        "Goat's own day — your energy runs high"
+      ],
+      "luckyItem": "Toe Ring",
+      "luckyColor": {
+        "name": "Gold",
+        "hex": "#D4A017"
+      },
+      "motif": "a ring turned around",
+      "message": "Stone's spun into your palm again. Turn it face-out, go."
+    },
+    {
+      "rank": 6,
+      "sign": "pig",
+      "score": 71,
+      "reasons": [
+        "Pig and Goat share a triad — strong alignment today"
+      ],
+      "luckyItem": "Ankle Weight",
+      "luckyColor": {
+        "name": "Pink",
+        "hex": "#E88BAE"
+      },
+      "motif": "the last hour of the afternoon",
+      "message": "Last hour of the afternoon is yours. One small thing, done."
+    },
+    {
+      "rank": 7,
+      "sign": "dog",
+      "score": 64,
+      "reasons": [
+        "Dog sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Bluetooth Speaker",
+      "luckyColor": {
+        "name": "Blue",
+        "hex": "#2F6FD0"
+      },
+      "motif": "the alarm you did not need",
+      "message": "Awake before it went off. Delete that alarm, keep the later one."
+    },
+    {
+      "rank": 8,
+      "sign": "rat",
+      "score": 58,
+      "reasons": [
+        "Rat sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Tripod Mount",
+      "luckyColor": {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      "motif": "the yawn that will not finish",
+      "message": "Half a yawn all morning. Go stand outside for real air."
+    },
+    {
+      "rank": 9,
+      "sign": "monkey",
+      "score": 52,
+      "reasons": [
+        "Monkey sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Hiking Sock",
+      "luckyColor": {
+        "name": "Burgundy",
+        "hex": "#6E1B2E"
+      },
+      "motif": "a neighbour practising something",
+      "message": "Someone's practicing scales through the wall. Let them, stay in."
+    },
+    {
+      "rank": 10,
+      "sign": "dragon",
+      "score": 49,
+      "reasons": [
+        "Dragon sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Packing Cube",
+      "luckyColor": {
+        "name": "Red",
+        "hex": "#CC3333"
+      },
+      "motif": "a recipe halved badly",
+      "message": "The halving math failed. Eat it anyway, don't attempt round two."
+    },
+    {
+      "rank": 11,
+      "sign": "rooster",
+      "score": 44,
+      "reasons": [
+        "Rooster sits apart from Goat — the day is yours to steer"
+      ],
+      "luckyItem": "Slip Dress",
+      "luckyColor": {
+        "name": "Light Blue",
+        "hex": "#A8D4F0"
+      },
+      "motif": "a draft never sent",
+      "message": "Still sitting in drafts. Let it sit one more day."
+    },
+    {
+      "rank": 12,
+      "sign": "ox",
+      "score": 44,
+      "reasons": [
+        "Ox opposes Goat — a day to take slowly"
+      ],
+      "luckyItem": "Humidifier",
+      "luckyColor": {
+        "name": "Tan",
+        "hex": "#C4A484"
+      },
+      "motif": "a seat given up",
+      "message": "You stood so someone else could sit. Tonight, horizontal, no plans."
+    }
+  ]
+}

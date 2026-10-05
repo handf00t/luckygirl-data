@@ -1,0 +1,192 @@
+{
+  "date": "2026-12-02",
+  "version": 1,
+  "generatedAt": "2026-10-05T12:01:04.293Z",
+  "day": {
+    "animal": "monkey",
+    "branch": "申",
+    "headline": "A Monkey day — Rat and Dragon are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "dragon",
+      "score": 96,
+      "reasons": [
+        "Dragon and Monkey share a triad — strong alignment today"
+      ],
+      "luckyItem": "Drying Rack",
+      "luckyColor": {
+        "name": "Dark Red",
+        "hex": "#8B1A1A"
+      },
+      "motif": "a series you are only half watching",
+      "message": "Tonight, full attention, no second screen. You've missed half the plot."
+    },
+    {
+      "rank": 2,
+      "sign": "monkey",
+      "score": 79,
+      "reasons": [
+        "Monkey's own day — your energy runs high"
+      ],
+      "luckyItem": "Pocket Knife",
+      "luckyColor": {
+        "name": "Salmon",
+        "hex": "#EE8A76"
+      },
+      "motif": "a yes you have not said out loud",
+      "message": "You decided days ago. Tell them today, in actual words."
+    },
+    {
+      "rank": 3,
+      "sign": "horse",
+      "score": 73,
+      "reasons": [
+        "Horse sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "String Tag",
+      "luckyColor": {
+        "name": "Chocolate",
+        "hex": "#4A3728"
+      },
+      "motif": "the launderette",
+      "message": "Haul it down there this morning. Bring the good headphones."
+    },
+    {
+      "rank": 4,
+      "sign": "dog",
+      "score": 72,
+      "reasons": [
+        "Dog sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Page Tabs",
+      "luckyColor": {
+        "name": "Mint",
+        "hex": "#9FD9BE"
+      },
+      "motif": "the coffee order you always get",
+      "message": "Don't scan the board. Your usual, one size up."
+    },
+    {
+      "rank": 5,
+      "sign": "pig",
+      "score": 69,
+      "reasons": [
+        "Pig sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Napkin Ring",
+      "luckyColor": {
+        "name": "Navy",
+        "hex": "#23375E"
+      },
+      "motif": "a message drafted then deleted",
+      "message": "Type it again, shorter this time, then actually hit send."
+    },
+    {
+      "rank": 6,
+      "sign": "ox",
+      "score": 69,
+      "reasons": [
+        "Ox sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Cable Knit Scarf",
+      "luckyColor": {
+        "name": "Olive",
+        "hex": "#6B7233"
+      },
+      "motif": "a knot between the shoulders",
+      "message": "Tennis ball against the wall, five minutes. Nothing more elaborate."
+    },
+    {
+      "rank": 7,
+      "sign": "rat",
+      "score": 61,
+      "reasons": [
+        "Rat and Monkey share a triad — strong alignment today"
+      ],
+      "luckyItem": "Curling Wand",
+      "luckyColor": {
+        "name": "Hot Pink",
+        "hex": "#E5417F"
+      },
+      "motif": "an opinion you have not voiced",
+      "message": "Say it to one person first. See how it sounds."
+    },
+    {
+      "rank": 8,
+      "sign": "goat",
+      "score": 56,
+      "reasons": [
+        "Goat sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Ceramic Vase",
+      "luckyColor": {
+        "name": "Sage",
+        "hex": "#A3B59A"
+      },
+      "motif": "the good pen",
+      "message": "Use it on something boring today. It's not a relic."
+    },
+    {
+      "rank": 9,
+      "sign": "rabbit",
+      "score": 53,
+      "reasons": [
+        "Rabbit sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Lip Mask",
+      "luckyColor": {
+        "name": "Charcoal",
+        "hex": "#3A3A3A"
+      },
+      "motif": "the playlist for one task",
+      "message": "Put it on without the task. The task can wait."
+    },
+    {
+      "rank": 10,
+      "sign": "snake",
+      "score": 48,
+      "reasons": [
+        "Snake pairs with Monkey — a harmonious day"
+      ],
+      "luckyItem": "Medicine Tin",
+      "luckyColor": {
+        "name": "Lavender",
+        "hex": "#B9A2DB"
+      },
+      "motif": "a phone case falling apart",
+      "message": "Cracked corner, still holding. Don't go shopping for a replacement today."
+    },
+    {
+      "rank": 11,
+      "sign": "tiger",
+      "score": 41,
+      "reasons": [
+        "Tiger opposes Monkey — a day to take slowly"
+      ],
+      "luckyItem": "Flannel Shirt",
+      "luckyColor": {
+        "name": "Silver",
+        "hex": "#C0C0C0"
+      },
+      "motif": "hair doing something new",
+      "message": "It's doing its own thing. Clip it up, stay in."
+    },
+    {
+      "rank": 12,
+      "sign": "rooster",
+      "score": 36,
+      "reasons": [
+        "Rooster sits apart from Monkey — the day is yours to steer"
+      ],
+      "luckyItem": "Patch",
+      "luckyColor": {
+        "name": "Black",
+        "hex": "#1F1F1F"
+      },
+      "motif": "something glued twice already",
+      "message": "Third round of glue isn't happening today. Push it aside."
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-30",
+  "version": 1,
+  "generatedAt": "2026-10-05T11:59:45.258Z",
+  "day": {
+    "animal": "horse",
+    "branch": "午",
+    "headline": "A Horse day — Tiger and Dog are in step."
+  },
+  "signs": [
+    {
+      "rank": 1,
+      "sign": "goat",
+      "score": 98,
+      "reasons": [
+        "Goat pairs with Horse — a harmonious day"
+      ],
+      "luckyItem": "Emery Board",
+      "luckyColor": {
+        "name": "Coral",
+        "hex": "#E96B5A"
+      },
+      "motif": "the second screen while watching",
+      "message": "Pick one screen tonight. The show's good, let it be good."
+    },
+    {
+      "rank": 2,
+      "sign": "tiger",
+      "score": 89,
+      "reasons": [
+        "Tiger and Horse share a triad — strong alignment today"
+      ],
+      "luckyItem": "Bicycle Lock",
+      "luckyColor": {
+        "name": "Gray",
+        "hex": "#8A8A8A"
+      },
+      "motif": "the notification you turned off",
+      "message": "Switch it back on. You're not the person who muted it."
+    },
+    {
+      "rank": 3,
+      "sign": "dog",
+      "score": 78,
+      "reasons": [
+        "Dog and Horse share a triad — strong alignment today"
+      ],
+      "luckyItem": "Speckled Cup",
+      "luckyColor": {
+        "name": "Apricot",
+        "hex": "#F0A868"
+      },
+      "motif": "a laptop at four percent",
+      "message": "Plug in, then send the thing you've been sitting on."
+    },
+    {
+      "rank": 4,
+      "sign": "horse",
+      "score": 75,
+      "reasons": [
+        "Horse's own day — your energy runs high"
+      ],
+      "luckyItem": "Cable Sleeve",
+      "luckyColor": {
+        "name": "Green",
+        "hex": "#2E8B4F"
+      },
+      "motif": "the perfume saved for later",
+      "message": "Spray it for a Monday. Nothing coming deserves it more."
+    },
+    {
+      "rank": 5,
+      "sign": "rooster",
+      "score": 71,
+      "reasons": [
+        "Rooster sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Zip Folder",
+      "luckyColor": {
+        "name": "Mustard",
+        "hex": "#C9A227"
+      },
+      "motif": "something bought because it was reduced",
+      "message": "Tags still on the half-price thing. Wear it or rehome it."
+    },
+    {
+      "rank": 6,
+      "sign": "pig",
+      "score": 64,
+      "reasons": [
+        "Pig sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Dental Floss",
+      "luckyColor": {
+        "name": "Brown",
+        "hex": "#6B4A32"
+      },
+      "motif": "someone repeating themselves",
+      "message": "She's told you this twice already. Let her finish it anyway."
+    },
+    {
+      "rank": 7,
+      "sign": "ox",
+      "score": 58,
+      "reasons": [
+        "Ox sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Grater",
+      "luckyColor": {
+        "name": "Peach",
+        "hex": "#F5B78E"
+      },
+      "motif": "a shopping list left at home",
+      "message": "List's sitting on the kitchen counter. Get the four you remember."
+    },
+    {
+      "rank": 8,
+      "sign": "monkey",
+      "score": 49,
+      "reasons": [
+        "Monkey sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Vinyl Sleeve",
+      "luckyColor": {
+        "name": "Plum",
+        "hex": "#7A3B63"
+      },
+      "motif": "an album meant to be heard",
+      "message": "In order, start to finish. Shuffle ruins the entire point."
+    },
+    {
+      "rank": 9,
+      "sign": "rabbit",
+      "score": 49,
+      "reasons": [
+        "Rabbit sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Root Powder",
+      "luckyColor": {
+        "name": "Teal",
+        "hex": "#2A6B6F"
+      },
+      "motif": "warmth that arrives at four",
+      "message": "Four o'clock sun hits the balcony. Sit in it, do nothing."
+    },
+    {
+      "rank": 10,
+      "sign": "rat",
+      "score": 48,
+      "reasons": [
+        "Rat opposes Horse — a day to take slowly"
+      ],
+      "luckyItem": "Selfie Stick",
+      "luckyColor": {
+        "name": "Lemon",
+        "hex": "#F5E05A"
+      },
+      "motif": "the app opened without deciding to",
+      "message": "Your thumb got there first. Move the icon off your homescreen."
+    },
+    {
+      "rank": 11,
+      "sign": "dragon",
+      "score": 48,
+      "reasons": [
+        "Dragon sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Pressed Flower",
+      "luckyColor": {
+        "name": "Orange",
+        "hex": "#E8730C"
+      },
+      "motif": "the cheaper version that works fine",
+      "message": "The cheap one's worked for months. No upgrading today."
+    },
+    {
+      "rank": 12,
+      "sign": "snake",
+      "score": 42,
+      "reasons": [
+        "Snake sits apart from Horse — the day is yours to steer"
+      ],
+      "luckyItem": "Folding Chair",
+      "luckyColor": {
+        "name": "Lime",
+        "hex": "#8BC34A"
+      },
+      "motif": "a coat with something in the pocket",
+      "message": "There's something in that pocket. Let a future you find it."
+    }
+  ]
+}
